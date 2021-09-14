@@ -5,11 +5,11 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Models" />
+      <PackageReference Include="MRGRD56.JsonHttpClient" Version="1.1.0" />
     </ItemGroup>
 
     <ItemGroup>
-      <PackageReference Include="MRGRD56.JsonHttpClient" Version="1.0.0" />
+      <ProjectReference Include="..\EcoRoute.Common\EcoRoute.Common.csproj" />
     </ItemGroup>
 
 </Project>

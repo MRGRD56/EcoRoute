@@ -4,4 +4,18 @@
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\EcoRoute.Common\EcoRoute.Common.csproj" />
+      <ProjectReference Include="..\EcoRoute.MapBox.Interop\EcoRoute.MapBox.Interop.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.9" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Services" />
+    </ItemGroup>
+
 </Project>
