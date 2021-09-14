@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoRoute", "EcoRoute\EcoRou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoRoute.MapBox.Interop", "EcoRoute.MapBox.Interop\EcoRoute.MapBox.Interop.csproj", "{EB72C3C2-4FDF-4251-9C26-2619A05F5B25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoRoute.Common", "EcoRoute.Common\EcoRoute.Common.csproj", "{A705F8B7-AC18-4AD2-A194-FF7AE843E20D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{EB72C3C2-4FDF-4251-9C26-2619A05F5B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB72C3C2-4FDF-4251-9C26-2619A05F5B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB72C3C2-4FDF-4251-9C26-2619A05F5B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A705F8B7-AC18-4AD2-A194-FF7AE843E20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A705F8B7-AC18-4AD2-A194-FF7AE843E20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A705F8B7-AC18-4AD2-A194-FF7AE843E20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A705F8B7-AC18-4AD2-A194-FF7AE843E20D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
