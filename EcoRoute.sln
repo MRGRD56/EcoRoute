@@ -6,6 +6,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoRoute.MapBox.Interop", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoRoute.Common", "EcoRoute.Common\EcoRoute.Common.csproj", "{A705F8B7-AC18-4AD2-A194-FF7AE843E20D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoRoute.Data", "EcoRoute.Data\EcoRoute.Data.csproj", "{4419CCAF-A31D-43BC-9961-8FDD412BB135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoRoute.Infrastructure", "EcoRoute.Infrastructure\EcoRoute.Infrastructure.csproj", "{48EFCC73-B044-48B9-BD2D-8FF7589DBE50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoRoute.Database", "EcoRoute.Database\EcoRoute.Database.csproj", "{9800859A-C5BF-4766-B41B-78A6DB37A440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoRoute.Data.Parser", "EcoRoute.Data.Parser\EcoRoute.Data.Parser.csproj", "{B98A3460-065D-4E6A-B794-5CF2F7FA51B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentsConverter", "DocumentsConverter\DocumentsConverter.csproj", "{43B93F70-1AB3-4143-8A87-BB3211833935}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +34,29 @@ Global
 		{A705F8B7-AC18-4AD2-A194-FF7AE843E20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A705F8B7-AC18-4AD2-A194-FF7AE843E20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A705F8B7-AC18-4AD2-A194-FF7AE843E20D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4419CCAF-A31D-43BC-9961-8FDD412BB135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4419CCAF-A31D-43BC-9961-8FDD412BB135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4419CCAF-A31D-43BC-9961-8FDD412BB135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4419CCAF-A31D-43BC-9961-8FDD412BB135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48EFCC73-B044-48B9-BD2D-8FF7589DBE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EFCC73-B044-48B9-BD2D-8FF7589DBE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EFCC73-B044-48B9-BD2D-8FF7589DBE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EFCC73-B044-48B9-BD2D-8FF7589DBE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9800859A-C5BF-4766-B41B-78A6DB37A440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9800859A-C5BF-4766-B41B-78A6DB37A440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9800859A-C5BF-4766-B41B-78A6DB37A440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9800859A-C5BF-4766-B41B-78A6DB37A440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B98A3460-065D-4E6A-B794-5CF2F7FA51B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98A3460-065D-4E6A-B794-5CF2F7FA51B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98A3460-065D-4E6A-B794-5CF2F7FA51B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98A3460-065D-4E6A-B794-5CF2F7FA51B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D12F73B9-DB62-419A-A31C-74C03AE4EE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12F73B9-DB62-419A-A31C-74C03AE4EE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12F73B9-DB62-419A-A31C-74C03AE4EE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12F73B9-DB62-419A-A31C-74C03AE4EE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B93F70-1AB3-4143-8A87-BB3211833935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B93F70-1AB3-4143-8A87-BB3211833935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B93F70-1AB3-4143-8A87-BB3211833935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B93F70-1AB3-4143-8A87-BB3211833935}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

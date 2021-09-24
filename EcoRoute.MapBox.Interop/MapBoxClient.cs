@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
 using EcoRoute.Common.Extensions;
@@ -61,7 +59,8 @@ namespace EcoRoute.MapBox.Interop
 
         public async Task<JObject> GetDirectionsAsync(string profile, string coordinates)
         {
-            return await InvokeAsync<JObject>($"/directions/v5/{profile}/{coordinates}", queryString: "geometries=geojson");
+            return await InvokeAsync<JObject>($"/directions/v5/{profile}/{coordinates}", 
+                queryString: "geometries=geojson");
         }
     }
 }
