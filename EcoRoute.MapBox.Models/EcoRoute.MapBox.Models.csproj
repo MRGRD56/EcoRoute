@@ -5,12 +5,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="MRGRD56.JsonHttpClient" Version="1.1.0" />
-    </ItemGroup>
-
-    <ItemGroup>
       <ProjectReference Include="..\EcoRoute.Common\EcoRoute.Common.csproj" />
-      <ProjectReference Include="..\EcoRoute.MapBox.Models\EcoRoute.MapBox.Models.csproj" />
     </ItemGroup>
 
 </Project>

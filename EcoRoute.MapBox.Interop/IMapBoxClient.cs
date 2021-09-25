@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
-using EcoRoute.MapBox.Interop.Models;
+using EcoRoute.MapBox.Models;
 using Newtonsoft.Json.Linq;
 
 namespace EcoRoute.MapBox.Interop

@@ -1,4 +1,4 @@
-﻿namespace EcoRoute.MapBox.Interop.Models
+﻿namespace EcoRoute.MapBox.Models
 {
     public record Coordinates(
         string Longitude,

@@ -1,6 +1,6 @@
 ﻿using EcoRoute.Common.Attributes;
 
-namespace EcoRoute.MapBox.Interop.Models
+namespace EcoRoute.MapBox.Models
 {
     public enum RoutingProfile
     {

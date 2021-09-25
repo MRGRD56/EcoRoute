@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
 using EcoRoute.Common.Extensions;
-using EcoRoute.MapBox.Interop.Models;
+using EcoRoute.MapBox.Models;
 using Mrgrd56.JsonHttpClient;
 using Newtonsoft.Json.Linq;
 
