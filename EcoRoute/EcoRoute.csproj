@@ -18,7 +18,7 @@
 
     <ItemGroup>
       <Content Remove="Data\analyzed_data.json" />
-      <None Include="Data\analyzed_data.json" />
+      <None Include="Data\analyzed_data_old1.json" />
     </ItemGroup>
 
 </Project>

@@ -4,6 +4,6 @@
     {
         public Sensor Sensor { get; set; }
         
-        public Aqi Aqi { get; set; }
+        public SensorValues Values { get; set; }
     }
 }

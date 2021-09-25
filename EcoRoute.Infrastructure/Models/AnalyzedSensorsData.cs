@@ -45,10 +45,24 @@ namespace EcoRoute.Infrastructure.Models
                     .Select(g =>
                     {
                         var address = g.Key;
-                        var lastAverageAqi = g
+                        var newestData = g
                             .OrderBy(sd => sd.ChangeDate)
                             .TakeLast(50)
-                            .Average(sd => sd.Aqi);
+                            .ToList();
+                        
+                        var averageValues = new SensorValues
+                        {
+                            Aqi = newestData.Average(sd => sd.Aqi),
+                            Temperature = newestData.Average(sd => sd.Temperature),
+                            Humidity = newestData.Average(sd => sd.Humidity),
+                            Co2 = newestData.Average(sd => sd.Co2),
+                            Los = newestData.Average(sd => sd.Los),
+                            DustPm1 = newestData.Average(sd => sd.DustPm1),
+                            DustPm25 = newestData.Average(sd => sd.DustPm25),
+                            DustPm10 = newestData.Average(sd => sd.DustPm10),
+                            Pressure = newestData.Average(sd => sd.Pressure),
+                            Formaldehyde = newestData.Average(sd => sd.Formaldehyde)
+                        };
 
                         var sensorCoordinates = Sensor.FindCoordinatesAsync(address, openStreetMapClient)
                             .GetAwaiter().GetResult();
@@ -62,7 +76,7 @@ namespace EcoRoute.Infrastructure.Models
                         return new SensorGeoData
                         {
                             Sensor = sensor,
-                            Aqi = new Aqi(lastAverageAqi)
+                            Values = averageValues
                         };
                     })
                     .ToList();

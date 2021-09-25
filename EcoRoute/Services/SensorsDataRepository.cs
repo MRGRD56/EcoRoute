@@ -25,6 +25,8 @@ namespace EcoRoute.Services
             
             if (int.TryParse(id, out var numericId))
             {
+                if (numericId < 0) return null;
+                
                 return AnalyzedSensorsData.ElementAtOrDefault(numericId);
             }
 

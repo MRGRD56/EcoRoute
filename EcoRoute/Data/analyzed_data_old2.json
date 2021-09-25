@@ -1,0 +1,6455 @@
+[
+  {
+    "Street": "Набережная Тараса Шевченко",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Набережная Тараса Шевченко 1",
+          "Coordinates": {
+            "Latitude": "55.746778250000006",
+            "Longitude": "37.571722967402145"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8826,
+          "Humidity": 99.8422,
+          "Co2": 469.504,
+          "Los": 1.79708,
+          "DustPm1": 8.41,
+          "DustPm25": 10.93,
+          "DustPm10": 12.13,
+          "Pressure": 741.06,
+          "Aqi": 61.947502,
+          "Formaldehyde": 0.009939999
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Набережная Тараса Шевченко 2",
+          "Coordinates": { "Latitude": "55.7467696", "Longitude": "37.5727272" }
+        },
+        "Values": {
+          "Temperature": 11.8894005,
+          "Humidity": 99.9252,
+          "Co2": 469.014,
+          "Los": 1.7836,
+          "DustPm1": 8.382,
+          "DustPm25": 10.854,
+          "DustPm10": 12.106,
+          "Pressure": 740.84,
+          "Aqi": 61.15032,
+          "Formaldehyde": 0.01002
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Набережная Тараса Шевченко 3",
+          "Coordinates": {
+            "Latitude": "55.7486062",
+            "Longitude": "37.57204434714735"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8798,
+          "Humidity": 99.1844,
+          "Co2": 468.94598,
+          "Los": 1.80288,
+          "DustPm1": 8.34,
+          "DustPm25": 10.872,
+          "DustPm10": 12.042,
+          "Pressure": 741.0,
+          "Aqi": 61.58808,
+          "Formaldehyde": 0.0099599995
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Набережная Тараса Шевченко 4",
+          "Coordinates": { "Latitude": "55.7467696", "Longitude": "37.5727272" }
+        },
+        "Values": {
+          "Temperature": 11.8434,
+          "Humidity": 99.4816,
+          "Co2": 468.142,
+          "Los": 1.77896,
+          "DustPm1": 8.33,
+          "DustPm25": 10.82,
+          "DustPm10": 12.076,
+          "Pressure": 741.14,
+          "Aqi": 61.12508,
+          "Formaldehyde": 0.00998
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Набережная Тараса Шевченко 5",
+          "Coordinates": {
+            "Latitude": "55.74936645",
+            "Longitude": "37.57062428153115"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8438,
+          "Humidity": 99.1864,
+          "Co2": 467.284,
+          "Los": 1.8053,
+          "DustPm1": 8.32,
+          "DustPm25": 10.83,
+          "DustPm10": 11.998,
+          "Pressure": 740.88,
+          "Aqi": 61.00712,
+          "Formaldehyde": 0.009939999
+        }
+      }
+    ]
+  },
+  {
+    "Street": "1905 года улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "1905 года улица 1",
+          "Coordinates": {
+            "Latitude": "55.75764935",
+            "Longitude": "37.55800723181556"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8282,
+          "Humidity": 99.7602,
+          "Co2": 468.286,
+          "Los": 1.78258,
+          "DustPm1": 8.372,
+          "DustPm25": 10.826,
+          "DustPm10": 12.1,
+          "Pressure": 741.02,
+          "Aqi": 61.26712,
+          "Formaldehyde": 0.01002
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "1905 года улица 2",
+          "Coordinates": { "Latitude": "55.7548591", "Longitude": "37.5604535" }
+        },
+        "Values": {
+          "Temperature": 11.8874,
+          "Humidity": 99.1456,
+          "Co2": 467.894,
+          "Los": 1.78582,
+          "DustPm1": 8.3619995,
+          "DustPm25": 10.834,
+          "DustPm10": 11.866,
+          "Pressure": 741.06,
+          "Aqi": 61.21362,
+          "Formaldehyde": 0.01006
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "1905 года улица 3",
+          "Coordinates": {
+            "Latitude": "55.75831635",
+            "Longitude": "37.55782876989959"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8572,
+          "Humidity": 99.286,
+          "Co2": 467.05402,
+          "Los": 1.80806,
+          "DustPm1": 8.378,
+          "DustPm25": 10.874,
+          "DustPm10": 12.14,
+          "Pressure": 740.78,
+          "Aqi": 61.24144,
+          "Formaldehyde": 0.009939999
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "1905 года улица 4",
+          "Coordinates": {
+            "Latitude": "55.7652612",
+            "Longitude": "37.56154773919651"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8464,
+          "Humidity": 99.625,
+          "Co2": 468.272,
+          "Los": 1.78614,
+          "DustPm1": 8.388,
+          "DustPm25": 10.872,
+          "DustPm10": 12.14,
+          "Pressure": 741.24,
+          "Aqi": 61.91458,
+          "Formaldehyde": 0.00992
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Баррикадная улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Баррикадная улица 1",
+          "Coordinates": { "Latitude": "55.7597342", "Longitude": "37.5837457" }
+        },
+        "Values": {
+          "Temperature": 11.8466,
+          "Humidity": 99.0662,
+          "Co2": 466.668,
+          "Los": 1.80626,
+          "DustPm1": 8.372,
+          "DustPm25": 10.89,
+          "DustPm10": 12.03,
+          "Pressure": 741.12,
+          "Aqi": 61.23772,
+          "Formaldehyde": 0.0099599995
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Бережковская набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Бережковская набережная 1",
+          "Coordinates": { "Latitude": "55.7397067", "Longitude": "37.5642302" }
+        },
+        "Values": {
+          "Temperature": 11.8036,
+          "Humidity": 99.6014,
+          "Co2": 609.912,
+          "Los": 2.32506,
+          "DustPm1": 10.878,
+          "DustPm25": 14.1119995,
+          "DustPm10": 15.736,
+          "Pressure": 740.96,
+          "Aqi": 79.92502,
+          "Formaldehyde": 0.0129
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Бережковская набережная 2",
+          "Coordinates": { "Latitude": "55.7355449", "Longitude": "37.5619465" }
+        },
+        "Values": {
+          "Temperature": 11.7672,
+          "Humidity": 99.5484,
+          "Co2": 611.144,
+          "Los": 2.33058,
+          "DustPm1": 10.904,
+          "DustPm25": 14.04,
+          "DustPm10": 15.848,
+          "Pressure": 741.14,
+          "Aqi": 80.12464,
+          "Formaldehyde": 0.0131
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Бережковская набережная 3",
+          "Coordinates": { "Latitude": "55.7355449", "Longitude": "37.5619465" }
+        },
+        "Values": {
+          "Temperature": 11.892,
+          "Humidity": 99.2416,
+          "Co2": 611.998,
+          "Los": 2.34416,
+          "DustPm1": 10.866,
+          "DustPm25": 14.148,
+          "DustPm10": 15.742,
+          "Pressure": 741.02,
+          "Aqi": 79.8162,
+          "Formaldehyde": 0.01296
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Бережковская набережная 4",
+          "Coordinates": {
+            "Latitude": "55.740498849999994",
+            "Longitude": "37.56734355"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9158,
+          "Humidity": 99.466,
+          "Co2": 612.292,
+          "Los": 2.34776,
+          "DustPm1": 10.87,
+          "DustPm25": 14.16,
+          "DustPm10": 15.692,
+          "Pressure": 741.16,
+          "Aqi": 79.36566,
+          "Formaldehyde": 0.012920001
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Бережковская набережная 5",
+          "Coordinates": { "Latitude": "55.7355449", "Longitude": "37.5619465" }
+        },
+        "Values": {
+          "Temperature": 11.846,
+          "Humidity": 100.1394,
+          "Co2": 607.49,
+          "Los": 2.3474,
+          "DustPm1": 10.778,
+          "DustPm25": 14.096,
+          "DustPm10": 15.724,
+          "Pressure": 741.08,
+          "Aqi": 79.76258,
+          "Formaldehyde": 0.012920001
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Варшавское шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 1",
+          "Coordinates": {
+            "Latitude": "55.412037100000006",
+            "Longitude": "37.4819165"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8678,
+          "Humidity": 100.6384,
+          "Co2": 326.704,
+          "Los": 1.26546,
+          "DustPm1": 5.844,
+          "DustPm25": 7.618,
+          "DustPm10": 8.576,
+          "Pressure": 741.04,
+          "Aqi": 42.95138,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 10",
+          "Coordinates": { "Latitude": "55.6975947", "Longitude": "37.6197197" }
+        },
+        "Values": {
+          "Temperature": 11.8066,
+          "Humidity": 99.487404,
+          "Co2": 325.006,
+          "Los": 1.23924,
+          "DustPm1": 5.862,
+          "DustPm25": 7.5820003,
+          "DustPm10": 8.556,
+          "Pressure": 740.92,
+          "Aqi": 42.60074,
+          "Formaldehyde": 0.00704
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 11",
+          "Coordinates": {
+            "Latitude": "55.69999505",
+            "Longitude": "37.622260526734166"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7748,
+          "Humidity": 99.683,
+          "Co2": 327.676,
+          "Los": 1.23814,
+          "DustPm1": 5.896,
+          "DustPm25": 7.698,
+          "DustPm10": 8.432,
+          "Pressure": 741.04,
+          "Aqi": 43.0488,
+          "Formaldehyde": 0.00706
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 12",
+          "Coordinates": {
+            "Latitude": "55.696755499999995",
+            "Longitude": "37.61897679426794"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8772,
+          "Humidity": 99.2232,
+          "Co2": 326.952,
+          "Los": 1.2748001,
+          "DustPm1": 5.866,
+          "DustPm25": 7.6480002,
+          "DustPm10": 8.48,
+          "Pressure": 740.9,
+          "Aqi": 42.99786,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 13",
+          "Coordinates": {
+            "Latitude": "55.6992932",
+            "Longitude": "37.62116034660863"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8166,
+          "Humidity": 99.5408,
+          "Co2": 329.884,
+          "Los": 1.27002,
+          "DustPm1": 5.822,
+          "DustPm25": 7.586,
+          "DustPm10": 8.486,
+          "Pressure": 741.08,
+          "Aqi": 42.87158,
+          "Formaldehyde": 0.0069600004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 14",
+          "Coordinates": {
+            "Latitude": "55.402063150000004",
+            "Longitude": "37.453658419979334"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8414,
+          "Humidity": 99.928,
+          "Co2": 329.128,
+          "Los": 1.25542,
+          "DustPm1": 5.8780003,
+          "DustPm25": 7.528,
+          "DustPm10": 8.55,
+          "Pressure": 741.14,
+          "Aqi": 42.51068,
+          "Formaldehyde": 0.0070800004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 15",
+          "Coordinates": {
+            "Latitude": "55.69760985",
+            "Longitude": "37.621334921282575"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8184,
+          "Humidity": 99.3648,
+          "Co2": 328.388,
+          "Los": 1.24562,
+          "DustPm1": 5.978,
+          "DustPm25": 7.566,
+          "DustPm10": 8.566,
+          "Pressure": 741.0,
+          "Aqi": 42.5322,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 16",
+          "Coordinates": {
+            "Latitude": "55.693139",
+            "Longitude": "37.62079058883648"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9508,
+          "Humidity": 99.7018,
+          "Co2": 326.416,
+          "Los": 1.25714,
+          "DustPm1": 5.844,
+          "DustPm25": 7.568,
+          "DustPm10": 8.526,
+          "Pressure": 740.96,
+          "Aqi": 42.73418,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 17",
+          "Coordinates": {
+            "Latitude": "55.6971599",
+            "Longitude": "37.62251087363511"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9028,
+          "Humidity": 99.424,
+          "Co2": 325.47,
+          "Los": 1.28018,
+          "DustPm1": 5.91,
+          "DustPm25": 7.576,
+          "DustPm10": 8.484,
+          "Pressure": 741.02,
+          "Aqi": 43.23312,
+          "Formaldehyde": 0.00692
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 18",
+          "Coordinates": {
+            "Latitude": "55.401831099999995",
+            "Longitude": "37.45294675318302"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9242,
+          "Humidity": 100.122,
+          "Co2": 329.83,
+          "Los": 1.2724,
+          "DustPm1": 5.912,
+          "DustPm25": 7.644,
+          "DustPm10": 8.44,
+          "Pressure": 741.04,
+          "Aqi": 43.56952,
+          "Formaldehyde": 0.00692
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 19",
+          "Coordinates": {
+            "Latitude": "55.6963959",
+            "Longitude": "37.6219193573596"
+          }
+        },
+        "Values": {
+          "Temperature": 11.97,
+          "Humidity": 99.6834,
+          "Co2": 330.31,
+          "Los": 1.26976,
+          "DustPm1": 5.856,
+          "DustPm25": 7.578,
+          "DustPm10": 8.378,
+          "Pressure": 741.04,
+          "Aqi": 42.43064,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 2",
+          "Coordinates": {
+            "Latitude": "55.7004965",
+            "Longitude": "37.61914548993408"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8524,
+          "Humidity": 99.6648,
+          "Co2": 327.174,
+          "Los": 1.2565,
+          "DustPm1": 5.836,
+          "DustPm25": 7.67,
+          "DustPm10": 8.596,
+          "Pressure": 741.02,
+          "Aqi": 43.45348,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 20",
+          "Coordinates": {
+            "Latitude": "55.40172545",
+            "Longitude": "37.452578700000004"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8554,
+          "Humidity": 100.062,
+          "Co2": 328.49,
+          "Los": 1.28312,
+          "DustPm1": 5.9,
+          "DustPm25": 7.656,
+          "DustPm10": 8.436,
+          "Pressure": 740.82,
+          "Aqi": 42.87262,
+          "Formaldehyde": 0.00706
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 21",
+          "Coordinates": {
+            "Latitude": "55.695308749999995",
+            "Longitude": "37.622313665105054"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8904,
+          "Humidity": 100.16,
+          "Co2": 330.436,
+          "Los": 1.2821,
+          "DustPm1": 5.844,
+          "DustPm25": 7.6080003,
+          "DustPm10": 8.434,
+          "Pressure": 740.82,
+          "Aqi": 42.89382,
+          "Formaldehyde": 0.0070800004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 22",
+          "Coordinates": { "Latitude": "55.401617", "Longitude": "37.4522721" }
+        },
+        "Values": {
+          "Temperature": 11.7602,
+          "Humidity": 99.5262,
+          "Co2": 326.724,
+          "Los": 1.2463,
+          "DustPm1": 5.862,
+          "DustPm25": 7.608,
+          "DustPm10": 8.43,
+          "Pressure": 740.86,
+          "Aqi": 42.90706,
+          "Formaldehyde": 0.0070800004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 23",
+          "Coordinates": {
+            "Latitude": "55.69460625",
+            "Longitude": "37.622101739397806"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8362,
+          "Humidity": 99.985,
+          "Co2": 328.856,
+          "Los": 1.27318,
+          "DustPm1": 5.868,
+          "DustPm25": 7.59,
+          "DustPm10": 8.51,
+          "Pressure": 741.02,
+          "Aqi": 42.93838,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 24",
+          "Coordinates": {
+            "Latitude": "55.40146235",
+            "Longitude": "37.451821849673216"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8582,
+          "Humidity": 99.5396,
+          "Co2": 326.564,
+          "Los": 1.26372,
+          "DustPm1": 5.824,
+          "DustPm25": 7.582,
+          "DustPm10": 8.452,
+          "Pressure": 740.94,
+          "Aqi": 43.13924,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 25",
+          "Coordinates": {
+            "Latitude": "55.3866489",
+            "Longitude": "37.416115399999995"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9438,
+          "Humidity": 99.6202,
+          "Co2": 326.75,
+          "Los": 1.2594401,
+          "DustPm1": 5.848,
+          "DustPm25": 7.596,
+          "DustPm10": 8.516,
+          "Pressure": 741.02,
+          "Aqi": 43.15082,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 26",
+          "Coordinates": {
+            "Latitude": "55.68451075",
+            "Longitude": "37.62195414999999"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8092,
+          "Humidity": 100.2798,
+          "Co2": 327.582,
+          "Los": 1.24922,
+          "DustPm1": 5.794,
+          "DustPm25": 7.63,
+          "DustPm10": 8.468,
+          "Pressure": 741.02,
+          "Aqi": 43.0372,
+          "Formaldehyde": 0.0070800004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 27",
+          "Coordinates": {
+            "Latitude": "55.6935469",
+            "Longitude": "37.62204979839056"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8544,
+          "Humidity": 100.3208,
+          "Co2": 326.024,
+          "Los": 1.27448,
+          "DustPm1": 5.8780003,
+          "DustPm25": 7.518,
+          "DustPm10": 8.418,
+          "Pressure": 740.96,
+          "Aqi": 43.09442,
+          "Formaldehyde": 0.00692
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 28",
+          "Coordinates": {
+            "Latitude": "55.68095545",
+            "Longitude": "37.620241075011904"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8464,
+          "Humidity": 99.248,
+          "Co2": 327.67,
+          "Los": 1.2543,
+          "DustPm1": 5.8,
+          "DustPm25": 7.564,
+          "DustPm10": 8.45,
+          "Pressure": 740.92,
+          "Aqi": 43.28276,
+          "Formaldehyde": 0.00706
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 29",
+          "Coordinates": {
+            "Latitude": "55.6930739",
+            "Longitude": "37.622804014490654"
+          }
+        },
+        "Values": {
+          "Temperature": 11.894,
+          "Humidity": 99.7228,
+          "Co2": 327.346,
+          "Los": 1.2389,
+          "DustPm1": 5.84,
+          "DustPm25": 7.608,
+          "DustPm10": 8.438,
+          "Pressure": 740.92,
+          "Aqi": 42.94084,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 3",
+          "Coordinates": {
+            "Latitude": "55.702685",
+            "Longitude": "37.62276109568151"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8008,
+          "Humidity": 99.663,
+          "Co2": 330.018,
+          "Los": 1.2661,
+          "DustPm1": 5.914,
+          "DustPm25": 7.536,
+          "DustPm10": 8.496,
+          "Pressure": 741.1,
+          "Aqi": 42.51602,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 4",
+          "Coordinates": {
+            "Latitude": "55.699793",
+            "Longitude": "37.61943569983339"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7986,
+          "Humidity": 99.1506,
+          "Co2": 330.228,
+          "Los": 1.24744,
+          "DustPm1": 5.812,
+          "DustPm25": 7.568,
+          "DustPm10": 8.55,
+          "Pressure": 741.12,
+          "Aqi": 42.85934,
+          "Formaldehyde": 0.0069000004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 5",
+          "Coordinates": {
+            "Latitude": "55.70118825",
+            "Longitude": "37.622788669712094"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8544,
+          "Humidity": 99.689,
+          "Co2": 328.882,
+          "Los": 1.26964,
+          "DustPm1": 5.868,
+          "DustPm25": 7.556,
+          "DustPm10": 8.482,
+          "Pressure": 741.04,
+          "Aqi": 42.68202,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 6",
+          "Coordinates": {
+            "Latitude": "55.699559050000005",
+            "Longitude": "37.6194905284611"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7964,
+          "Humidity": 99.9018,
+          "Co2": 327.218,
+          "Los": 1.2467,
+          "DustPm1": 5.888,
+          "DustPm25": 7.578,
+          "DustPm10": 8.544,
+          "Pressure": 741.0,
+          "Aqi": 43.4517,
+          "Formaldehyde": 0.0071
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 7",
+          "Coordinates": { "Latitude": "55.7008602", "Longitude": "37.6220467" }
+        },
+        "Values": {
+          "Temperature": 11.8978,
+          "Humidity": 99.8806,
+          "Co2": 327.258,
+          "Los": 1.2659,
+          "DustPm1": 5.848,
+          "DustPm25": 7.718,
+          "DustPm10": 8.45,
+          "Pressure": 741.1,
+          "Aqi": 43.33888,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 8",
+          "Coordinates": {
+            "Latitude": "55.69922835",
+            "Longitude": "37.61913343444003"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8188,
+          "Humidity": 99.2974,
+          "Co2": 329.772,
+          "Los": 1.26412,
+          "DustPm1": 5.892,
+          "DustPm25": 7.572,
+          "DustPm10": 8.436,
+          "Pressure": 741.12,
+          "Aqi": 42.7574,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 9",
+          "Coordinates": { "Latitude": "55.7004621", "Longitude": "37.6215437" }
+        },
+        "Values": {
+          "Temperature": 11.8276,
+          "Humidity": 99.4872,
+          "Co2": 327.188,
+          "Los": 1.2753,
+          "DustPm1": 5.912,
+          "DustPm25": 7.548,
+          "DustPm10": 8.544,
+          "Pressure": 741.08,
+          "Aqi": 43.155,
+          "Formaldehyde": 0.0068200002
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Волгоградский проспект",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 1",
+          "Coordinates": { "Latitude": "55.7337857", "Longitude": "37.6700587" }
+        },
+        "Values": {
+          "Temperature": 11.783,
+          "Humidity": 100.0038,
+          "Co2": 324.83398,
+          "Los": 1.24714,
+          "DustPm1": 5.824,
+          "DustPm25": 7.618,
+          "DustPm10": 8.482,
+          "Pressure": 740.94,
+          "Aqi": 43.19054,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 10",
+          "Coordinates": {
+            "Latitude": "55.730139",
+            "Longitude": "37.67329457446872"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9316,
+          "Humidity": 99.1848,
+          "Co2": 328.512,
+          "Los": 1.26204,
+          "DustPm1": 5.866,
+          "DustPm25": 7.594,
+          "DustPm10": 8.372,
+          "Pressure": 741.06,
+          "Aqi": 43.3223,
+          "Formaldehyde": 0.00694
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 11",
+          "Coordinates": {
+            "Latitude": "55.7303898",
+            "Longitude": "37.67527014104574"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8336,
+          "Humidity": 100.0608,
+          "Co2": 330.138,
+          "Los": 1.24258,
+          "DustPm1": 5.9440002,
+          "DustPm25": 7.634,
+          "DustPm10": 8.388,
+          "Pressure": 741.02,
+          "Aqi": 42.5466,
+          "Formaldehyde": 0.00704
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 12",
+          "Coordinates": {
+            "Latitude": "55.729773249999994",
+            "Longitude": "37.67399616170056"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8949995,
+          "Humidity": 99.1676,
+          "Co2": 330.94,
+          "Los": 1.24428,
+          "DustPm1": 5.904,
+          "DustPm25": 7.608,
+          "DustPm10": 8.478,
+          "Pressure": 741.06,
+          "Aqi": 43.55424,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 13",
+          "Coordinates": {
+            "Latitude": "55.730044",
+            "Longitude": "37.676815779212724"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9248,
+          "Humidity": 99.3866,
+          "Co2": 327.674,
+          "Los": 1.2473,
+          "DustPm1": 5.862,
+          "DustPm25": 7.472,
+          "DustPm10": 8.52,
+          "Pressure": 740.78,
+          "Aqi": 42.3002,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 14",
+          "Coordinates": {
+            "Latitude": "55.72941525",
+            "Longitude": "37.67470168521516"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7898,
+          "Humidity": 100.285,
+          "Co2": 326.248,
+          "Los": 1.26224,
+          "DustPm1": 5.856,
+          "DustPm25": 7.616,
+          "DustPm10": 8.498,
+          "Pressure": 741.04,
+          "Aqi": 43.45802,
+          "Formaldehyde": 0.00704
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 15",
+          "Coordinates": {
+            "Latitude": "55.72930015",
+            "Longitude": "37.67747342465499"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9406,
+          "Humidity": 99.9444,
+          "Co2": 327.63,
+          "Los": 1.26552,
+          "DustPm1": 5.834,
+          "DustPm25": 7.648,
+          "DustPm10": 8.37,
+          "Pressure": 740.98,
+          "Aqi": 42.63996,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 16",
+          "Coordinates": { "Latitude": "55.7288223", "Longitude": "37.6759239" }
+        },
+        "Values": {
+          "Temperature": 11.8754,
+          "Humidity": 99.8022,
+          "Co2": 327.128,
+          "Los": 1.28364,
+          "DustPm1": 5.84,
+          "DustPm25": 7.608,
+          "DustPm10": 8.56,
+          "Pressure": 740.92,
+          "Aqi": 43.6602,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 17",
+          "Coordinates": { "Latitude": "55.728853", "Longitude": "37.6782191" }
+        },
+        "Values": {
+          "Temperature": 11.8028,
+          "Humidity": 99.96,
+          "Co2": 328.802,
+          "Los": 1.26788,
+          "DustPm1": 5.908,
+          "DustPm25": 7.614,
+          "DustPm10": 8.504,
+          "Pressure": 741.0,
+          "Aqi": 43.04586,
+          "Formaldehyde": 0.00704
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 18",
+          "Coordinates": {
+            "Latitude": "55.72852235",
+            "Longitude": "37.67647962979815"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8794,
+          "Humidity": 100.0012,
+          "Co2": 329.22202,
+          "Los": 1.2711,
+          "DustPm1": 5.842,
+          "DustPm25": 7.666,
+          "DustPm10": 8.33,
+          "Pressure": 741.06,
+          "Aqi": 43.48204,
+          "Formaldehyde": 0.00694
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 19",
+          "Coordinates": {
+            "Latitude": "55.70655755",
+            "Longitude": "37.74983585"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9402,
+          "Humidity": 99.2684,
+          "Co2": 328.508,
+          "Los": 1.25844,
+          "DustPm1": 5.816,
+          "DustPm25": 7.54,
+          "DustPm10": 8.518,
+          "Pressure": 741.16,
+          "Aqi": 43.3717,
+          "Formaldehyde": 0.0069600004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 2",
+          "Coordinates": { "Latitude": "55.731227", "Longitude": "37.6693585" }
+        },
+        "Values": {
+          "Temperature": 11.8638,
+          "Humidity": 99.9422,
+          "Co2": 328.902,
+          "Los": 1.26766,
+          "DustPm1": 5.882,
+          "DustPm25": 7.642,
+          "DustPm10": 8.488,
+          "Pressure": 740.96,
+          "Aqi": 43.02038,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 20",
+          "Coordinates": {
+            "Latitude": "55.7281603",
+            "Longitude": "37.677164960559566"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8676,
+          "Humidity": 99.905,
+          "Co2": 326.51,
+          "Los": 1.27868,
+          "DustPm1": 5.956,
+          "DustPm25": 7.522,
+          "DustPm10": 8.39,
+          "Pressure": 740.84,
+          "Aqi": 43.231,
+          "Formaldehyde": 0.00706
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 21",
+          "Coordinates": {
+            "Latitude": "55.7260376",
+            "Longitude": "37.68736705"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8416,
+          "Humidity": 98.9828,
+          "Co2": 328.574,
+          "Los": 1.28266,
+          "DustPm1": 5.88,
+          "DustPm25": 7.618,
+          "DustPm10": 8.39,
+          "Pressure": 741.06,
+          "Aqi": 42.9478,
+          "Formaldehyde": 0.00692
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 22",
+          "Coordinates": {
+            "Latitude": "55.727804",
+            "Longitude": "37.677899497500626"
+          }
+        },
+        "Values": {
+          "Temperature": 11.78,
+          "Humidity": 100.0622,
+          "Co2": 333.974,
+          "Los": 1.2547001,
+          "DustPm1": 5.822,
+          "DustPm25": 7.638,
+          "DustPm10": 8.422,
+          "Pressure": 740.82,
+          "Aqi": 43.09664,
+          "Formaldehyde": 0.0069600004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 23",
+          "Coordinates": { "Latitude": "55.7093675", "Longitude": "37.731305" }
+        },
+        "Values": {
+          "Temperature": 11.8768,
+          "Humidity": 99.844,
+          "Co2": 328.688,
+          "Los": 1.2577,
+          "DustPm1": 5.876,
+          "DustPm25": 7.578,
+          "DustPm10": 8.434,
+          "Pressure": 741.1,
+          "Aqi": 42.6362,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 3",
+          "Coordinates": {
+            "Latitude": "55.73232055",
+            "Longitude": "37.672214749999995"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8514,
+          "Humidity": 100.1584,
+          "Co2": 330.812,
+          "Los": 1.26794,
+          "DustPm1": 5.846,
+          "DustPm25": 7.6540003,
+          "DustPm10": 8.394,
+          "Pressure": 740.96,
+          "Aqi": 43.07292,
+          "Formaldehyde": 0.0070800004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 4",
+          "Coordinates": {
+            "Latitude": "55.73077675",
+            "Longitude": "37.66999669528296"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8392,
+          "Humidity": 100.0216,
+          "Co2": 321.332,
+          "Los": 1.24758,
+          "DustPm1": 5.878,
+          "DustPm25": 7.558,
+          "DustPm10": 8.454,
+          "Pressure": 740.82,
+          "Aqi": 43.16566,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 5",
+          "Coordinates": {
+            "Latitude": "55.73197265",
+            "Longitude": "37.6728335"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9052,
+          "Humidity": 100.0814,
+          "Co2": 331.096,
+          "Los": 1.27102,
+          "DustPm1": 5.802,
+          "DustPm25": 7.512,
+          "DustPm10": 8.58,
+          "Pressure": 740.96,
+          "Aqi": 43.709198,
+          "Formaldehyde": 0.0069600004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 6",
+          "Coordinates": {
+            "Latitude": "55.73067035",
+            "Longitude": "37.670884565193845"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8624,
+          "Humidity": 98.824,
+          "Co2": 325.244,
+          "Los": 1.25594,
+          "DustPm1": 5.89,
+          "DustPm25": 7.6940002,
+          "DustPm10": 8.4800005,
+          "Pressure": 740.92,
+          "Aqi": 42.90836,
+          "Formaldehyde": 0.0069600004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 7",
+          "Coordinates": {
+            "Latitude": "55.73150765",
+            "Longitude": "37.67401665733746"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8056,
+          "Humidity": 99.1806,
+          "Co2": 328.814,
+          "Los": 1.26386,
+          "DustPm1": 5.872,
+          "DustPm25": 7.622,
+          "DustPm10": 8.414,
+          "Pressure": 740.96,
+          "Aqi": 42.47894,
+          "Formaldehyde": 0.0069600004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 8",
+          "Coordinates": {
+            "Latitude": "55.7305841",
+            "Longitude": "37.672460173540074"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9136,
+          "Humidity": 99.5026,
+          "Co2": 331.98,
+          "Los": 1.2646,
+          "DustPm1": 5.83,
+          "DustPm25": 7.564,
+          "DustPm10": 8.504,
+          "Pressure": 741.0,
+          "Aqi": 43.18078,
+          "Formaldehyde": 0.0069600004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 9",
+          "Coordinates": { "Latitude": "55.7307554", "Longitude": "37.6744771" }
+        },
+        "Values": {
+          "Temperature": 11.8372,
+          "Humidity": 99.9068,
+          "Co2": 328.288,
+          "Los": 1.25582,
+          "DustPm1": 5.834,
+          "DustPm25": 7.59,
+          "DustPm10": 8.424,
+          "Pressure": 740.98,
+          "Aqi": 43.20412,
+          "Formaldehyde": 0.007
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Воробьёвская набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Воробьёвская набережная 1",
+          "Coordinates": { "Latitude": "55.7131667", "Longitude": "37.5433746" }
+        },
+        "Values": {
+          "Temperature": 11.9028,
+          "Humidity": 99.3228,
+          "Co2": 607.886,
+          "Los": 2.35366,
+          "DustPm1": 10.888,
+          "DustPm25": 14.114,
+          "DustPm10": 15.738,
+          "Pressure": 741.18,
+          "Aqi": 80.28254,
+          "Formaldehyde": 0.01294
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Воробьёвская набережная 2",
+          "Coordinates": { "Latitude": "55.7131667", "Longitude": "37.5433746" }
+        },
+        "Values": {
+          "Temperature": 11.8676,
+          "Humidity": 99.4626,
+          "Co2": 607.752,
+          "Los": 2.32614,
+          "DustPm1": 10.934,
+          "DustPm25": 14.1,
+          "DustPm10": 15.690001,
+          "Pressure": 740.96,
+          "Aqi": 79.53578,
+          "Formaldehyde": 0.013060001
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Воробьёвская набережная 3",
+          "Coordinates": { "Latitude": "55.7131667", "Longitude": "37.5433746" }
+        },
+        "Values": {
+          "Temperature": 11.8334,
+          "Humidity": 99.96,
+          "Co2": 609.052,
+          "Los": 2.34166,
+          "DustPm1": 10.844,
+          "DustPm25": 14.156,
+          "DustPm10": 15.746,
+          "Pressure": 740.94,
+          "Aqi": 80.0711,
+          "Formaldehyde": 0.013040001
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Воробьёвская набережная 4",
+          "Coordinates": { "Latitude": "55.7131667", "Longitude": "37.5433746" }
+        },
+        "Values": {
+          "Temperature": 11.8356,
+          "Humidity": 99.8462,
+          "Co2": 607.984,
+          "Los": 2.33056,
+          "DustPm1": 10.92,
+          "DustPm25": 14.044,
+          "DustPm10": 15.732,
+          "Pressure": 741.08,
+          "Aqi": 79.85276,
+          "Formaldehyde": 0.01302
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Воробьёвская набережная 5",
+          "Coordinates": { "Latitude": "55.7131667", "Longitude": "37.5433746" }
+        },
+        "Values": {
+          "Temperature": 11.9114,
+          "Humidity": 99.6198,
+          "Co2": 611.654,
+          "Los": 2.32764,
+          "DustPm1": 10.872,
+          "DustPm25": 14.08,
+          "DustPm10": 15.662,
+          "Pressure": 740.92,
+          "Aqi": 80.13736,
+          "Formaldehyde": 0.01314
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Воробьёвская набережная 6",
+          "Coordinates": { "Latitude": "55.7131667", "Longitude": "37.5433746" }
+        },
+        "Values": {
+          "Temperature": 11.8676,
+          "Humidity": 99.4662,
+          "Co2": 609.256,
+          "Los": 2.32198,
+          "DustPm1": 10.922,
+          "DustPm25": 14.07,
+          "DustPm10": 15.786,
+          "Pressure": 740.84,
+          "Aqi": 80.06592,
+          "Formaldehyde": 0.01298
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Госпитальная набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Госпитальная набережная 1",
+          "Coordinates": { "Latitude": "55.7738702", "Longitude": "37.6978725" }
+        },
+        "Values": {
+          "Temperature": 11.8496,
+          "Humidity": 99.4612,
+          "Co2": 467.05798,
+          "Los": 1.7952,
+          "DustPm1": 8.382,
+          "DustPm25": 10.88,
+          "DustPm10": 12.08,
+          "Pressure": 740.92,
+          "Aqi": 61.28128,
+          "Formaldehyde": 0.0099
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Дмитровское шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 1",
+          "Coordinates": {
+            "Latitude": "56.725557800000004",
+            "Longitude": "37.13703031254019"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8674,
+          "Humidity": 99.005,
+          "Co2": 325.566,
+          "Los": 1.26058,
+          "DustPm1": 5.874,
+          "DustPm25": 7.57,
+          "DustPm10": 8.47,
+          "Pressure": 740.96,
+          "Aqi": 43.61188,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 10",
+          "Coordinates": {
+            "Latitude": "56.7240566",
+            "Longitude": "37.13699455"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8812,
+          "Humidity": 99.166,
+          "Co2": 325.928,
+          "Los": 1.27098,
+          "DustPm1": 5.868,
+          "DustPm25": 7.526,
+          "DustPm10": 8.566,
+          "Pressure": 741.18,
+          "Aqi": 43.18044,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 11",
+          "Coordinates": {
+            "Latitude": "55.816464350000004",
+            "Longitude": "37.574733121875006"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8604,
+          "Humidity": 99.0658,
+          "Co2": 328.18,
+          "Los": 1.25828,
+          "DustPm1": 5.824,
+          "DustPm25": 7.544,
+          "DustPm10": 8.53,
+          "Pressure": 740.94,
+          "Aqi": 43.00216,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 12",
+          "Coordinates": {
+            "Latitude": "56.2857857",
+            "Longitude": "37.491301690747235"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7864,
+          "Humidity": 99.761,
+          "Co2": 325.298,
+          "Los": 1.2444,
+          "DustPm1": 5.89,
+          "DustPm25": 7.514,
+          "DustPm10": 8.43,
+          "Pressure": 741.0,
+          "Aqi": 43.28984,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 13",
+          "Coordinates": {
+            "Latitude": "55.81716315",
+            "Longitude": "37.572460440008356"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8788,
+          "Humidity": 100.1244,
+          "Co2": 330.036,
+          "Los": 1.24152,
+          "DustPm1": 5.838,
+          "DustPm25": 7.6940002,
+          "DustPm10": 8.496,
+          "Pressure": 741.18,
+          "Aqi": 43.29916,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 14",
+          "Coordinates": {
+            "Latitude": "55.825247450000006",
+            "Longitude": "37.57285217560143"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9542,
+          "Humidity": 98.9896,
+          "Co2": 326.948,
+          "Los": 1.26452,
+          "DustPm1": 5.91,
+          "DustPm25": 7.546,
+          "DustPm10": 8.464,
+          "Pressure": 740.98,
+          "Aqi": 42.92454,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 15",
+          "Coordinates": {
+            "Latitude": "55.8195633",
+            "Longitude": "37.572347334516124"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8838,
+          "Humidity": 99.445,
+          "Co2": 334.99,
+          "Los": 1.2683,
+          "DustPm1": 5.824,
+          "DustPm25": 7.588,
+          "DustPm10": 8.424,
+          "Pressure": 741.24,
+          "Aqi": 42.78014,
+          "Formaldehyde": 0.0070800004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 16",
+          "Coordinates": { "Latitude": "55.8265555", "Longitude": "37.5732115" }
+        },
+        "Values": {
+          "Temperature": 11.8156,
+          "Humidity": 99.6492,
+          "Co2": 327.312,
+          "Los": 1.2771,
+          "DustPm1": 5.938,
+          "DustPm25": 7.626,
+          "DustPm10": 8.536,
+          "Pressure": 741.26,
+          "Aqi": 42.8649,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 17",
+          "Coordinates": { "Latitude": "55.8208943", "Longitude": "37.572972" }
+        },
+        "Values": {
+          "Temperature": 11.8248005,
+          "Humidity": 100.1994,
+          "Co2": 325.552,
+          "Los": 1.2605801,
+          "DustPm1": 5.812,
+          "DustPm25": 7.624,
+          "DustPm10": 8.468,
+          "Pressure": 741.02,
+          "Aqi": 43.26614,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 18",
+          "Coordinates": { "Latitude": "56.127093", "Longitude": "37.51032465" }
+        },
+        "Values": {
+          "Temperature": 11.8736,
+          "Humidity": 99.9604,
+          "Co2": 331.042,
+          "Los": 1.2628601,
+          "DustPm1": 5.864,
+          "DustPm25": 7.592,
+          "DustPm10": 8.474,
+          "Pressure": 741.24,
+          "Aqi": 43.24954,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 19",
+          "Coordinates": {
+            "Latitude": "55.98978315",
+            "Longitude": "37.5308381"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7772,
+          "Humidity": 99.9254,
+          "Co2": 330.964,
+          "Los": 1.27554,
+          "DustPm1": 5.8580003,
+          "DustPm25": 7.6280003,
+          "DustPm10": 8.452,
+          "Pressure": 741.1,
+          "Aqi": 42.59886,
+          "Formaldehyde": 0.00704
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 2",
+          "Coordinates": {
+            "Latitude": "55.8093576",
+            "Longitude": "37.582099216757484"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8768,
+          "Humidity": 99.8806,
+          "Co2": 330.062,
+          "Los": 1.26738,
+          "DustPm1": 5.794,
+          "DustPm25": 7.578,
+          "DustPm10": 8.506,
+          "Pressure": 741.06,
+          "Aqi": 43.77064,
+          "Formaldehyde": 0.00704
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 20",
+          "Coordinates": { "Latitude": "55.9220099", "Longitude": "37.5449771" }
+        },
+        "Values": {
+          "Temperature": 11.8486,
+          "Humidity": 100.078,
+          "Co2": 326.754,
+          "Los": 1.24584,
+          "DustPm1": 5.776,
+          "DustPm25": 7.534,
+          "DustPm10": 8.376,
+          "Pressure": 741.12,
+          "Aqi": 42.30846,
+          "Formaldehyde": 0.0069600004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 21",
+          "Coordinates": {
+            "Latitude": "55.8222504",
+            "Longitude": "37.571806026429456"
+          }
+        },
+        "Values": {
+          "Temperature": 11.952,
+          "Humidity": 99.9756,
+          "Co2": 326.458,
+          "Los": 1.2598,
+          "DustPm1": 5.85,
+          "DustPm25": 7.496,
+          "DustPm10": 8.424,
+          "Pressure": 741.1,
+          "Aqi": 43.1695,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 22",
+          "Coordinates": {
+            "Latitude": "56.126985149999996",
+            "Longitude": "37.50850154477616"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8634,
+          "Humidity": 99.6632,
+          "Co2": 330.432,
+          "Los": 1.27564,
+          "DustPm1": 5.908,
+          "DustPm25": 7.716,
+          "DustPm10": 8.5460005,
+          "Pressure": 741.08,
+          "Aqi": 43.27222,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 23",
+          "Coordinates": {
+            "Latitude": "56.417844849999994",
+            "Longitude": "37.468653200000006"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8682,
+          "Humidity": 99.8046,
+          "Co2": 326.038,
+          "Los": 1.24876,
+          "DustPm1": 5.828,
+          "DustPm25": 7.558,
+          "DustPm10": 8.512,
+          "Pressure": 741.12,
+          "Aqi": 42.55324,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 3",
+          "Coordinates": {
+            "Latitude": "56.4285345",
+            "Longitude": "37.465656551579464"
+          }
+        },
+        "Values": {
+          "Temperature": 11.899,
+          "Humidity": 100.2638,
+          "Co2": 326.376,
+          "Los": 1.28904,
+          "DustPm1": 5.812,
+          "DustPm25": 7.562,
+          "DustPm10": 8.4539995,
+          "Pressure": 740.9,
+          "Aqi": 43.44424,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 4",
+          "Coordinates": { "Latitude": "56.7282043", "Longitude": "37.1346727" }
+        },
+        "Values": {
+          "Temperature": 11.7822,
+          "Humidity": 100.0074,
+          "Co2": 331.006,
+          "Los": 1.24898,
+          "DustPm1": 5.86,
+          "DustPm25": 7.648,
+          "DustPm10": 8.498,
+          "Pressure": 740.86,
+          "Aqi": 43.49978,
+          "Formaldehyde": 0.00706
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 5",
+          "Coordinates": { "Latitude": "55.9883241", "Longitude": "37.53019" }
+        },
+        "Values": {
+          "Temperature": 11.7698,
+          "Humidity": 100.2392,
+          "Co2": 331.266,
+          "Los": 1.24688,
+          "DustPm1": 5.784,
+          "DustPm25": 7.594,
+          "DustPm10": 8.378,
+          "Pressure": 741.08,
+          "Aqi": 43.00292,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 6",
+          "Coordinates": {
+            "Latitude": "56.43177015",
+            "Longitude": "37.4663229"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8718,
+          "Humidity": 99.4014,
+          "Co2": 328.088,
+          "Los": 1.25842,
+          "DustPm1": 5.844,
+          "DustPm25": 7.502,
+          "DustPm10": 8.574,
+          "Pressure": 741.12,
+          "Aqi": 43.55716,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 7",
+          "Coordinates": {
+            "Latitude": "56.63261645",
+            "Longitude": "37.29392400716192"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7998,
+          "Humidity": 99.3454,
+          "Co2": 325.736,
+          "Los": 1.24678,
+          "DustPm1": 5.892,
+          "DustPm25": 7.652,
+          "DustPm10": 8.466,
+          "Pressure": 741.1,
+          "Aqi": 43.25776,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 8",
+          "Coordinates": {
+            "Latitude": "56.419708299999996",
+            "Longitude": "37.46692850000001"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8186,
+          "Humidity": 99.5668,
+          "Co2": 327.05402,
+          "Los": 1.24808,
+          "DustPm1": 5.816,
+          "DustPm25": 7.68,
+          "DustPm10": 8.5,
+          "Pressure": 741.04,
+          "Aqi": 43.43436,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 9",
+          "Coordinates": {
+            "Latitude": "55.8151756",
+            "Longitude": "37.57565188741496"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8488,
+          "Humidity": 99.5426,
+          "Co2": 328.252,
+          "Los": 1.27384,
+          "DustPm1": 5.818,
+          "DustPm25": 7.56,
+          "DustPm10": 8.456,
+          "Pressure": 741.24,
+          "Aqi": 43.3248,
+          "Formaldehyde": 0.00704
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Звенигородское шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 1",
+          "Coordinates": { "Latitude": "55.7716773", "Longitude": "37.4972888" }
+        },
+        "Values": {
+          "Temperature": 11.8576,
+          "Humidity": 99.2866,
+          "Co2": 324.702,
+          "Los": 1.26574,
+          "DustPm1": 5.882,
+          "DustPm25": 7.584,
+          "DustPm10": 8.548,
+          "Pressure": 740.84,
+          "Aqi": 43.3709,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 2",
+          "Coordinates": {
+            "Latitude": "55.764234349999995",
+            "Longitude": "37.559114677217295"
+          }
+        },
+        "Values": {
+          "Temperature": 11.896,
+          "Humidity": 99.6848,
+          "Co2": 327.428,
+          "Los": 1.2539,
+          "DustPm1": 5.938,
+          "DustPm25": 7.552,
+          "DustPm10": 8.552,
+          "Pressure": 740.9,
+          "Aqi": 43.0837,
+          "Formaldehyde": 0.00694
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 3",
+          "Coordinates": { "Latitude": "55.7716773", "Longitude": "37.4972888" }
+        },
+        "Values": {
+          "Temperature": 11.8084,
+          "Humidity": 100.4992,
+          "Co2": 324.226,
+          "Los": 1.25432,
+          "DustPm1": 5.896,
+          "DustPm25": 7.646,
+          "DustPm10": 8.412,
+          "Pressure": 741.08,
+          "Aqi": 42.9963,
+          "Formaldehyde": 0.0071400004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 4",
+          "Coordinates": { "Latitude": "55.7640491", "Longitude": "37.5576914" }
+        },
+        "Values": {
+          "Temperature": 11.7446,
+          "Humidity": 98.6276,
+          "Co2": 326.356,
+          "Los": 1.24932,
+          "DustPm1": 5.856,
+          "DustPm25": 7.62,
+          "DustPm10": 8.474,
+          "Pressure": 740.88,
+          "Aqi": 43.40868,
+          "Formaldehyde": 0.00704
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 5",
+          "Coordinates": {
+            "Latitude": "55.763686250000006",
+            "Longitude": "37.55391020283535"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8904,
+          "Humidity": 99.6442,
+          "Co2": 329.068,
+          "Los": 1.24686,
+          "DustPm1": 5.7799997,
+          "DustPm25": 7.548,
+          "DustPm10": 8.56,
+          "Pressure": 741.14,
+          "Aqi": 43.0724,
+          "Formaldehyde": 0.00706
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 6",
+          "Coordinates": { "Latitude": "55.7716773", "Longitude": "37.4972888" }
+        },
+        "Values": {
+          "Temperature": 11.9,
+          "Humidity": 99.565,
+          "Co2": 327.386,
+          "Los": 1.27238,
+          "DustPm1": 5.872,
+          "DustPm25": 7.498,
+          "DustPm10": 8.36,
+          "Pressure": 740.96,
+          "Aqi": 43.06746,
+          "Formaldehyde": 0.0068800002
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 7",
+          "Coordinates": {
+            "Latitude": "55.7639105",
+            "Longitude": "37.552774196140945"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8416,
+          "Humidity": 99.7186,
+          "Co2": 328.574,
+          "Los": 1.27502,
+          "DustPm1": 5.902,
+          "DustPm25": 7.59,
+          "DustPm10": 8.556,
+          "Pressure": 740.92,
+          "Aqi": 43.12844,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 8",
+          "Coordinates": { "Latitude": "55.7716773", "Longitude": "37.4972888" }
+        },
+        "Values": {
+          "Temperature": 11.8314,
+          "Humidity": 100.079,
+          "Co2": 329.98,
+          "Los": 1.26938,
+          "DustPm1": 5.8,
+          "DustPm25": 7.698,
+          "DustPm10": 8.416,
+          "Pressure": 740.84,
+          "Aqi": 43.67884,
+          "Formaldehyde": 0.00704
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Каширское шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 1",
+          "Coordinates": {
+            "Latitude": "55.453975099999994",
+            "Longitude": "37.7614538"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8438,
+          "Humidity": 100.2998,
+          "Co2": 236.842,
+          "Los": 0.91043997,
+          "DustPm1": 4.132,
+          "DustPm25": 5.482,
+          "DustPm10": 6.076,
+          "Pressure": 740.94,
+          "Aqi": 30.85444,
+          "Formaldehyde": 0.005
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 10",
+          "Coordinates": {
+            "Latitude": "55.36880805",
+            "Longitude": "37.79062520000001"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8954,
+          "Humidity": 99.8826,
+          "Co2": 231.008,
+          "Los": 0.90172,
+          "DustPm1": 4.198,
+          "DustPm25": 5.438,
+          "DustPm10": 5.976,
+          "Pressure": 741.26,
+          "Aqi": 30.80996,
+          "Formaldehyde": 0.00502
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 11",
+          "Coordinates": {
+            "Latitude": "55.368827800000005",
+            "Longitude": "37.79116945"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9618,
+          "Humidity": 100.1014,
+          "Co2": 230.89,
+          "Los": 0.90976,
+          "DustPm1": 4.148,
+          "DustPm25": 5.52,
+          "DustPm10": 6.028,
+          "Pressure": 740.96,
+          "Aqi": 30.86994,
+          "Formaldehyde": 0.005
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 12",
+          "Coordinates": {
+            "Latitude": "55.66445495",
+            "Longitude": "37.62727479725792"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8544,
+          "Humidity": 99.4628,
+          "Co2": 234.772,
+          "Los": 0.89172,
+          "DustPm1": 4.2,
+          "DustPm25": 5.416,
+          "DustPm10": 6.1,
+          "Pressure": 740.86,
+          "Aqi": 30.7249,
+          "Formaldehyde": 0.0048599998
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 13",
+          "Coordinates": {
+            "Latitude": "55.446978599999994",
+            "Longitude": "37.76546077349982"
+          }
+        },
+        "Values": {
+          "Temperature": 11.839,
+          "Humidity": 99.9432,
+          "Co2": 234.65,
+          "Los": 0.89286,
+          "DustPm1": 4.218,
+          "DustPm25": 5.388,
+          "DustPm10": 6.018,
+          "Pressure": 741.08,
+          "Aqi": 30.55698,
+          "Formaldehyde": 0.00508
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 14",
+          "Coordinates": { "Latitude": "55.6646776", "Longitude": "37.6270492" }
+        },
+        "Values": {
+          "Temperature": 11.8094,
+          "Humidity": 100.1054,
+          "Co2": 235.608,
+          "Los": 0.89784,
+          "DustPm1": 4.188,
+          "DustPm25": 5.426,
+          "DustPm10": 5.994,
+          "Pressure": 740.98,
+          "Aqi": 30.96962,
+          "Formaldehyde": 0.00508
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 15",
+          "Coordinates": {
+            "Latitude": "55.66616545",
+            "Longitude": "37.630554321479885"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8514,
+          "Humidity": 99.8854,
+          "Co2": 233.764,
+          "Los": 0.89366,
+          "DustPm1": 4.21,
+          "DustPm25": 5.336,
+          "DustPm10": 6.046,
+          "Pressure": 740.9,
+          "Aqi": 30.96794,
+          "Formaldehyde": 0.00496
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 16",
+          "Coordinates": {
+            "Latitude": "55.6618537",
+            "Longitude": "37.632205770754055"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8672,
+          "Humidity": 99.9634,
+          "Co2": 237.15399,
+          "Los": 0.90228,
+          "DustPm1": 4.188,
+          "DustPm25": 5.404,
+          "DustPm10": 6.042,
+          "Pressure": 741.02,
+          "Aqi": 30.73024,
+          "Formaldehyde": 0.005
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 17",
+          "Coordinates": {
+            "Latitude": "55.44407565",
+            "Longitude": "37.76688786508953"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9,
+          "Humidity": 99.3048,
+          "Co2": 235.45,
+          "Los": 0.91602,
+          "DustPm1": 4.092,
+          "DustPm25": 5.412,
+          "DustPm10": 6.028,
+          "Pressure": 740.94,
+          "Aqi": 31.41202,
+          "Formaldehyde": 0.00502
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 18",
+          "Coordinates": {
+            "Latitude": "55.660315600000004",
+            "Longitude": "37.63380277403101"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8442,
+          "Humidity": 99.5408,
+          "Co2": 232.524,
+          "Los": 0.87012,
+          "DustPm1": 4.208,
+          "DustPm25": 5.472,
+          "DustPm10": 6.1019998,
+          "Pressure": 740.96,
+          "Aqi": 30.46226,
+          "Formaldehyde": 0.00508
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 19",
+          "Coordinates": {
+            "Latitude": "55.443951549999994",
+            "Longitude": "37.76624702653627"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8976,
+          "Humidity": 99.842,
+          "Co2": 231.892,
+          "Los": 0.88384,
+          "DustPm1": 4.186,
+          "DustPm25": 5.446,
+          "DustPm10": 6.01,
+          "Pressure": 741.14,
+          "Aqi": 30.78126,
+          "Formaldehyde": 0.0050999997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 2",
+          "Coordinates": {
+            "Latitude": "55.4633317",
+            "Longitude": "37.75324230239809"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8448,
+          "Humidity": 99.506,
+          "Co2": 235.97,
+          "Los": 0.91296,
+          "DustPm1": 4.218,
+          "DustPm25": 5.466,
+          "DustPm10": 6.188,
+          "Pressure": 741.02,
+          "Aqi": 30.53948,
+          "Formaldehyde": 0.005
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 20",
+          "Coordinates": {
+            "Latitude": "55.36750395",
+            "Longitude": "37.791088964417554"
+          }
+        },
+        "Values": {
+          "Temperature": 11.749,
+          "Humidity": 99.6444,
+          "Co2": 234.82,
+          "Los": 0.8851,
+          "DustPm1": 4.17,
+          "DustPm25": 5.4179997,
+          "DustPm10": 5.988,
+          "Pressure": 741.12,
+          "Aqi": 30.45642,
+          "Formaldehyde": 0.0049
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 21",
+          "Coordinates": {
+            "Latitude": "55.66276155",
+            "Longitude": "37.6352047432351"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8276005,
+          "Humidity": 99.0854,
+          "Co2": 238.188,
+          "Los": 0.88356,
+          "DustPm1": 4.216,
+          "DustPm25": 5.506,
+          "DustPm10": 6.084,
+          "Pressure": 741.0,
+          "Aqi": 31.17464,
+          "Formaldehyde": 0.00496
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 22",
+          "Coordinates": {
+            "Latitude": "55.658899399999996",
+            "Longitude": "37.6362588"
+          }
+        },
+        "Values": {
+          "Temperature": 11.95,
+          "Humidity": 99.5384,
+          "Co2": 234.572,
+          "Los": 0.89414,
+          "DustPm1": 4.188,
+          "DustPm25": 5.4240003,
+          "DustPm10": 5.982,
+          "Pressure": 740.76,
+          "Aqi": 30.27902,
+          "Formaldehyde": 0.0049799997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 23",
+          "Coordinates": {
+            "Latitude": "55.658735",
+            "Longitude": "37.64409600829186"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8312,
+          "Humidity": 99.6264,
+          "Co2": 234.784,
+          "Los": 0.9067,
+          "DustPm1": 4.208,
+          "DustPm25": 5.432,
+          "DustPm10": 6.05,
+          "Pressure": 741.02,
+          "Aqi": 31.15538,
+          "Formaldehyde": 0.00502
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 3",
+          "Coordinates": { "Latitude": "55.6728311", "Longitude": "37.6307497" }
+        },
+        "Values": {
+          "Temperature": 11.865,
+          "Humidity": 99.626,
+          "Co2": 235.0,
+          "Los": 0.8936,
+          "DustPm1": 4.134,
+          "DustPm25": 5.42,
+          "DustPm10": 6.058,
+          "Pressure": 740.92,
+          "Aqi": 30.4948,
+          "Formaldehyde": 0.00494
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 4",
+          "Coordinates": {
+            "Latitude": "54.97437575",
+            "Longitude": "37.96389936090905"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9426,
+          "Humidity": 99.1182,
+          "Co2": 236.228,
+          "Los": 0.90594,
+          "DustPm1": 4.204,
+          "DustPm25": 5.41,
+          "DustPm10": 6.066,
+          "Pressure": 741.0,
+          "Aqi": 31.24662,
+          "Formaldehyde": 0.00508
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 5",
+          "Coordinates": {
+            "Latitude": "55.44908255",
+            "Longitude": "37.764343547358365"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8342,
+          "Humidity": 99.9052,
+          "Co2": 234.006,
+          "Los": 0.91724,
+          "DustPm1": 4.214,
+          "DustPm25": 5.474,
+          "DustPm10": 6.06,
+          "Pressure": 741.12,
+          "Aqi": 30.97434,
+          "Formaldehyde": 0.005
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 6",
+          "Coordinates": {
+            "Latitude": "54.9745518",
+            "Longitude": "37.96344739999999"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8004,
+          "Humidity": 100.7164,
+          "Co2": 232.876,
+          "Los": 0.8971,
+          "DustPm1": 4.252,
+          "DustPm25": 5.492,
+          "DustPm10": 6.046,
+          "Pressure": 741.08,
+          "Aqi": 30.54716,
+          "Formaldehyde": 0.005
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 7",
+          "Coordinates": {
+            "Latitude": "55.66950445",
+            "Longitude": "37.62890365471273"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9008,
+          "Humidity": 100.5994,
+          "Co2": 230.162,
+          "Los": 0.91612,
+          "DustPm1": 4.148,
+          "DustPm25": 5.456,
+          "DustPm10": 6.056,
+          "Pressure": 741.12,
+          "Aqi": 30.30528,
+          "Formaldehyde": 0.0049799997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 8",
+          "Coordinates": {
+            "Latitude": "55.44858785",
+            "Longitude": "37.76303048228403"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8206,
+          "Humidity": 99.9802,
+          "Co2": 233.164,
+          "Los": 0.88908,
+          "DustPm1": 4.17,
+          "DustPm25": 5.418,
+          "DustPm10": 6.082,
+          "Pressure": 740.96,
+          "Aqi": 31.4879,
+          "Formaldehyde": 0.00518
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 9",
+          "Coordinates": {
+            "Latitude": "55.368754749999994",
+            "Longitude": "37.78997412098697"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8689995,
+          "Humidity": 99.7644,
+          "Co2": 235.034,
+          "Los": 0.8811,
+          "DustPm1": 4.192,
+          "DustPm25": 5.368,
+          "DustPm10": 6.044,
+          "Pressure": 740.86,
+          "Aqi": 30.81212,
+          "Formaldehyde": 0.00494
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Кетчерская улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Кетчерская улица 1",
+          "Coordinates": { "Latitude": "55.7447775", "Longitude": "37.8253188" }
+        },
+        "Values": {
+          "Temperature": 11.8788,
+          "Humidity": 100.2642,
+          "Co2": 235.1,
+          "Los": 0.9106,
+          "DustPm1": 4.204,
+          "DustPm25": 5.402,
+          "DustPm10": 6.02,
+          "Pressure": 741.02,
+          "Aqi": 31.0177,
+          "Formaldehyde": 0.0050399997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кетчерская улица 2",
+          "Coordinates": {
+            "Latitude": "55.7404128",
+            "Longitude": "37.822365399999995"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8362,
+          "Humidity": 99.5658,
+          "Co2": 232.496,
+          "Los": 0.89848,
+          "DustPm1": 4.25,
+          "DustPm25": 5.456,
+          "DustPm10": 6.012,
+          "Pressure": 740.78,
+          "Aqi": 30.62594,
+          "Formaldehyde": 0.00502
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кетчерская улица 3",
+          "Coordinates": { "Latitude": "55.7443653", "Longitude": "37.8301912" }
+        },
+        "Values": {
+          "Temperature": 11.8638,
+          "Humidity": 99.0062,
+          "Co2": 233.366,
+          "Los": 0.91222,
+          "DustPm1": 4.196,
+          "DustPm25": 5.452,
+          "DustPm10": 5.996,
+          "Pressure": 741.1,
+          "Aqi": 30.42054,
+          "Formaldehyde": 0.005
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Королева улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Королева улица 1",
+          "Coordinates": {
+            "Latitude": "55.822990250000004",
+            "Longitude": "37.63183028582548"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8572,
+          "Humidity": 99.64,
+          "Co2": 331.66,
+          "Los": 1.24954,
+          "DustPm1": 5.884,
+          "DustPm25": 7.638,
+          "DustPm10": 8.4539995,
+          "Pressure": 741.02,
+          "Aqi": 43.1143,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Королева улица 2",
+          "Coordinates": {
+            "Latitude": "55.930006950000006",
+            "Longitude": "37.814241917048946"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7914,
+          "Humidity": 99.1658,
+          "Co2": 330.858,
+          "Los": 1.25508,
+          "DustPm1": 5.85,
+          "DustPm25": 7.516,
+          "DustPm10": 8.45,
+          "Pressure": 740.78,
+          "Aqi": 43.11946,
+          "Formaldehyde": 0.0069600004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Королева улица 3",
+          "Coordinates": {
+            "Latitude": "55.971041150000005",
+            "Longitude": "37.92275180643348"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8634,
+          "Humidity": 98.988,
+          "Co2": 332.396,
+          "Los": 1.27268,
+          "DustPm1": 5.87,
+          "DustPm25": 7.596,
+          "DustPm10": 8.394,
+          "Pressure": 741.16,
+          "Aqi": 42.5154,
+          "Formaldehyde": 0.00694
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Королева улица 4",
+          "Coordinates": { "Latitude": "55.8837422", "Longitude": "37.6063001" }
+        },
+        "Values": {
+          "Temperature": 11.8876,
+          "Humidity": 100.6018,
+          "Co2": 331.0,
+          "Los": 1.2664601,
+          "DustPm1": 5.792,
+          "DustPm25": 7.586,
+          "DustPm10": 8.464,
+          "Pressure": 740.98,
+          "Aqi": 43.2052,
+          "Formaldehyde": 0.007
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Космодамианская набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Космодамианская набережная 1",
+          "Coordinates": { "Latitude": "55.7329408", "Longitude": "37.6479711" }
+        },
+        "Values": {
+          "Temperature": 11.8256,
+          "Humidity": 99.5688,
+          "Co2": 609.276,
+          "Los": 2.35362,
+          "DustPm1": 10.948,
+          "DustPm25": 14.206,
+          "DustPm10": 15.674,
+          "Pressure": 741.06,
+          "Aqi": 79.72408,
+          "Formaldehyde": 0.01294
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Космодамианская набережная 2",
+          "Coordinates": { "Latitude": "55.7329408", "Longitude": "37.6479711" }
+        },
+        "Values": {
+          "Temperature": 11.8538,
+          "Humidity": 99.6648,
+          "Co2": 607.924,
+          "Los": 2.34042,
+          "DustPm1": 10.9,
+          "DustPm25": 14.08,
+          "DustPm10": 15.76,
+          "Pressure": 741.14,
+          "Aqi": 79.77884,
+          "Formaldehyde": 0.013060001
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Космодамианская набережная 3",
+          "Coordinates": { "Latitude": "55.7329408", "Longitude": "37.6479711" }
+        },
+        "Values": {
+          "Temperature": 11.915,
+          "Humidity": 99.7258,
+          "Co2": 611.336,
+          "Los": 2.33038,
+          "DustPm1": 10.882,
+          "DustPm25": 14.158,
+          "DustPm10": 15.77,
+          "Pressure": 740.78,
+          "Aqi": 79.9451,
+          "Formaldehyde": 0.013040001
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Космодамианская набережная 4",
+          "Coordinates": {
+            "Latitude": "55.743647300000006",
+            "Longitude": "37.6404725"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9184,
+          "Humidity": 99.127,
+          "Co2": 610.58203,
+          "Los": 2.3287,
+          "DustPm1": 10.732,
+          "DustPm25": 14.098,
+          "DustPm10": 15.81,
+          "Pressure": 741.18,
+          "Aqi": 79.92652,
+          "Formaldehyde": 0.01302
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Кремлёвская набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Кремлёвская набережная 1",
+          "Coordinates": { "Latitude": "55.7479003", "Longitude": "37.610262" }
+        },
+        "Values": {
+          "Temperature": 11.8892,
+          "Humidity": 100.2044,
+          "Co2": 330.28,
+          "Los": 1.2621,
+          "DustPm1": 5.882,
+          "DustPm25": 7.576,
+          "DustPm10": 8.346,
+          "Pressure": 740.82,
+          "Aqi": 42.90458,
+          "Formaldehyde": 0.00698
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Крымская набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Крымская набережная 1",
+          "Coordinates": { "Latitude": "55.7333905", "Longitude": "37.6001302" }
+        },
+        "Values": {
+          "Temperature": 11.8784,
+          "Humidity": 100.1578,
+          "Co2": 464.678,
+          "Los": 1.79544,
+          "DustPm1": 8.33,
+          "DustPm25": 10.916,
+          "DustPm10": 12.016,
+          "Pressure": 741.12,
+          "Aqi": 61.78916,
+          "Formaldehyde": 0.010079999
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Крымская набережная 2",
+          "Coordinates": { "Latitude": "55.7333905", "Longitude": "37.6001302" }
+        },
+        "Values": {
+          "Temperature": 11.9446,
+          "Humidity": 99.184204,
+          "Co2": 469.806,
+          "Los": 1.80114,
+          "DustPm1": 8.406,
+          "DustPm25": 10.838,
+          "DustPm10": 11.992,
+          "Pressure": 741.18,
+          "Aqi": 61.71574,
+          "Formaldehyde": 0.010079999
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Кутузовский проспект",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 1",
+          "Coordinates": {
+            "Latitude": "55.7514562",
+            "Longitude": "37.5654893577766"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8922,
+          "Humidity": 99.6078,
+          "Co2": 329.382,
+          "Los": 1.26226,
+          "DustPm1": 5.884,
+          "DustPm25": 7.556,
+          "DustPm10": 8.448,
+          "Pressure": 740.96,
+          "Aqi": 43.189,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 10",
+          "Coordinates": {
+            "Latitude": "55.748675",
+            "Longitude": "37.55875351590745"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9672,
+          "Humidity": 99.5248,
+          "Co2": 330.886,
+          "Los": 1.26516,
+          "DustPm1": 5.764,
+          "DustPm25": 7.65,
+          "DustPm10": 8.398,
+          "Pressure": 740.96,
+          "Aqi": 43.7128,
+          "Formaldehyde": 0.0069000004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 11",
+          "Coordinates": {
+            "Latitude": "55.747707500000004",
+            "Longitude": "37.56076376954792"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8262005,
+          "Humidity": 99.1826,
+          "Co2": 328.654,
+          "Los": 1.26886,
+          "DustPm1": 5.914,
+          "DustPm25": 7.574,
+          "DustPm10": 8.4,
+          "Pressure": 741.02,
+          "Aqi": 42.896698,
+          "Formaldehyde": 0.00716
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 12",
+          "Coordinates": {
+            "Latitude": "55.7506811",
+            "Longitude": "37.55768235538568"
+          }
+        },
+        "Values": {
+          "Temperature": 11.845,
+          "Humidity": 99.6204,
+          "Co2": 329.546,
+          "Los": 1.26418,
+          "DustPm1": 5.88,
+          "DustPm25": 7.67,
+          "DustPm10": 8.428,
+          "Pressure": 740.86,
+          "Aqi": 43.49028,
+          "Formaldehyde": 0.00712
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 13",
+          "Coordinates": {
+            "Latitude": "55.747682749999996",
+            "Longitude": "37.55906664697028"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8418,
+          "Humidity": 99.6432,
+          "Co2": 325.734,
+          "Los": 1.26378,
+          "DustPm1": 5.852,
+          "DustPm25": 7.592,
+          "DustPm10": 8.522,
+          "Pressure": 741.12,
+          "Aqi": 42.8828,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 14",
+          "Coordinates": {
+            "Latitude": "55.747926050000004",
+            "Longitude": "37.555733078692676"
+          }
+        },
+        "Values": {
+          "Temperature": 11.864,
+          "Humidity": 100.027,
+          "Co2": 325.482,
+          "Los": 1.2359,
+          "DustPm1": 5.946,
+          "DustPm25": 7.576,
+          "DustPm10": 8.504,
+          "Pressure": 740.86,
+          "Aqi": 42.75848,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 15",
+          "Coordinates": { "Latitude": "55.7474442", "Longitude": "37.5574288" }
+        },
+        "Values": {
+          "Temperature": 11.846,
+          "Humidity": 99.5424,
+          "Co2": 328.556,
+          "Los": 1.23906,
+          "DustPm1": 5.9,
+          "DustPm25": 7.616,
+          "DustPm10": 8.41,
+          "Pressure": 740.94,
+          "Aqi": 43.01792,
+          "Formaldehyde": 0.00692
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 16",
+          "Coordinates": {
+            "Latitude": "55.747309200000004",
+            "Longitude": "37.55352680938286"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8998,
+          "Humidity": 99.944,
+          "Co2": 328.702,
+          "Los": 1.24726,
+          "DustPm1": 5.902,
+          "DustPm25": 7.592,
+          "DustPm10": 8.55,
+          "Pressure": 740.88,
+          "Aqi": 43.07766,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 2",
+          "Coordinates": {
+            "Latitude": "55.7514562",
+            "Longitude": "37.5654893577766"
+          }
+        },
+        "Values": {
+          "Temperature": 11.829,
+          "Humidity": 99.3828,
+          "Co2": 327.372,
+          "Los": 1.25718,
+          "DustPm1": 5.882,
+          "DustPm25": 7.676,
+          "DustPm10": 8.476,
+          "Pressure": 740.98,
+          "Aqi": 43.48494,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 3",
+          "Coordinates": {
+            "Latitude": "55.75039755",
+            "Longitude": "37.56980468160317"
+          }
+        },
+        "Values": {
+          "Temperature": 11.929,
+          "Humidity": 99.0862,
+          "Co2": 330.486,
+          "Los": 1.25728,
+          "DustPm1": 5.83,
+          "DustPm25": 7.744,
+          "DustPm10": 8.378,
+          "Pressure": 741.14,
+          "Aqi": 42.84592,
+          "Formaldehyde": 0.0068800002
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 4",
+          "Coordinates": { "Latitude": "55.7491208", "Longitude": "37.5632584" }
+        },
+        "Values": {
+          "Temperature": 11.7932005,
+          "Humidity": 99.939,
+          "Co2": 328.406,
+          "Los": 1.27546,
+          "DustPm1": 5.846,
+          "DustPm25": 7.6080003,
+          "DustPm10": 8.372,
+          "Pressure": 741.14,
+          "Aqi": 42.90494,
+          "Formaldehyde": 0.0069000004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 5",
+          "Coordinates": {
+            "Latitude": "55.74969935",
+            "Longitude": "37.56645808851634"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8602,
+          "Humidity": 99.1046,
+          "Co2": 328.58,
+          "Los": 1.26974,
+          "DustPm1": 5.88,
+          "DustPm25": 7.66,
+          "DustPm10": 8.4539995,
+          "Pressure": 740.9,
+          "Aqi": 42.4807,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 6",
+          "Coordinates": {
+            "Latitude": "55.75019265",
+            "Longitude": "37.56142757322823"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8408,
+          "Humidity": 98.6848,
+          "Co2": 325.976,
+          "Los": 1.25852,
+          "DustPm1": 5.852,
+          "DustPm25": 7.4900002,
+          "DustPm10": 8.438,
+          "Pressure": 741.02,
+          "Aqi": 43.0932,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 7",
+          "Coordinates": {
+            "Latitude": "55.75059215",
+            "Longitude": "37.57043348134887"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8844,
+          "Humidity": 100.3004,
+          "Co2": 327.75,
+          "Los": 1.27526,
+          "DustPm1": 5.89,
+          "DustPm25": 7.606,
+          "DustPm10": 8.394,
+          "Pressure": 741.02,
+          "Aqi": 42.71894,
+          "Formaldehyde": 0.00706
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 8",
+          "Coordinates": {
+            "Latitude": "55.749181199999995",
+            "Longitude": "37.56053099760956"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8148,
+          "Humidity": 100.0232,
+          "Co2": 326.154,
+          "Los": 1.25944,
+          "DustPm1": 5.834,
+          "DustPm25": 7.596,
+          "DustPm10": 8.4279995,
+          "Pressure": 741.16,
+          "Aqi": 43.16748,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 9",
+          "Coordinates": {
+            "Latitude": "55.74847135",
+            "Longitude": "37.561184952906686"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8154,
+          "Humidity": 99.782,
+          "Co2": 327.554,
+          "Los": 1.28718,
+          "DustPm1": 5.856,
+          "DustPm25": 7.65,
+          "DustPm10": 8.394,
+          "Pressure": 740.88,
+          "Aqi": 43.21126,
+          "Formaldehyde": 0.00692
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Ленинградское шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 1",
+          "Coordinates": {
+            "Latitude": "55.9521094",
+            "Longitude": "37.35318230545188"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8322,
+          "Humidity": 100.24,
+          "Co2": 468.606,
+          "Los": 1.7930601,
+          "DustPm1": 8.392,
+          "DustPm25": 10.868,
+          "DustPm10": 12.02,
+          "Pressure": 741.04,
+          "Aqi": 61.38316,
+          "Formaldehyde": 0.009939999
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 10",
+          "Coordinates": {
+            "Latitude": "55.81963665",
+            "Longitude": "37.50091963923807"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9046,
+          "Humidity": 98.7694,
+          "Co2": 467.18,
+          "Los": 1.77654,
+          "DustPm1": 8.408,
+          "DustPm25": 10.818,
+          "DustPm10": 12.162,
+          "Pressure": 740.94,
+          "Aqi": 61.39276,
+          "Formaldehyde": 0.01
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 11",
+          "Coordinates": {
+            "Latitude": "55.934643449999996",
+            "Longitude": "37.367351798603195"
+          }
+        },
+        "Values": {
+          "Temperature": 11.907,
+          "Humidity": 99.685,
+          "Co2": 467.292,
+          "Los": 1.7911199,
+          "DustPm1": 8.354,
+          "DustPm25": 10.958,
+          "DustPm10": 12.076,
+          "Pressure": 740.86,
+          "Aqi": 61.19042,
+          "Formaldehyde": 0.01002
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 12",
+          "Coordinates": { "Latitude": "55.8239274", "Longitude": "37.4937866" }
+        },
+        "Values": {
+          "Temperature": 11.9124,
+          "Humidity": 99.3046,
+          "Co2": 467.726,
+          "Los": 1.79644,
+          "DustPm1": 8.412,
+          "DustPm25": 10.922,
+          "DustPm10": 12.174,
+          "Pressure": 741.18,
+          "Aqi": 61.468,
+          "Formaldehyde": 0.01
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 13",
+          "Coordinates": {
+            "Latitude": "55.818763700000005",
+            "Longitude": "37.49709264748083"
+          }
+        },
+        "Values": {
+          "Temperature": 11.829,
+          "Humidity": 99.6824,
+          "Co2": 472.764,
+          "Los": 1.79742,
+          "DustPm1": 8.354,
+          "DustPm25": 10.834,
+          "DustPm10": 12.024,
+          "Pressure": 741.12,
+          "Aqi": 61.99562,
+          "Formaldehyde": 0.00998
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 14",
+          "Coordinates": {
+            "Latitude": "55.97431645",
+            "Longitude": "37.31453152768643"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8688,
+          "Humidity": 100.1052,
+          "Co2": 465.572,
+          "Los": 1.81726,
+          "DustPm1": 8.338,
+          "DustPm25": 10.824,
+          "DustPm10": 11.96,
+          "Pressure": 740.98,
+          "Aqi": 61.8123,
+          "Formaldehyde": 0.009939999
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 15",
+          "Coordinates": { "Latitude": "55.8204603", "Longitude": "37.495925" }
+        },
+        "Values": {
+          "Temperature": 11.9092,
+          "Humidity": 99.3856,
+          "Co2": 467.28,
+          "Los": 1.7725999,
+          "DustPm1": 8.398,
+          "DustPm25": 10.898,
+          "DustPm10": 12.116,
+          "Pressure": 741.12,
+          "Aqi": 61.66042,
+          "Formaldehyde": 0.01002
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 16",
+          "Coordinates": {
+            "Latitude": "55.8216592",
+            "Longitude": "37.49993017584773"
+          }
+        },
+        "Values": {
+          "Temperature": 11.84,
+          "Humidity": 99.1866,
+          "Co2": 470.398,
+          "Los": 1.79344,
+          "DustPm1": 8.364,
+          "DustPm25": 10.848,
+          "DustPm10": 12.008,
+          "Pressure": 740.84,
+          "Aqi": 61.6086,
+          "Formaldehyde": 0.00992
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 17",
+          "Coordinates": {
+            "Latitude": "55.821276999999995",
+            "Longitude": "37.495256116489045"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8644,
+          "Humidity": 100.062004,
+          "Co2": 466.452,
+          "Los": 1.79586,
+          "DustPm1": 8.358,
+          "DustPm25": 10.868,
+          "DustPm10": 12.146,
+          "Pressure": 741.0,
+          "Aqi": 61.58102,
+          "Formaldehyde": 0.0099599995
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 18",
+          "Coordinates": { "Latitude": "55.9241155", "Longitude": "37.3878914" }
+        },
+        "Values": {
+          "Temperature": 11.8822,
+          "Humidity": 98.6278,
+          "Co2": 469.1,
+          "Los": 1.79584,
+          "DustPm1": 8.376,
+          "DustPm25": 10.894,
+          "DustPm10": 11.96,
+          "Pressure": 740.86,
+          "Aqi": 61.69822,
+          "Formaldehyde": 0.01004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 2",
+          "Coordinates": {
+            "Latitude": "55.95615355",
+            "Longitude": "37.34039623951578"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9244,
+          "Humidity": 99.3256,
+          "Co2": 471.04,
+          "Los": 1.79536,
+          "DustPm1": 8.536,
+          "DustPm25": 10.884,
+          "DustPm10": 12.14,
+          "Pressure": 740.94,
+          "Aqi": 61.5126,
+          "Formaldehyde": 0.0101
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 3",
+          "Coordinates": {
+            "Latitude": "55.93384115",
+            "Longitude": "37.36830624443715"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8794,
+          "Humidity": 99.3238,
+          "Co2": 473.32,
+          "Los": 1.8131,
+          "DustPm1": 8.356,
+          "DustPm25": 10.872,
+          "DustPm10": 12.024,
+          "Pressure": 741.04,
+          "Aqi": 61.41672,
+          "Formaldehyde": 0.0099599995
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 4",
+          "Coordinates": {
+            "Latitude": "55.886278000000004",
+            "Longitude": "37.43691648806606"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8468,
+          "Humidity": 100.105,
+          "Co2": 465.35,
+          "Los": 1.81664,
+          "DustPm1": 8.332,
+          "DustPm25": 10.796,
+          "DustPm10": 12.02,
+          "Pressure": 740.9,
+          "Aqi": 61.06522,
+          "Formaldehyde": 0.01014
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 5",
+          "Coordinates": {
+            "Latitude": "55.9340275",
+            "Longitude": "37.367917750000004"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8168,
+          "Humidity": 99.502,
+          "Co2": 470.024,
+          "Los": 1.79816,
+          "DustPm1": 8.338,
+          "DustPm25": 10.91,
+          "DustPm10": 12.07,
+          "Pressure": 740.98,
+          "Aqi": 61.07062,
+          "Formaldehyde": 0.00998
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 6",
+          "Coordinates": { "Latitude": "55.814156", "Longitude": "37.5044528" }
+        },
+        "Values": {
+          "Temperature": 11.903,
+          "Humidity": 99.4434,
+          "Co2": 467.79,
+          "Los": 1.7941,
+          "DustPm1": 8.346,
+          "DustPm25": 10.802,
+          "DustPm10": 12.094,
+          "Pressure": 741.0,
+          "Aqi": 61.404022,
+          "Formaldehyde": 0.00992
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 7",
+          "Coordinates": {
+            "Latitude": "55.8156104",
+            "Longitude": "37.4990247351361"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8512,
+          "Humidity": 99.6438,
+          "Co2": 466.64,
+          "Los": 1.81374,
+          "DustPm1": 8.372,
+          "DustPm25": 10.884,
+          "DustPm10": 12.076,
+          "Pressure": 740.96,
+          "Aqi": 60.94306,
+          "Formaldehyde": 0.01002
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 8",
+          "Coordinates": {
+            "Latitude": "56.3442915",
+            "Longitude": "36.711592192653725"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8442,
+          "Humidity": 99.4658,
+          "Co2": 468.488,
+          "Los": 1.79566,
+          "DustPm1": 8.396,
+          "DustPm25": 10.926,
+          "DustPm10": 12.116,
+          "Pressure": 741.0,
+          "Aqi": 61.9982,
+          "Formaldehyde": 0.00998
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 9",
+          "Coordinates": {
+            "Latitude": "55.9345616",
+            "Longitude": "37.367436297435894"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9076,
+          "Humidity": 100.3646,
+          "Co2": 467.016,
+          "Los": 1.79884,
+          "DustPm1": 8.438,
+          "DustPm25": 10.934,
+          "DustPm10": 12.026,
+          "Pressure": 741.04,
+          "Aqi": 61.59524,
+          "Formaldehyde": 0.01012
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Лужнецкая набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Лужнецкая набережная 1",
+          "Coordinates": { "Latitude": "55.7272986", "Longitude": "37.5486355" }
+        },
+        "Values": {
+          "Temperature": 11.8336,
+          "Humidity": 99.1654,
+          "Co2": 468.438,
+          "Los": 1.80744,
+          "DustPm1": 8.382,
+          "DustPm25": 10.87,
+          "DustPm10": 12.156,
+          "Pressure": 741.08,
+          "Aqi": 62.20122,
+          "Formaldehyde": 0.00998
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Лужнецкая набережная 2",
+          "Coordinates": { "Latitude": "55.7152789", "Longitude": "37.5741033" }
+        },
+        "Values": {
+          "Temperature": 11.9038,
+          "Humidity": 99.7392,
+          "Co2": 470.178,
+          "Los": 1.8037,
+          "DustPm1": 8.37,
+          "DustPm25": 10.952,
+          "DustPm10": 11.944,
+          "Pressure": 741.08,
+          "Aqi": 61.91614,
+          "Formaldehyde": 0.01002
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Лужнецкая набережная 3",
+          "Coordinates": { "Latitude": "55.7272986", "Longitude": "37.5486355" }
+        },
+        "Values": {
+          "Temperature": 11.7718,
+          "Humidity": 99.6452,
+          "Co2": 468.518,
+          "Los": 1.7830399,
+          "DustPm1": 8.424,
+          "DustPm25": 10.79,
+          "DustPm10": 12.022,
+          "Pressure": 741.04,
+          "Aqi": 60.98572,
+          "Formaldehyde": 0.01004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Лужнецкая набережная 4",
+          "Coordinates": { "Latitude": "55.7152789", "Longitude": "37.5741033" }
+        },
+        "Values": {
+          "Temperature": 11.8112,
+          "Humidity": 99.0058,
+          "Co2": 465.61,
+          "Los": 1.7884,
+          "DustPm1": 8.338,
+          "DustPm25": 10.834,
+          "DustPm10": 12.01,
+          "Pressure": 741.14,
+          "Aqi": 61.31042,
+          "Formaldehyde": 0.0101
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Лужнецкая набережная 5",
+          "Coordinates": { "Latitude": "55.7272986", "Longitude": "37.5486355" }
+        },
+        "Values": {
+          "Temperature": 11.7702,
+          "Humidity": 99.5846,
+          "Co2": 470.186,
+          "Los": 1.8106201,
+          "DustPm1": 8.366,
+          "DustPm25": 10.832,
+          "DustPm10": 12.046,
+          "Pressure": 740.94,
+          "Aqi": 61.65494,
+          "Formaldehyde": 0.010079999
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Лужнецкая набережная 6",
+          "Coordinates": {
+            "Latitude": "55.71348955",
+            "Longitude": "37.56864133728136"
+          }
+        },
+        "Values": {
+          "Temperature": 11.874,
+          "Humidity": 99.666,
+          "Co2": 467.584,
+          "Los": 1.808,
+          "DustPm1": 8.34,
+          "DustPm25": 10.844,
+          "DustPm10": 12.042,
+          "Pressure": 740.94,
+          "Aqi": 61.11752,
+          "Formaldehyde": 0.01006
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Лужнецкая набережная 7",
+          "Coordinates": { "Latitude": "55.7272986", "Longitude": "37.5486355" }
+        },
+        "Values": {
+          "Temperature": 11.8324,
+          "Humidity": 99.2204,
+          "Co2": 466.11,
+          "Los": 1.8079801,
+          "DustPm1": 8.406,
+          "DustPm25": 10.908,
+          "DustPm10": 12.14,
+          "Pressure": 741.04,
+          "Aqi": 61.78202,
+          "Formaldehyde": 0.00998
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Люблинская улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 1",
+          "Coordinates": {
+            "Latitude": "55.516393550000004",
+            "Longitude": "37.56729183043076"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8028,
+          "Humidity": 100.2048,
+          "Co2": 233.524,
+          "Los": 0.91814,
+          "DustPm1": 4.214,
+          "DustPm25": 5.43,
+          "DustPm10": 6.022,
+          "Pressure": 741.08,
+          "Aqi": 31.233,
+          "Formaldehyde": 0.00502
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 10",
+          "Coordinates": {
+            "Latitude": "55.70164605",
+            "Longitude": "37.7318173"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8578005,
+          "Humidity": 99.0278,
+          "Co2": 235.056,
+          "Los": 0.90086,
+          "DustPm1": 4.242,
+          "DustPm25": 5.432,
+          "DustPm10": 6.014,
+          "Pressure": 741.04,
+          "Aqi": 30.8382,
+          "Formaldehyde": 0.0049799997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 11",
+          "Coordinates": {
+            "Latitude": "55.71086965",
+            "Longitude": "37.73127576658732"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7748,
+          "Humidity": 100.202,
+          "Co2": 235.602,
+          "Los": 0.90606,
+          "DustPm1": 4.198,
+          "DustPm25": 5.356,
+          "DustPm10": 6.078,
+          "Pressure": 741.1,
+          "Aqi": 31.25214,
+          "Formaldehyde": 0.00494
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 12",
+          "Coordinates": { "Latitude": "55.0169853", "Longitude": "38.0938375" }
+        },
+        "Values": {
+          "Temperature": 11.874,
+          "Humidity": 99.6064,
+          "Co2": 234.648,
+          "Los": 0.9265,
+          "DustPm1": 4.198,
+          "DustPm25": 5.3719997,
+          "DustPm10": 6.11,
+          "Pressure": 741.06,
+          "Aqi": 30.68232,
+          "Formaldehyde": 0.005
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 13",
+          "Coordinates": {
+            "Latitude": "55.710327050000004",
+            "Longitude": "37.73122304907356"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8826,
+          "Humidity": 99.865204,
+          "Co2": 234.51399,
+          "Los": 0.89874,
+          "DustPm1": 4.106,
+          "DustPm25": 5.45,
+          "DustPm10": 6.116,
+          "Pressure": 741.0,
+          "Aqi": 30.56448,
+          "Formaldehyde": 0.0049799997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 14",
+          "Coordinates": {
+            "Latitude": "55.69928165",
+            "Longitude": "37.73227755"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8936,
+          "Humidity": 99.581604,
+          "Co2": 234.96,
+          "Los": 0.88616,
+          "DustPm1": 4.136,
+          "DustPm25": 5.358,
+          "DustPm10": 6.11,
+          "Pressure": 741.02,
+          "Aqi": 30.48842,
+          "Formaldehyde": 0.00496
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 15",
+          "Coordinates": {
+            "Latitude": "55.70681285",
+            "Longitude": "37.731721050000004"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9036,
+          "Humidity": 99.2686,
+          "Co2": 232.07,
+          "Los": 0.89896,
+          "DustPm1": 4.212,
+          "DustPm25": 5.494,
+          "DustPm10": 6.022,
+          "Pressure": 741.24,
+          "Aqi": 30.533659,
+          "Formaldehyde": 0.00494
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 16",
+          "Coordinates": {
+            "Latitude": "55.698603",
+            "Longitude": "37.73236305301948"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8636,
+          "Humidity": 99.3082,
+          "Co2": 231.772,
+          "Los": 0.90766,
+          "DustPm1": 4.284,
+          "DustPm25": 5.432,
+          "DustPm10": 6.092,
+          "Pressure": 741.12,
+          "Aqi": 30.54768,
+          "Formaldehyde": 0.00496
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 2",
+          "Coordinates": {
+            "Latitude": "55.51519145",
+            "Longitude": "37.56685082871576"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8594,
+          "Humidity": 100.1038,
+          "Co2": 235.732,
+          "Los": 0.88952,
+          "DustPm1": 4.212,
+          "DustPm25": 5.398,
+          "DustPm10": 6.054,
+          "Pressure": 740.96,
+          "Aqi": 30.45552,
+          "Formaldehyde": 0.0049799997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 3",
+          "Coordinates": {
+            "Latitude": "55.516201249999995",
+            "Longitude": "37.56602435180308"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8544,
+          "Humidity": 99.0212,
+          "Co2": 232.796,
+          "Los": 0.89368,
+          "DustPm1": 4.182,
+          "DustPm25": 5.448,
+          "DustPm10": 6.186,
+          "Pressure": 740.82,
+          "Aqi": 30.6969,
+          "Formaldehyde": 0.00502
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 4",
+          "Coordinates": { "Latitude": "55.7088457", "Longitude": "37.7315088" }
+        },
+        "Values": {
+          "Temperature": 11.9438,
+          "Humidity": 99.444,
+          "Co2": 234.06,
+          "Los": 0.8808,
+          "DustPm1": 4.134,
+          "DustPm25": 5.458,
+          "DustPm10": 5.988,
+          "Pressure": 741.3,
+          "Aqi": 31.30386,
+          "Formaldehyde": 0.00494
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 5",
+          "Coordinates": {
+            "Latitude": "55.51503845",
+            "Longitude": "37.566070876489746"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9004,
+          "Humidity": 99.6802,
+          "Co2": 237.032,
+          "Los": 0.88854,
+          "DustPm1": 4.232,
+          "DustPm25": 5.354,
+          "DustPm10": 6.106,
+          "Pressure": 741.18,
+          "Aqi": 30.24784,
+          "Formaldehyde": 0.00494
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 6",
+          "Coordinates": {
+            "Latitude": "55.70360875",
+            "Longitude": "37.7312730408856"
+          }
+        },
+        "Values": {
+          "Temperature": 11.894,
+          "Humidity": 99.1434,
+          "Co2": 232.522,
+          "Los": 0.8893,
+          "DustPm1": 4.148,
+          "DustPm25": 5.562,
+          "DustPm10": 6.06,
+          "Pressure": 741.04,
+          "Aqi": 30.9898,
+          "Formaldehyde": 0.00514
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 7",
+          "Coordinates": {
+            "Latitude": "55.5137836",
+            "Longitude": "37.56531713054069"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8862,
+          "Humidity": 99.187004,
+          "Co2": 235.278,
+          "Los": 0.90378,
+          "DustPm1": 4.146,
+          "DustPm25": 5.504,
+          "DustPm10": 6.034,
+          "Pressure": 740.92,
+          "Aqi": 31.08888,
+          "Formaldehyde": 0.00496
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 8",
+          "Coordinates": {
+            "Latitude": "55.703031949999996",
+            "Longitude": "37.73109783494215"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7668,
+          "Humidity": 100.003,
+          "Co2": 232.33,
+          "Los": 0.89896,
+          "DustPm1": 4.154,
+          "DustPm25": 5.526,
+          "DustPm10": 6.026,
+          "Pressure": 740.76,
+          "Aqi": 30.25174,
+          "Formaldehyde": 0.0049799997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 9",
+          "Coordinates": {
+            "Latitude": "55.5134452",
+            "Longitude": "37.564274499999996"
+          }
+        },
+        "Values": {
+          "Temperature": 11.815,
+          "Humidity": 99.2648,
+          "Co2": 235.224,
+          "Los": 0.88988,
+          "DustPm1": 4.182,
+          "DustPm25": 5.466,
+          "DustPm10": 6.154,
+          "Pressure": 741.06,
+          "Aqi": 30.9355,
+          "Formaldehyde": 0.0049799997
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Минское шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Минское шоссе 1",
+          "Coordinates": {
+            "Latitude": "55.4611339",
+            "Longitude": "36.03448959588208"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9216,
+          "Humidity": 99.8256,
+          "Co2": 609.726,
+          "Los": 2.33562,
+          "DustPm1": 10.894,
+          "DustPm25": 14.172,
+          "DustPm10": 15.646,
+          "Pressure": 741.06,
+          "Aqi": 79.73284,
+          "Formaldehyde": 0.013
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Мосфильмовская улица",
+    "GeoData": [
+      {
+        "Sensor": { "Address": "Мосфильмовская улица 1", "Coordinates": null },
+        "Values": {
+          "Temperature": 11.83,
+          "Humidity": 99.3646,
+          "Co2": 609.064,
+          "Los": 2.33974,
+          "DustPm1": 10.934,
+          "DustPm25": 14.188,
+          "DustPm10": 15.676,
+          "Pressure": 740.94,
+          "Aqi": 79.82002,
+          "Formaldehyde": 0.01296
+        }
+      },
+      {
+        "Sensor": { "Address": "Мосфильмовская улица 2", "Coordinates": null },
+        "Values": {
+          "Temperature": 11.9794,
+          "Humidity": 100.087204,
+          "Co2": 611.048,
+          "Los": 2.3574,
+          "DustPm1": 10.89,
+          "DustPm25": 14.098,
+          "DustPm10": 15.63,
+          "Pressure": 741.0,
+          "Aqi": 80.26638,
+          "Formaldehyde": 0.01294
+        }
+      },
+      {
+        "Sensor": { "Address": "Мосфильмовская улица 3", "Coordinates": null },
+        "Values": {
+          "Temperature": 11.8748,
+          "Humidity": 100.462,
+          "Co2": 609.498,
+          "Los": 2.34266,
+          "DustPm1": 10.838,
+          "DustPm25": 14.1380005,
+          "DustPm10": 15.748,
+          "Pressure": 740.88,
+          "Aqi": 79.8963,
+          "Formaldehyde": 0.01294
+        }
+      },
+      {
+        "Sensor": { "Address": "Мосфильмовская улица 4", "Coordinates": null },
+        "Values": {
+          "Temperature": 11.7868,
+          "Humidity": 99.1434,
+          "Co2": 609.502,
+          "Los": 2.34696,
+          "DustPm1": 10.956,
+          "DustPm25": 14.072,
+          "DustPm10": 15.73,
+          "Pressure": 741.16,
+          "Aqi": 79.20158,
+          "Formaldehyde": 0.01294
+        }
+      },
+      {
+        "Sensor": { "Address": "Мосфильмовская улица 5", "Coordinates": null },
+        "Values": {
+          "Temperature": 11.8216,
+          "Humidity": 99.76,
+          "Co2": 611.72003,
+          "Los": 2.3249,
+          "DustPm1": 10.842,
+          "DustPm25": 14.168,
+          "DustPm10": 15.62,
+          "Pressure": 740.92,
+          "Aqi": 79.3652,
+          "Formaldehyde": 0.012920001
+        }
+      },
+      {
+        "Sensor": { "Address": "Мосфильмовская улица 6", "Coordinates": null },
+        "Values": {
+          "Temperature": 11.847,
+          "Humidity": 98.8276,
+          "Co2": 607.304,
+          "Los": 2.31636,
+          "DustPm1": 10.878,
+          "DustPm25": 14.1640005,
+          "DustPm10": 15.74,
+          "Pressure": 741.06,
+          "Aqi": 80.24204,
+          "Formaldehyde": 0.013060001
+        }
+      },
+      {
+        "Sensor": { "Address": "Мосфильмовская улица 7", "Coordinates": null },
+        "Values": {
+          "Temperature": 11.7944,
+          "Humidity": 99.9036,
+          "Co2": 608.606,
+          "Los": 2.34924,
+          "DustPm1": 10.838,
+          "DustPm25": 14.138,
+          "DustPm10": 15.592,
+          "Pressure": 741.12,
+          "Aqi": 79.98336,
+          "Formaldehyde": 0.01294
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Моховая улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Моховая улица 1",
+          "Coordinates": {
+            "Latitude": "55.75679125",
+            "Longitude": "37.61373686497775"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8842,
+          "Humidity": 99.4056,
+          "Co2": 330.142,
+          "Los": 1.25506,
+          "DustPm1": 5.892,
+          "DustPm25": 7.57,
+          "DustPm10": 8.47,
+          "Pressure": 741.1,
+          "Aqi": 43.43232,
+          "Formaldehyde": 0.00692
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Моховая улица 2",
+          "Coordinates": {
+            "Latitude": "56.7468514",
+            "Longitude": "37.20214949901079"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9162,
+          "Humidity": 99.0094,
+          "Co2": 324.59,
+          "Los": 1.28092,
+          "DustPm1": 5.88,
+          "DustPm25": 7.59,
+          "DustPm10": 8.432,
+          "Pressure": 741.06,
+          "Aqi": 43.0176,
+          "Formaldehyde": 0.0068200002
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Нагатинская набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 1",
+          "Coordinates": { "Latitude": "55.6855292", "Longitude": "37.6736988" }
+        },
+        "Values": {
+          "Temperature": 11.828,
+          "Humidity": 99.3616,
+          "Co2": 471.268,
+          "Los": 1.794,
+          "DustPm1": 8.398,
+          "DustPm25": 10.836,
+          "DustPm10": 12.062,
+          "Pressure": 740.94,
+          "Aqi": 61.30772,
+          "Formaldehyde": 0.00998
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 10",
+          "Coordinates": {
+            "Latitude": "55.682237",
+            "Longitude": "37.64081566372903"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8964,
+          "Humidity": 100.4646,
+          "Co2": 471.404,
+          "Los": 1.82558,
+          "DustPm1": 8.366,
+          "DustPm25": 10.78,
+          "DustPm10": 12.024,
+          "Pressure": 741.06,
+          "Aqi": 61.397602,
+          "Formaldehyde": 0.00992
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 2",
+          "Coordinates": {
+            "Latitude": "55.6873647",
+            "Longitude": "37.6793438121293"
+          }
+        },
+        "Values": {
+          "Temperature": 11.891,
+          "Humidity": 99.9412,
+          "Co2": 468.508,
+          "Los": 1.78972,
+          "DustPm1": 8.401999,
+          "DustPm25": 10.884,
+          "DustPm10": 12.174,
+          "Pressure": 740.82,
+          "Aqi": 61.61264,
+          "Formaldehyde": 0.01
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 3",
+          "Coordinates": { "Latitude": "55.68335", "Longitude": "37.6376046" }
+        },
+        "Values": {
+          "Temperature": 11.835,
+          "Humidity": 98.9674,
+          "Co2": 468.604,
+          "Los": 1.80264,
+          "DustPm1": 8.338,
+          "DustPm25": 10.782,
+          "DustPm10": 12.066,
+          "Pressure": 741.08,
+          "Aqi": 61.48886,
+          "Formaldehyde": 0.00998
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 4",
+          "Coordinates": {
+            "Latitude": "55.6874647",
+            "Longitude": "37.628064190531745"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8654,
+          "Humidity": 99.8822,
+          "Co2": 469.812,
+          "Los": 1.79154,
+          "DustPm1": 8.34,
+          "DustPm25": 10.9279995,
+          "DustPm10": 12.118,
+          "Pressure": 741.06,
+          "Aqi": 61.77546,
+          "Formaldehyde": 0.009939999
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 5",
+          "Coordinates": { "Latitude": "55.68335", "Longitude": "37.6376046" }
+        },
+        "Values": {
+          "Temperature": 11.8378,
+          "Humidity": 99.6658,
+          "Co2": 466.144,
+          "Los": 1.8061,
+          "DustPm1": 8.4279995,
+          "DustPm25": 10.864,
+          "DustPm10": 12.158,
+          "Pressure": 741.02,
+          "Aqi": 60.64006,
+          "Formaldehyde": 0.01004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 6",
+          "Coordinates": {
+            "Latitude": "55.68261215",
+            "Longitude": "37.63590130092436"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8798,
+          "Humidity": 101.0388,
+          "Co2": 471.724,
+          "Los": 1.80382,
+          "DustPm1": 8.312,
+          "DustPm25": 10.798,
+          "DustPm10": 12.148,
+          "Pressure": 741.02,
+          "Aqi": 61.74454,
+          "Formaldehyde": 0.01002
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 7",
+          "Coordinates": { "Latitude": "55.6852625", "Longitude": "37.664304" }
+        },
+        "Values": {
+          "Temperature": 11.962,
+          "Humidity": 100.56,
+          "Co2": 469.466,
+          "Los": 1.8018,
+          "DustPm1": 8.406,
+          "DustPm25": 10.854,
+          "DustPm10": 12.016,
+          "Pressure": 740.9,
+          "Aqi": 61.06236,
+          "Formaldehyde": 0.0099599995
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 8",
+          "Coordinates": { "Latitude": "55.6852265", "Longitude": "37.6637727" }
+        },
+        "Values": {
+          "Temperature": 11.8134,
+          "Humidity": 100.0796,
+          "Co2": 472.004,
+          "Los": 1.77262,
+          "DustPm1": 8.468,
+          "DustPm25": 10.902,
+          "DustPm10": 12.244,
+          "Pressure": 740.94,
+          "Aqi": 61.48414,
+          "Formaldehyde": 0.00988
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 9",
+          "Coordinates": { "Latitude": "55.6842494", "Longitude": "37.6329744" }
+        },
+        "Values": {
+          "Temperature": 11.8554,
+          "Humidity": 99.5848,
+          "Co2": 470.786,
+          "Los": 1.81712,
+          "DustPm1": 8.424,
+          "DustPm25": 10.85,
+          "DustPm10": 12.062,
+          "Pressure": 741.08,
+          "Aqi": 61.37936,
+          "Formaldehyde": 0.00992
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Никитская Б. улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Никитская Б. улица 1",
+          "Coordinates": {
+            "Latitude": "55.75463205",
+            "Longitude": "37.6114395636581"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8418,
+          "Humidity": 100.0438,
+          "Co2": 473.854,
+          "Los": 1.79176,
+          "DustPm1": 8.356,
+          "DustPm25": 10.816,
+          "DustPm10": 12.056,
+          "Pressure": 740.94,
+          "Aqi": 61.54664,
+          "Formaldehyde": 0.01004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Никитская Б. улица 2",
+          "Coordinates": {
+            "Latitude": "55.7581582",
+            "Longitude": "37.596348744994785"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8772,
+          "Humidity": 99.567,
+          "Co2": 469.89,
+          "Los": 1.80284,
+          "DustPm1": 8.306,
+          "DustPm25": 10.868,
+          "DustPm10": 12.102,
+          "Pressure": 741.28,
+          "Aqi": 61.61816,
+          "Formaldehyde": 0.010079999
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Никитская Б. улица 3",
+          "Coordinates": {
+            "Latitude": "55.75506635",
+            "Longitude": "37.60996746756312"
+          }
+        },
+        "Values": {
+          "Temperature": 11.829,
+          "Humidity": 99.919,
+          "Co2": 464.362,
+          "Los": 1.7718999,
+          "DustPm1": 8.3619995,
+          "DustPm25": 10.844,
+          "DustPm10": 12.068,
+          "Pressure": 740.84,
+          "Aqi": 61.31584,
+          "Formaldehyde": 0.0099599995
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Никитская Б. улица 4",
+          "Coordinates": {
+            "Latitude": "55.75529145",
+            "Longitude": "37.61059347532532"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8272,
+          "Humidity": 99.88,
+          "Co2": 467.018,
+          "Los": 1.78748,
+          "DustPm1": 8.47,
+          "DustPm25": 10.916,
+          "DustPm10": 12.1,
+          "Pressure": 741.1,
+          "Aqi": 61.87572,
+          "Formaldehyde": 0.0099
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Новодевичья набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Новодевичья набережная 1",
+          "Coordinates": { "Latitude": "55.7285013", "Longitude": "37.5530336" }
+        },
+        "Values": {
+          "Temperature": 11.8472,
+          "Humidity": 99.6256,
+          "Co2": 607.566,
+          "Los": 2.34974,
+          "DustPm1": 10.874,
+          "DustPm25": 14.094,
+          "DustPm10": 15.726,
+          "Pressure": 741.12,
+          "Aqi": 79.60232,
+          "Formaldehyde": 0.013
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Новый Арбат",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Новый Арбат 1",
+          "Coordinates": { "Latitude": "55.7523324", "Longitude": "37.5981331" }
+        },
+        "Values": {
+          "Temperature": 11.8632,
+          "Humidity": 99.8192,
+          "Co2": 328.91998,
+          "Los": 1.28696,
+          "DustPm1": 5.836,
+          "DustPm25": 7.6280003,
+          "DustPm10": 8.498,
+          "Pressure": 740.94,
+          "Aqi": 42.8273,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Новый Арбат 2",
+          "Coordinates": {
+            "Latitude": "55.753233449999996",
+            "Longitude": "37.599471593180496"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9112,
+          "Humidity": 100.2802,
+          "Co2": 326.642,
+          "Los": 1.2440801,
+          "DustPm1": 5.968,
+          "DustPm25": 7.594,
+          "DustPm10": 8.452,
+          "Pressure": 741.14,
+          "Aqi": 43.45244,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Новый Арбат 3",
+          "Coordinates": { "Latitude": "55.752705", "Longitude": "37.5983009" }
+        },
+        "Values": {
+          "Temperature": 11.8048,
+          "Humidity": 99.6238,
+          "Co2": 330.594,
+          "Los": 1.23652,
+          "DustPm1": 5.916,
+          "DustPm25": 7.656,
+          "DustPm10": 8.598,
+          "Pressure": 741.02,
+          "Aqi": 43.50378,
+          "Formaldehyde": 0.007
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Петровский бульвар",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Петровский бульвар 1",
+          "Coordinates": {
+            "Latitude": "55.76850465",
+            "Longitude": "37.61677876363887"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8168,
+          "Humidity": 100.2626,
+          "Co2": 468.328,
+          "Los": 1.8168601,
+          "DustPm1": 8.386,
+          "DustPm25": 10.922,
+          "DustPm10": 12.056,
+          "Pressure": 740.88,
+          "Aqi": 60.76254,
+          "Formaldehyde": 0.00998
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Проспект Вернадского",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 1",
+          "Coordinates": { "Latitude": "55.6754178", "Longitude": "37.5037949" }
+        },
+        "Values": {
+          "Temperature": 11.8482,
+          "Humidity": 99.4434,
+          "Co2": 465.514,
+          "Los": 1.8118,
+          "DustPm1": 8.456,
+          "DustPm25": 10.868,
+          "DustPm10": 12.142,
+          "Pressure": 741.02,
+          "Aqi": 61.393482,
+          "Formaldehyde": 0.01004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 10",
+          "Coordinates": { "Latitude": "55.6879378", "Longitude": "37.5238912" }
+        },
+        "Values": {
+          "Temperature": 11.9072,
+          "Humidity": 99.8418,
+          "Co2": 470.406,
+          "Los": 1.78476,
+          "DustPm1": 8.334,
+          "DustPm25": 10.812,
+          "DustPm10": 12.002,
+          "Pressure": 740.86,
+          "Aqi": 61.64944,
+          "Formaldehyde": 0.01002
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 11",
+          "Coordinates": { "Latitude": "55.6892922", "Longitude": "37.5302124" }
+        },
+        "Values": {
+          "Temperature": 11.8664,
+          "Humidity": 99.5238,
+          "Co2": 468.528,
+          "Los": 1.8045601,
+          "DustPm1": 8.422,
+          "DustPm25": 10.898,
+          "DustPm10": 12.154,
+          "Pressure": 741.12,
+          "Aqi": 61.31916,
+          "Formaldehyde": 0.01
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 12",
+          "Coordinates": {
+            "Latitude": "55.68420025",
+            "Longitude": "37.51237070020576"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8886,
+          "Humidity": 99.1272,
+          "Co2": 469.012,
+          "Los": 1.79814,
+          "DustPm1": 8.392,
+          "DustPm25": 10.79,
+          "DustPm10": 12.012,
+          "Pressure": 741.08,
+          "Aqi": 61.21382,
+          "Formaldehyde": 0.00998
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 13",
+          "Coordinates": {
+            "Latitude": "55.6873789",
+            "Longitude": "37.52725021324737"
+          }
+        },
+        "Values": {
+          "Temperature": 11.786,
+          "Humidity": 100.4588,
+          "Co2": 467.314,
+          "Los": 1.8091199,
+          "DustPm1": 8.388,
+          "DustPm25": 10.8,
+          "DustPm10": 12.042,
+          "Pressure": 740.82,
+          "Aqi": 61.31626,
+          "Formaldehyde": 0.01004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 14",
+          "Coordinates": {
+            "Latitude": "55.67692915",
+            "Longitude": "37.50484011797856"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8996,
+          "Humidity": 99.8202,
+          "Co2": 466.262,
+          "Los": 1.77918,
+          "DustPm1": 8.378,
+          "DustPm25": 10.848,
+          "DustPm10": 12.094,
+          "Pressure": 741.08,
+          "Aqi": 61.42718,
+          "Formaldehyde": 0.010079999
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 15",
+          "Coordinates": { "Latitude": "55.6866255", "Longitude": "37.5250315" }
+        },
+        "Values": {
+          "Temperature": 11.847,
+          "Humidity": 99.9058,
+          "Co2": 466.5,
+          "Los": 1.80836,
+          "DustPm1": 8.39,
+          "DustPm25": 10.868,
+          "DustPm10": 12.104,
+          "Pressure": 740.98,
+          "Aqi": 61.6132,
+          "Formaldehyde": 0.01004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 16",
+          "Coordinates": {
+            "Latitude": "55.676239100000004",
+            "Longitude": "37.503643828885714"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8698,
+          "Humidity": 99.109,
+          "Co2": 470.496,
+          "Los": 1.79906,
+          "DustPm1": 8.318,
+          "DustPm25": 10.862,
+          "DustPm10": 12.102,
+          "Pressure": 740.96,
+          "Aqi": 61.47388,
+          "Formaldehyde": 0.009939999
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 17",
+          "Coordinates": { "Latitude": "55.6754178", "Longitude": "37.5037949" }
+        },
+        "Values": {
+          "Temperature": 11.8462,
+          "Humidity": 100.603,
+          "Co2": 466.878,
+          "Los": 1.77208,
+          "DustPm1": 8.398,
+          "DustPm25": 10.82,
+          "DustPm10": 12.05,
+          "Pressure": 741.18,
+          "Aqi": 60.99284,
+          "Formaldehyde": 0.009939999
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 2",
+          "Coordinates": { "Latitude": "55.6754178", "Longitude": "37.5037949" }
+        },
+        "Values": {
+          "Temperature": 11.8318,
+          "Humidity": 100.143,
+          "Co2": 467.29,
+          "Los": 1.80168,
+          "DustPm1": 8.368,
+          "DustPm25": 10.912,
+          "DustPm10": 12.064,
+          "Pressure": 740.92,
+          "Aqi": 61.49058,
+          "Formaldehyde": 0.01002
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 3",
+          "Coordinates": { "Latitude": "55.67944", "Longitude": "37.511386" }
+        },
+        "Values": {
+          "Temperature": 11.8872,
+          "Humidity": 99.1076,
+          "Co2": 467.134,
+          "Los": 1.8132,
+          "DustPm1": 8.346,
+          "DustPm25": 10.81,
+          "DustPm10": 12.11,
+          "Pressure": 741.06,
+          "Aqi": 61.68274,
+          "Formaldehyde": 0.0101
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 4",
+          "Coordinates": {
+            "Latitude": "55.7036101",
+            "Longitude": "37.546584412581936"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8386,
+          "Humidity": 100.1076,
+          "Co2": 472.186,
+          "Los": 1.78806,
+          "DustPm1": 8.376,
+          "DustPm25": 10.76,
+          "DustPm10": 12.078,
+          "Pressure": 741.04,
+          "Aqi": 61.09904,
+          "Formaldehyde": 0.0099599995
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 5",
+          "Coordinates": {
+            "Latitude": "55.696345550000004",
+            "Longitude": "37.544306465476986"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8644,
+          "Humidity": 98.8848,
+          "Co2": 464.546,
+          "Los": 1.80448,
+          "DustPm1": 8.438,
+          "DustPm25": 10.872,
+          "DustPm10": 12.1380005,
+          "Pressure": 740.92,
+          "Aqi": 61.19844,
+          "Formaldehyde": 0.0099599995
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 6",
+          "Coordinates": { "Latitude": "55.6924316", "Longitude": "37.5286267" }
+        },
+        "Values": {
+          "Temperature": 11.8842,
+          "Humidity": 99.206,
+          "Co2": 468.532,
+          "Los": 1.81228,
+          "DustPm1": 8.396,
+          "DustPm25": 10.836,
+          "DustPm10": 12.112,
+          "Pressure": 740.9,
+          "Aqi": 61.52314,
+          "Formaldehyde": 0.01004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 7",
+          "Coordinates": {
+            "Latitude": "55.6944695",
+            "Longitude": "37.540177629127186"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8364,
+          "Humidity": 100.1818,
+          "Co2": 468.266,
+          "Los": 1.81362,
+          "DustPm1": 8.328,
+          "DustPm25": 10.844,
+          "DustPm10": 12.104,
+          "Pressure": 740.9,
+          "Aqi": 61.40516,
+          "Formaldehyde": 0.00998
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 8",
+          "Coordinates": {
+            "Latitude": "55.69053165",
+            "Longitude": "37.5234145386715"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9908,
+          "Humidity": 99.8814,
+          "Co2": 471.766,
+          "Los": 1.81366,
+          "DustPm1": 8.3880005,
+          "DustPm25": 10.936,
+          "DustPm10": 12.102,
+          "Pressure": 741.0,
+          "Aqi": 61.2797,
+          "Formaldehyde": 0.01004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 9",
+          "Coordinates": { "Latitude": "55.6910376", "Longitude": "37.5330788" }
+        },
+        "Values": {
+          "Temperature": 11.9288,
+          "Humidity": 99.6444,
+          "Co2": 471.786,
+          "Los": 1.77096,
+          "DustPm1": 8.348,
+          "DustPm25": 10.846,
+          "DustPm10": 12.044,
+          "Pressure": 741.26,
+          "Aqi": 61.55108,
+          "Formaldehyde": 0.01002
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Профсоюзная улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 1",
+          "Coordinates": {
+            "Latitude": "55.3791791",
+            "Longitude": "36.734998399999995"
+          }
+        },
+        "Values": {
+          "Temperature": 11.815,
+          "Humidity": 99.4828,
+          "Co2": 325.748,
+          "Los": 1.28098,
+          "DustPm1": 5.888,
+          "DustPm25": 7.666,
+          "DustPm10": 8.408,
+          "Pressure": 740.96,
+          "Aqi": 42.9843,
+          "Formaldehyde": 0.00694
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 10",
+          "Coordinates": {
+            "Latitude": "55.37767725",
+            "Longitude": "36.73521305"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8308,
+          "Humidity": 99.6832,
+          "Co2": 326.096,
+          "Los": 1.25716,
+          "DustPm1": 5.896,
+          "DustPm25": 7.624,
+          "DustPm10": 8.4279995,
+          "Pressure": 741.02,
+          "Aqi": 43.15682,
+          "Formaldehyde": 0.0071
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 11",
+          "Coordinates": {
+            "Latitude": "55.376681399999995",
+            "Longitude": "36.733711676412554"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8633995,
+          "Humidity": 99.4856,
+          "Co2": 327.952,
+          "Los": 1.2559,
+          "DustPm1": 5.878,
+          "DustPm25": 7.578,
+          "DustPm10": 8.374,
+          "Pressure": 741.14,
+          "Aqi": 43.33102,
+          "Formaldehyde": 0.00704
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 12",
+          "Coordinates": {
+            "Latitude": "55.6854553",
+            "Longitude": "37.57013015"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9962,
+          "Humidity": 99.8636,
+          "Co2": 328.064,
+          "Los": 1.26324,
+          "DustPm1": 5.832,
+          "DustPm25": 7.622,
+          "DustPm10": 8.438,
+          "Pressure": 741.14,
+          "Aqi": 42.818718,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 13",
+          "Coordinates": {
+            "Latitude": "55.5788371",
+            "Longitude": "38.213339749999996"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9306,
+          "Humidity": 99.7416,
+          "Co2": 325.612,
+          "Los": 1.2453,
+          "DustPm1": 5.9040003,
+          "DustPm25": 7.576,
+          "DustPm10": 8.466,
+          "Pressure": 741.0,
+          "Aqi": 43.25,
+          "Formaldehyde": 0.00706
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 14",
+          "Coordinates": {
+            "Latitude": "55.3764436",
+            "Longitude": "36.736772725991855"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9098,
+          "Humidity": 100.124,
+          "Co2": 330.24,
+          "Los": 1.27314,
+          "DustPm1": 5.896,
+          "DustPm25": 7.686,
+          "DustPm10": 8.396,
+          "Pressure": 740.86,
+          "Aqi": 43.08196,
+          "Formaldehyde": 0.00704
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 15",
+          "Coordinates": { "Latitude": "55.6790069", "Longitude": "37.5651416" }
+        },
+        "Values": {
+          "Temperature": 11.9072,
+          "Humidity": 99.8022,
+          "Co2": 324.656,
+          "Los": 1.25114,
+          "DustPm1": 5.864,
+          "DustPm25": 7.564,
+          "DustPm10": 8.376,
+          "Pressure": 740.96,
+          "Aqi": 43.16872,
+          "Formaldehyde": 0.00706
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 16",
+          "Coordinates": {
+            "Latitude": "56.3300026",
+            "Longitude": "38.150039888539624"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8282,
+          "Humidity": 99.3072,
+          "Co2": 329.754,
+          "Los": 1.24962,
+          "DustPm1": 5.936,
+          "DustPm25": 7.558,
+          "DustPm10": 8.424,
+          "Pressure": 741.08,
+          "Aqi": 43.03328,
+          "Formaldehyde": 0.0069600004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 17",
+          "Coordinates": {
+            "Latitude": "56.33026915",
+            "Longitude": "38.14957022399194"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7892,
+          "Humidity": 99.322,
+          "Co2": 330.934,
+          "Los": 1.26228,
+          "DustPm1": 5.922,
+          "DustPm25": 7.594,
+          "DustPm10": 8.486,
+          "Pressure": 740.86,
+          "Aqi": 43.00544,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 18",
+          "Coordinates": {
+            "Latitude": "56.330197850000005",
+            "Longitude": "38.15018630989789"
+          }
+        },
+        "Values": {
+          "Temperature": 11.868,
+          "Humidity": 100.1448,
+          "Co2": 329.258,
+          "Los": 1.25156,
+          "DustPm1": 5.878,
+          "DustPm25": 7.654,
+          "DustPm10": 8.466,
+          "Pressure": 741.0,
+          "Aqi": 42.57518,
+          "Formaldehyde": 0.0069600004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 19",
+          "Coordinates": {
+            "Latitude": "55.6784643",
+            "Longitude": "37.564280222217285"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9054,
+          "Humidity": 99.5464,
+          "Co2": 330.592,
+          "Los": 1.27264,
+          "DustPm1": 5.82,
+          "DustPm25": 7.628,
+          "DustPm10": 8.468,
+          "Pressure": 741.04,
+          "Aqi": 42.9424,
+          "Formaldehyde": 0.00704
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 2",
+          "Coordinates": {
+            "Latitude": "55.37850365",
+            "Longitude": "36.73559255"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8686,
+          "Humidity": 100.063,
+          "Co2": 329.238,
+          "Los": 1.27888,
+          "DustPm1": 5.86,
+          "DustPm25": 7.62,
+          "DustPm10": 8.468,
+          "Pressure": 741.0,
+          "Aqi": 43.45722,
+          "Formaldehyde": 0.0068800002
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 20",
+          "Coordinates": {
+            "Latitude": "56.3303849",
+            "Longitude": "38.150377648229146"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8858,
+          "Humidity": 100.0628,
+          "Co2": 329.998,
+          "Los": 1.27412,
+          "DustPm1": 5.876,
+          "DustPm25": 7.57,
+          "DustPm10": 8.42,
+          "Pressure": 740.9,
+          "Aqi": 42.556778,
+          "Formaldehyde": 0.00694
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 3",
+          "Coordinates": {
+            "Latitude": "55.6857177",
+            "Longitude": "37.572405791205355"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9074,
+          "Humidity": 99.0672,
+          "Co2": 330.774,
+          "Los": 1.238,
+          "DustPm1": 5.824,
+          "DustPm25": 7.548,
+          "DustPm10": 8.4,
+          "Pressure": 741.12,
+          "Aqi": 42.74134,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 4",
+          "Coordinates": {
+            "Latitude": "55.687042149999996",
+            "Longitude": "37.571899699999996"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7706,
+          "Humidity": 99.7422,
+          "Co2": 329.854,
+          "Los": 1.2396001,
+          "DustPm1": 5.794,
+          "DustPm25": 7.676,
+          "DustPm10": 8.494,
+          "Pressure": 740.9,
+          "Aqi": 42.85256,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 5",
+          "Coordinates": {
+            "Latitude": "55.3860998",
+            "Longitude": "39.02933105936516"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8406,
+          "Humidity": 99.764,
+          "Co2": 323.566,
+          "Los": 1.26652,
+          "DustPm1": 5.822,
+          "DustPm25": 7.678,
+          "DustPm10": 8.526,
+          "Pressure": 741.08,
+          "Aqi": 43.35866,
+          "Formaldehyde": 0.0070800004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 6",
+          "Coordinates": {
+            "Latitude": "55.37871905",
+            "Longitude": "36.73395777717465"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8268,
+          "Humidity": 99.1818,
+          "Co2": 324.45,
+          "Los": 1.24662,
+          "DustPm1": 5.922,
+          "DustPm25": 7.564,
+          "DustPm10": 8.324,
+          "Pressure": 740.8,
+          "Aqi": 42.68652,
+          "Formaldehyde": 0.00706
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 7",
+          "Coordinates": {
+            "Latitude": "55.385965799999994",
+            "Longitude": "39.029085093228176"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8084,
+          "Humidity": 99.5254,
+          "Co2": 329.822,
+          "Los": 1.2498,
+          "DustPm1": 5.778,
+          "DustPm25": 7.67,
+          "DustPm10": 8.438,
+          "Pressure": 741.02,
+          "Aqi": 42.82116,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 8",
+          "Coordinates": {
+            "Latitude": "55.37822275",
+            "Longitude": "36.733664700000006"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8776,
+          "Humidity": 98.7464,
+          "Co2": 329.476,
+          "Los": 1.27614,
+          "DustPm1": 5.854,
+          "DustPm25": 7.488,
+          "DustPm10": 8.424,
+          "Pressure": 741.02,
+          "Aqi": 43.00394,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 9",
+          "Coordinates": {
+            "Latitude": "55.68254305",
+            "Longitude": "37.56903696172455"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8688,
+          "Humidity": 99.1244,
+          "Co2": 329.64,
+          "Los": 1.23004,
+          "DustPm1": 5.906,
+          "DustPm25": 7.508,
+          "DustPm10": 8.392,
+          "Pressure": 740.96,
+          "Aqi": 43.20738,
+          "Formaldehyde": 0.00698
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Пятницкая улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Пятницкая улица 1",
+          "Coordinates": {
+            "Latitude": "56.1847096",
+            "Longitude": "36.960645087602174"
+          }
+        },
+        "Values": {
+          "Temperature": 11.883,
+          "Humidity": 99.5472,
+          "Co2": 471.136,
+          "Los": 1.79172,
+          "DustPm1": 8.41,
+          "DustPm25": 10.908,
+          "DustPm10": 12.012,
+          "Pressure": 741.22,
+          "Aqi": 60.86148,
+          "Formaldehyde": 0.01
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Пятницкая улица 2",
+          "Coordinates": {
+            "Latitude": "56.18506764999999",
+            "Longitude": "36.96084025577679"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9948,
+          "Humidity": 99.821,
+          "Co2": 468.692,
+          "Los": 1.80108,
+          "DustPm1": 8.276,
+          "DustPm25": 10.886,
+          "DustPm10": 12.118,
+          "Pressure": 741.0,
+          "Aqi": 61.62812,
+          "Formaldehyde": 0.00998
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Пятницкая улица 3",
+          "Coordinates": {
+            "Latitude": "55.87692995",
+            "Longitude": "37.3139439"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7754,
+          "Humidity": 99.5846,
+          "Co2": 467.354,
+          "Los": 1.81376,
+          "DustPm1": 8.366,
+          "DustPm25": 10.91,
+          "DustPm10": 12.158,
+          "Pressure": 740.92,
+          "Aqi": 61.54526,
+          "Formaldehyde": 0.0099599995
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Пятницкая улица 4",
+          "Coordinates": {
+            "Latitude": "56.1853146",
+            "Longitude": "36.9603146185879"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8954,
+          "Humidity": 99.8636,
+          "Co2": 468.936,
+          "Los": 1.7982401,
+          "DustPm1": 8.468,
+          "DustPm25": 10.892,
+          "DustPm10": 12.004,
+          "Pressure": 741.06,
+          "Aqi": 61.5792,
+          "Formaldehyde": 0.009939999
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Рождественский бульвар",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Рождественский бульвар 1",
+          "Coordinates": { "Latitude": "55.7666912", "Longitude": "37.6242465" }
+        },
+        "Values": {
+          "Temperature": 11.8194,
+          "Humidity": 99.3686,
+          "Co2": 463.974,
+          "Los": 1.80762,
+          "DustPm1": 8.404,
+          "DustPm25": 10.848,
+          "DustPm10": 12.012,
+          "Pressure": 741.1,
+          "Aqi": 61.52274,
+          "Formaldehyde": 0.01004
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Садовая-каретная улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Садовая-каретная улица 1",
+          "Coordinates": { "Latitude": "55.7732161", "Longitude": "37.6089518" }
+        },
+        "Values": {
+          "Temperature": 11.7922,
+          "Humidity": 99.3654,
+          "Co2": 325.062,
+          "Los": 1.27,
+          "DustPm1": 5.84,
+          "DustPm25": 7.5620003,
+          "DustPm10": 8.432,
+          "Pressure": 741.06,
+          "Aqi": 43.5036,
+          "Formaldehyde": 0.00698
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Садовая-самотёчная улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Садовая-самотёчная улица 1",
+          "Coordinates": {
+            "Latitude": "55.774211199999996",
+            "Longitude": "37.61291880944127"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8672,
+          "Humidity": 99.1834,
+          "Co2": 328.812,
+          "Los": 1.2418799,
+          "DustPm1": 5.844,
+          "DustPm25": 7.656,
+          "DustPm10": 8.512,
+          "Pressure": 741.06,
+          "Aqi": 43.20964,
+          "Formaldehyde": 0.00698
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Солженицына улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Солженицына улица 1",
+          "Coordinates": { "Latitude": "55.7421157", "Longitude": "37.655284" }
+        },
+        "Values": {
+          "Temperature": 11.8764,
+          "Humidity": 100.1034,
+          "Co2": 325.092,
+          "Los": 1.25908,
+          "DustPm1": 5.848,
+          "DustPm25": 7.622,
+          "DustPm10": 8.444,
+          "Pressure": 741.18,
+          "Aqi": 43.07084,
+          "Formaldehyde": 0.00704
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Солженицына улица 2",
+          "Coordinates": { "Latitude": "55.7428607", "Longitude": "37.6516599" }
+        },
+        "Values": {
+          "Temperature": 11.903,
+          "Humidity": 99.3276,
+          "Co2": 328.594,
+          "Los": 1.24238,
+          "DustPm1": 5.906,
+          "DustPm25": 7.58,
+          "DustPm10": 8.398,
+          "Pressure": 741.06,
+          "Aqi": 43.26024,
+          "Formaldehyde": 0.0071400004
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Сретенский бульвар",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Сретенский бульвар 1",
+          "Coordinates": {
+            "Latitude": "55.76556815",
+            "Longitude": "37.63509604933666"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8022,
+          "Humidity": 98.6692,
+          "Co2": 329.766,
+          "Los": 1.2546201,
+          "DustPm1": 5.85,
+          "DustPm25": 7.6280003,
+          "DustPm10": 8.2960005,
+          "Pressure": 740.92,
+          "Aqi": 42.9862,
+          "Formaldehyde": 0.00698
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Страстной бульвар",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Страстной бульвар 1",
+          "Coordinates": {
+            "Latitude": "55.76669765",
+            "Longitude": "37.60697244502567"
+          }
+        },
+        "Values": {
+          "Temperature": 11.809,
+          "Humidity": 100.1076,
+          "Co2": 468.8,
+          "Los": 1.79596,
+          "DustPm1": 8.354,
+          "DustPm25": 10.862,
+          "DustPm10": 12.174,
+          "Pressure": 740.98,
+          "Aqi": 61.24184,
+          "Formaldehyde": 0.01004
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Таганская улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Таганская улица 1",
+          "Coordinates": { "Latitude": "55.7416447", "Longitude": "37.6560071" }
+        },
+        "Values": {
+          "Temperature": 11.9134,
+          "Humidity": 99.0278,
+          "Co2": 331.118,
+          "Los": 1.26992,
+          "DustPm1": 5.918,
+          "DustPm25": 7.614,
+          "DustPm10": 8.448,
+          "Pressure": 741.04,
+          "Aqi": 42.67016,
+          "Formaldehyde": 0.0069000004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Таганская улица 2",
+          "Coordinates": {
+            "Latitude": "55.740803850000006",
+            "Longitude": "37.657670673526056"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7606,
+          "Humidity": 99.663,
+          "Co2": 328.502,
+          "Los": 1.26414,
+          "DustPm1": 5.85,
+          "DustPm25": 7.54,
+          "DustPm10": 8.424,
+          "Pressure": 740.94,
+          "Aqi": 43.31594,
+          "Formaldehyde": 0.0070200004
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Тверская улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Тверская улица 1",
+          "Coordinates": {
+            "Latitude": "55.75578165",
+            "Longitude": "37.61490396465909"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8328,
+          "Humidity": 99.084404,
+          "Co2": 326.666,
+          "Los": 1.2695,
+          "DustPm1": 5.818,
+          "DustPm25": 7.6340003,
+          "DustPm10": 8.396,
+          "Pressure": 740.9,
+          "Aqi": 42.95012,
+          "Formaldehyde": 0.0070200004
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Тверская улица 2",
+          "Coordinates": {
+            "Latitude": "55.75840725",
+            "Longitude": "37.61480812085625"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8834,
+          "Humidity": 99.703804,
+          "Co2": 327.548,
+          "Los": 1.25708,
+          "DustPm1": 5.872,
+          "DustPm25": 7.59,
+          "DustPm10": 8.394,
+          "Pressure": 740.98,
+          "Aqi": 43.1148,
+          "Formaldehyde": 0.007
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Тверская улица 3",
+          "Coordinates": {
+            "Latitude": "55.7573218",
+            "Longitude": "37.61295165228725"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8596,
+          "Humidity": 99.7428,
+          "Co2": 324.992,
+          "Los": 1.244,
+          "DustPm1": 5.934,
+          "DustPm25": 7.572,
+          "DustPm10": 8.42,
+          "Pressure": 741.0,
+          "Aqi": 42.95718,
+          "Formaldehyde": 0.00698
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Тверская улица 4",
+          "Coordinates": { "Latitude": "55.7588779", "Longitude": "37.6126975" }
+        },
+        "Values": {
+          "Temperature": 11.8926,
+          "Humidity": 99.9384,
+          "Co2": 329.106,
+          "Los": 1.2564,
+          "DustPm1": 5.788,
+          "DustPm25": 7.602,
+          "DustPm10": 8.476,
+          "Pressure": 741.04,
+          "Aqi": 42.94628,
+          "Formaldehyde": 0.0070200004
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Цветной бульвар",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Цветной бульвар 1",
+          "Coordinates": { "Latitude": "55.7697192", "Longitude": "37.6226149" }
+        },
+        "Values": {
+          "Temperature": 11.8736,
+          "Humidity": 99.1228,
+          "Co2": 466.164,
+          "Los": 1.82402,
+          "DustPm1": 8.352,
+          "DustPm25": 10.79,
+          "DustPm10": 11.988,
+          "Pressure": 741.12,
+          "Aqi": 61.32438,
+          "Formaldehyde": 0.01
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Щёлковское шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 1",
+          "Coordinates": {
+            "Latitude": "55.92776845",
+            "Longitude": "38.14970655975944"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8066,
+          "Humidity": 99.1116,
+          "Co2": 234.22,
+          "Los": 0.88976,
+          "DustPm1": 4.2,
+          "DustPm25": 5.382,
+          "DustPm10": 5.952,
+          "Pressure": 741.04,
+          "Aqi": 30.618639,
+          "Formaldehyde": 0.00494
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 10",
+          "Coordinates": {
+            "Latitude": "55.804393149999996",
+            "Longitude": "37.762233023457014"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8938,
+          "Humidity": 99.8406,
+          "Co2": 234.458,
+          "Los": 0.90121996,
+          "DustPm1": 4.164,
+          "DustPm25": 5.514,
+          "DustPm10": 6.002,
+          "Pressure": 741.02,
+          "Aqi": 30.8874,
+          "Formaldehyde": 0.0050999997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 11",
+          "Coordinates": {
+            "Latitude": "55.80560235",
+            "Longitude": "37.76133510296894"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8904,
+          "Humidity": 99.5884,
+          "Co2": 235.368,
+          "Los": 0.90366,
+          "DustPm1": 4.152,
+          "DustPm25": 5.362,
+          "DustPm10": 6.108,
+          "Pressure": 741.12,
+          "Aqi": 30.32338,
+          "Formaldehyde": 0.00502
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 2",
+          "Coordinates": {
+            "Latitude": "55.8237323",
+            "Longitude": "37.88935892337287"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9076,
+          "Humidity": 99.5046,
+          "Co2": 234.326,
+          "Los": 0.89801997,
+          "DustPm1": 4.192,
+          "DustPm25": 5.342,
+          "DustPm10": 6.016,
+          "Pressure": 740.88,
+          "Aqi": 31.0152,
+          "Formaldehyde": 0.0050399997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 3",
+          "Coordinates": {
+            "Latitude": "55.803677949999994",
+            "Longitude": "37.75390165510335"
+          }
+        },
+        "Values": {
+          "Temperature": 11.817,
+          "Humidity": 99.5822,
+          "Co2": 233.284,
+          "Los": 0.8866,
+          "DustPm1": 4.162,
+          "DustPm25": 5.5,
+          "DustPm10": 6.13,
+          "Pressure": 740.98,
+          "Aqi": 30.8459,
+          "Formaldehyde": 0.00494
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 4",
+          "Coordinates": {
+            "Latitude": "55.803791000000004",
+            "Longitude": "37.759750457762635"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8192005,
+          "Humidity": 100.0616,
+          "Co2": 237.328,
+          "Los": 0.92446,
+          "DustPm1": 4.178,
+          "DustPm25": 5.416,
+          "DustPm10": 5.972,
+          "Pressure": 740.98,
+          "Aqi": 30.52874,
+          "Formaldehyde": 0.0050399997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 5",
+          "Coordinates": {
+            "Latitude": "55.82176225",
+            "Longitude": "37.89079177290055"
+          }
+        },
+        "Values": {
+          "Temperature": 11.876,
+          "Humidity": 99.1384,
+          "Co2": 236.736,
+          "Los": 0.9042,
+          "DustPm1": 4.148,
+          "DustPm25": 5.396,
+          "DustPm10": 6.014,
+          "Pressure": 740.82,
+          "Aqi": 30.65272,
+          "Formaldehyde": 0.0049799997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 6",
+          "Coordinates": {
+            "Latitude": "55.80401175",
+            "Longitude": "37.76040434297491"
+          }
+        },
+        "Values": {
+          "Temperature": 11.917,
+          "Humidity": 99.8824,
+          "Co2": 234.054,
+          "Los": 0.90248,
+          "DustPm1": 4.196,
+          "DustPm25": 5.472,
+          "DustPm10": 6.118,
+          "Pressure": 741.02,
+          "Aqi": 30.90916,
+          "Formaldehyde": 0.0049199997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 7",
+          "Coordinates": {
+            "Latitude": "55.8049769",
+            "Longitude": "37.75761225777056"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8034,
+          "Humidity": 99.8658,
+          "Co2": 234.376,
+          "Los": 0.90714,
+          "DustPm1": 4.204,
+          "DustPm25": 5.486,
+          "DustPm10": 6.002,
+          "Pressure": 740.94,
+          "Aqi": 30.81266,
+          "Formaldehyde": 0.00502
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 8",
+          "Coordinates": {
+            "Latitude": "55.80424325",
+            "Longitude": "37.76124525446758"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9082,
+          "Humidity": 99.4488,
+          "Co2": 234.178,
+          "Los": 0.90138,
+          "DustPm1": 4.188,
+          "DustPm25": 5.422,
+          "DustPm10": 5.978,
+          "Pressure": 740.96,
+          "Aqi": 30.36488,
+          "Formaldehyde": 0.00506
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 9",
+          "Coordinates": {
+            "Latitude": "55.805674350000004",
+            "Longitude": "37.75895529483428"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7914,
+          "Humidity": 99.5818,
+          "Co2": 236.746,
+          "Los": 0.91302,
+          "DustPm1": 4.132,
+          "DustPm25": 5.434,
+          "DustPm10": 6.04,
+          "Pressure": 740.84,
+          "Aqi": 30.9499,
+          "Formaldehyde": 0.0049
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Энтузиастов шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 1",
+          "Coordinates": {
+            "Latitude": "55.794719900000004",
+            "Longitude": "37.92810895126537"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8546,
+          "Humidity": 99.883804,
+          "Co2": 235.54,
+          "Los": 0.89856,
+          "DustPm1": 4.242,
+          "DustPm25": 5.358,
+          "DustPm10": 6.048,
+          "Pressure": 741.14,
+          "Aqi": 30.33498,
+          "Formaldehyde": 0.00512
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 10",
+          "Coordinates": {
+            "Latitude": "55.7928208",
+            "Longitude": "37.91787385000001"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9216,
+          "Humidity": 99.7866,
+          "Co2": 233.81,
+          "Los": 0.88568,
+          "DustPm1": 4.162,
+          "DustPm25": 5.412,
+          "DustPm10": 6.088,
+          "Pressure": 741.08,
+          "Aqi": 30.66842,
+          "Formaldehyde": 0.0049199997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 11",
+          "Coordinates": {
+            "Latitude": "55.7516141",
+            "Longitude": "37.71370298241454"
+          }
+        },
+        "Values": {
+          "Temperature": 11.813,
+          "Humidity": 99.2026,
+          "Co2": 235.42,
+          "Los": 0.90296,
+          "DustPm1": 4.206,
+          "DustPm25": 5.39,
+          "DustPm10": 5.932,
+          "Pressure": 741.0,
+          "Aqi": 30.74892,
+          "Formaldehyde": 0.0049799997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 12",
+          "Coordinates": {
+            "Latitude": "55.748768",
+            "Longitude": "37.705630215160554"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9222,
+          "Humidity": 99.207,
+          "Co2": 233.86,
+          "Los": 0.88132,
+          "DustPm1": 4.214,
+          "DustPm25": 5.374,
+          "DustPm10": 6.042,
+          "Pressure": 740.92,
+          "Aqi": 30.6668,
+          "Formaldehyde": 0.0050399997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 13",
+          "Coordinates": {
+            "Latitude": "55.7515614",
+            "Longitude": "37.714916096703924"
+          }
+        },
+        "Values": {
+          "Temperature": 12.062,
+          "Humidity": 99.3846,
+          "Co2": 233.854,
+          "Los": 0.88962,
+          "DustPm1": 4.176,
+          "DustPm25": 5.43,
+          "DustPm10": 5.972,
+          "Pressure": 741.06,
+          "Aqi": 30.56614,
+          "Formaldehyde": 0.00508
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 14",
+          "Coordinates": {
+            "Latitude": "55.749503000000004",
+            "Longitude": "37.71096643744963"
+          }
+        },
+        "Values": {
+          "Temperature": 11.7548,
+          "Humidity": 100.024,
+          "Co2": 233.486,
+          "Los": 0.89944,
+          "DustPm1": 4.238,
+          "DustPm25": 5.386,
+          "DustPm10": 6.106,
+          "Pressure": 740.64,
+          "Aqi": 31.2375,
+          "Formaldehyde": 0.00502
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 15",
+          "Coordinates": {
+            "Latitude": "55.7954197",
+            "Longitude": "37.93998805"
+          }
+        },
+        "Values": {
+          "Temperature": 11.879,
+          "Humidity": 99.5274,
+          "Co2": 234.634,
+          "Los": 0.8988,
+          "DustPm1": 4.164,
+          "DustPm25": 5.456,
+          "DustPm10": 6.06,
+          "Pressure": 741.06,
+          "Aqi": 30.8348,
+          "Formaldehyde": 0.0049199997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 16",
+          "Coordinates": {
+            "Latitude": "55.750173000000004",
+            "Longitude": "37.712822671549006"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9026,
+          "Humidity": 99.807,
+          "Co2": 235.72,
+          "Los": 0.92634,
+          "DustPm1": 4.238,
+          "DustPm25": 5.374,
+          "DustPm10": 6.082,
+          "Pressure": 740.92,
+          "Aqi": 31.06242,
+          "Formaldehyde": 0.005
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 17",
+          "Coordinates": {
+            "Latitude": "55.7533069",
+            "Longitude": "37.72359105151314"
+          }
+        },
+        "Values": {
+          "Temperature": 12.0054,
+          "Humidity": 99.7436,
+          "Co2": 234.544,
+          "Los": 0.91877997,
+          "DustPm1": 4.19,
+          "DustPm25": 5.34,
+          "DustPm10": 6.194,
+          "Pressure": 740.92,
+          "Aqi": 31.0984,
+          "Formaldehyde": 0.0050399997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 18",
+          "Coordinates": {
+            "Latitude": "55.750038849999996",
+            "Longitude": "37.71414659561141"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8586,
+          "Humidity": 99.958,
+          "Co2": 231.254,
+          "Los": 0.88084,
+          "DustPm1": 4.164,
+          "DustPm25": 5.378,
+          "DustPm10": 6.042,
+          "Pressure": 741.18,
+          "Aqi": 30.82184,
+          "Formaldehyde": 0.0049799997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 2",
+          "Coordinates": { "Latitude": "55.7464187", "Longitude": "37.683244" }
+        },
+        "Values": {
+          "Temperature": 11.803,
+          "Humidity": 99.625,
+          "Co2": 233.39,
+          "Los": 0.90194,
+          "DustPm1": 4.16,
+          "DustPm25": 5.472,
+          "DustPm10": 5.952,
+          "Pressure": 740.92,
+          "Aqi": 30.69766,
+          "Formaldehyde": 0.0050399997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 3",
+          "Coordinates": {
+            "Latitude": "55.85732925",
+            "Longitude": "38.45764237644155"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8076,
+          "Humidity": 99.0314,
+          "Co2": 232.212,
+          "Los": 0.8675,
+          "DustPm1": 4.242,
+          "DustPm25": 5.464,
+          "DustPm10": 5.988,
+          "Pressure": 740.94,
+          "Aqi": 30.85016,
+          "Formaldehyde": 0.0050399997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 4",
+          "Coordinates": {
+            "Latitude": "55.858237599999995",
+            "Longitude": "38.46326014747029"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8144,
+          "Humidity": 99.6458,
+          "Co2": 236.094,
+          "Los": 0.92214,
+          "DustPm1": 4.186,
+          "DustPm25": 5.378,
+          "DustPm10": 6.132,
+          "Pressure": 741.18,
+          "Aqi": 30.9989,
+          "Formaldehyde": 0.00502
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 5",
+          "Coordinates": {
+            "Latitude": "55.85696375",
+            "Longitude": "38.45859952249018"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9678,
+          "Humidity": 99.949,
+          "Co2": 233.906,
+          "Los": 0.89216,
+          "DustPm1": 4.206,
+          "DustPm25": 5.518,
+          "DustPm10": 6.138,
+          "Pressure": 740.94,
+          "Aqi": 30.68102,
+          "Formaldehyde": 0.0050399997
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 6",
+          "Coordinates": { "Latitude": "55.7896048", "Longitude": "37.9124125" }
+        },
+        "Values": {
+          "Temperature": 11.8158,
+          "Humidity": 99.4276,
+          "Co2": 236.924,
+          "Los": 0.88714,
+          "DustPm1": 4.306,
+          "DustPm25": 5.352,
+          "DustPm10": 6.106,
+          "Pressure": 740.84,
+          "Aqi": 30.44082,
+          "Formaldehyde": 0.00508
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 7",
+          "Coordinates": {
+            "Latitude": "55.74864465",
+            "Longitude": "37.700233449208575"
+          }
+        },
+        "Values": {
+          "Temperature": 11.9906,
+          "Humidity": 99.641,
+          "Co2": 235.524,
+          "Los": 0.91126,
+          "DustPm1": 4.138,
+          "DustPm25": 5.45,
+          "DustPm10": 6.098,
+          "Pressure": 741.0,
+          "Aqi": 30.83326,
+          "Formaldehyde": 0.00496
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 8",
+          "Coordinates": {
+            "Latitude": "55.8582534",
+            "Longitude": "38.4647721770649"
+          }
+        },
+        "Values": {
+          "Temperature": 11.941,
+          "Humidity": 99.7686,
+          "Co2": 236.914,
+          "Los": 0.88194,
+          "DustPm1": 4.186,
+          "DustPm25": 5.404,
+          "DustPm10": 6.078,
+          "Pressure": 741.02,
+          "Aqi": 30.73774,
+          "Formaldehyde": 0.005
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 9",
+          "Coordinates": {
+            "Latitude": "55.75110315",
+            "Longitude": "37.711816500307506"
+          }
+        },
+        "Values": {
+          "Temperature": 11.8432,
+          "Humidity": 99.2874,
+          "Co2": 237.046,
+          "Los": 0.90886,
+          "DustPm1": 4.142,
+          "DustPm25": 5.312,
+          "DustPm10": 6.03,
+          "Pressure": 741.08,
+          "Aqi": 30.90308,
+          "Formaldehyde": 0.00506
+        }
+      }
+    ]
+  }
+]

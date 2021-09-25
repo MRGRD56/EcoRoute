@@ -36,24 +36,50 @@ namespace EcoRoute.Data.Parser
             csvWriter.Context.RegisterClassMap<SensorDataMap>();
             csvWriter.WriteRecords(data);
         }
-        
-        private static async Task Main(string[] args)
-        {
-            // var stopwatch = new Stopwatch();
-            // stopwatch.Start();
-            // var data = SensorsDataParser.ParseCsv(
-            //     @"C:\Users\SU\Desktop\Данные по коробкам\sensors_data.csv");
-            // stopwatch.Stop();
-            // Console.WriteLine("Строк: " + data.Count);
-            // Console.WriteLine(stopwatch.Elapsed.TotalSeconds + " s");
-            //
-            // var analyzedData = AnalyzedSensorsData.FromSensorsData(data);
-            // var analyzedDataJson = JsonConvert.SerializeObject(analyzedData);
-            // File.WriteAllText("analyzed_data.json", analyzedDataJson);
 
+        private static void AnalyzeData()
+        {
+            var stopwatch = new Stopwatch();
+            stopwatch.Start();
+            var data = SensorsDataParser.ParseCsv(
+                @"C:\Users\SU\Desktop\Данные по коробкам\sensors_data.csv");
+            stopwatch.Stop();
+            Console.WriteLine("Строк: " + data.Count);
+            Console.WriteLine(stopwatch.Elapsed.TotalSeconds + " s");
+            
+            var analyzedData = AnalyzedSensorsData.FromSensorsData(data);
+            var analyzedDataJson = JsonConvert.SerializeObject(analyzedData);
+            File.WriteAllText("analyzed_data_new.json", analyzedDataJson);
+        }
+
+        public static void FixData()
+        {
+            var stopwatch = new Stopwatch();
+            stopwatch.Start();
+            var data = SensorsDataParser.ParseCsv(
+                @"C:\Users\SU\Desktop\Данные по коробкам\sensors_data.csv");
+            stopwatch.Stop();
+            Console.WriteLine("Строк: " + data.Count);
+            Console.WriteLine(stopwatch.Elapsed.TotalSeconds + " s");
+            
+            data.ForEach(d =>
+            {
+                d.Address = d.Address
+                    .Replace("Кремлевская набережная", "Кремлёвская набережная")
+                    .Replace("Мосфильмосвкая улица", "Мосфильмовская улица")
+                    .Replace("Нагатскинская набережная", "Нагатинская набережная")
+                    .Replace("Садовая-самотечная", "Садовая-самотёчная")
+                    .Replace("Щелковское шоссе", "Щёлковское шоссе");
+            });
+            
+            SensorsDataParser.WriteCsv(@"C:\Users\SU\Desktop\Данные по коробкам\sensors_data_2.csv", data);
+        }
+
+        private static async Task FixAnalyzedDataAsync()
+        {
             var osm = new OpenStreetMapClient();
             
-            var analyzedDataJson = await File.ReadAllTextAsync("analyzed_data.json");
+            var analyzedDataJson = await File.ReadAllTextAsync("analyzed_data_new.json");
             var analyzedData = JsonConvert.DeserializeObject<List<AnalyzedSensorsData>>(analyzedDataJson);
             foreach (var d in analyzedData)
             {
@@ -66,14 +92,19 @@ namespace EcoRoute.Data.Parser
                         {
                             Console.WriteLine("NULL " + g.Sensor.Address);
                         }
-
+            
                         g.Sensor.Coordinates = coordinates;
                     }
                 }
             }
-
+            
             var newAnalyzedDataJson = JsonConvert.SerializeObject(analyzedData);
-            await File.WriteAllTextAsync("analyzed_data2.json", newAnalyzedDataJson);
+            await File.WriteAllTextAsync("analyzed_data_new2.json", newAnalyzedDataJson);
+        }
+        
+        private static async Task Main(string[] args)
+        {
+            await FixAnalyzedDataAsync();
         }
     }
 }

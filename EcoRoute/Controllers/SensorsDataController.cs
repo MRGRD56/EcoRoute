@@ -27,19 +27,11 @@ namespace EcoRoute.Controllers
             return new
             {
                 data.Street,
-                ContaminationLevel = data.GeoData.Average(g => g.Aqi.Value),
+                ContaminationLevel = data.GeoData.Average(g => g.Values.Aqi),
                 Sensors = data.GeoData.Select(g => g.Sensor.Coordinates.AsArray())
             };
         }
-        
-        // [HttpGet]
-        // public IActionResult AllData()
-        // {
-        //     var sensorsDataList = _sensorsDataRepository.AnalyzedSensorsData;
-        //     
-        //     return Ok(sensorsDataList.Select(data => GetResultFromData(data)));
-        // }
-        
+
         [HttpGet("{page:int}")]
         public IActionResult AllData([FromRoute] int page)
         {
@@ -66,10 +58,38 @@ namespace EcoRoute.Controllers
             var sensorsDataById = _sensorsDataRepository.FindDataById(street);
             if (sensorsDataById == null)
             {
-                return BadRequest(null);
+                return new JsonResult(null);
             }
 
             var result = GetResultFromData(sensorsDataById);
+            return Ok(result);
+        }
+
+        [HttpGet("{id}")]
+        public IActionResult Street([FromRoute] string id)
+        {
+            var sensorsDataById = _sensorsDataRepository.FindDataById(id);
+            if (sensorsDataById == null)
+            {
+                return new JsonResult(null);
+            }
+            var result = new
+            {
+                sensorsDataById.Street,
+                Values = new SensorValues
+                {
+                    Temperature = sensorsDataById.GeoData.Average(sd => sd.Values.Temperature),
+                    Humidity = sensorsDataById.GeoData.Average(sd => sd.Values.Humidity),
+                    Co2 = sensorsDataById.GeoData.Average(sd => sd.Values.Co2),
+                    Los = sensorsDataById.GeoData.Average(sd => sd.Values.Los),
+                    DustPm1 = sensorsDataById.GeoData.Average(sd => sd.Values.DustPm1),
+                    DustPm25 = sensorsDataById.GeoData.Average(sd => sd.Values.DustPm25),
+                    DustPm10 = sensorsDataById.GeoData.Average(sd => sd.Values.DustPm10),
+                    Pressure = sensorsDataById.GeoData.Average(sd => sd.Values.Pressure),
+                    Aqi = sensorsDataById.GeoData.Average(sd => sd.Values.Aqi),
+                    Formaldehyde = sensorsDataById.GeoData.Average(sd => sd.Values.Formaldehyde)
+                }
+            };
             return Ok(result);
         }
     }

@@ -125,6 +125,15 @@ namespace EcoRoute.Data
             return csvReader.GetRecords<SensorData>().ToList();
         }
 
+        public static void WriteCsv(string filePath, List<SensorData> sensorDataList)
+        {
+            using var fileStream = new FileStream(filePath, FileMode.Create, FileAccess.Write);
+            using var streamWriter = new StreamWriter(fileStream, Encoding.UTF8);
+            using var csvWriter = new CsvWriter(streamWriter, CultureInfo.InvariantCulture);
+            csvWriter.Context.RegisterClassMap<SensorDataMap>();
+            csvWriter.WriteRecords(sensorDataList);
+        }
+
         public static List<AnalyzedSensorsData> ParseAnalyzedJson(string filePath)
         {
             var json = File.ReadAllText(filePath);
