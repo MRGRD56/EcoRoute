@@ -10,20 +10,23 @@ namespace EcoRoute.Infrastructure.Models
         public float Humidity { get; set; }
         public float Co2 { get; set; }
         public float Los { get; set; }
-        public float DustPm1 { get; set; }
-        public float DustPm25 { get; set; }
-        public float DustPm10 { get; set; }
+        public float? DustPm1 { get; set; }
+        public float? DustPm25 { get; set; }
+        public float? DustPm10 { get; set; }
         public float Pressure { get; set; }
         public float Aqi { get; set; }
         public float Formaldehyde { get; set; }
 
+        public string GetAddress() => Address.Replace("_", " ");
+        public string GetStreet() => Address.Split("_")[0];
+        
         public SensorData()
         {
             
         }
         
         public SensorData(string address, DateTime changeDate, float temperature, float humidity, float co2, float los, 
-            float dustPm1, float dustPm25, float dustPm10, float pressure, float aqi, float formaldehyde)
+            float? dustPm1, float? dustPm25, float? dustPm10, float pressure, float aqi, float formaldehyde)
         {
             Address = address;
             ChangeDate = changeDate;

@@ -6,6 +6,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\EcoRoute.MapBox.Models\EcoRoute.MapBox.Models.csproj" />
+      <ProjectReference Include="..\OpenStreetMap.Interop\OpenStreetMap.Interop.csproj" />
     </ItemGroup>
 
 </Project>

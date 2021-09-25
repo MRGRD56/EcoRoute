@@ -1,0 +1,3995 @@
+[
+  {
+    "Street": "Набережная Тараса Шевченко",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Набережная Тараса Шевченко 1",
+          "Coordinates": {
+            "Latitude": "55.746778250000006",
+            "Longitude": "37.571722967402145"
+          }
+        },
+        "Aqi": {
+          "Value": 61.947502,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Набережная Тараса Шевченко 2",
+          "Coordinates": { "Latitude": "55.7467696", "Longitude": "37.5727272" }
+        },
+        "Aqi": {
+          "Value": 61.15032,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Набережная Тараса Шевченко 3",
+          "Coordinates": {
+            "Latitude": "55.7486062",
+            "Longitude": "37.57204434714735"
+          }
+        },
+        "Aqi": {
+          "Value": 61.58808,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Набережная Тараса Шевченко 4",
+          "Coordinates": { "Latitude": "55.7467696", "Longitude": "37.5727272" }
+        },
+        "Aqi": {
+          "Value": 61.12508,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Набережная Тараса Шевченко 5",
+          "Coordinates": {
+            "Latitude": "55.74936645",
+            "Longitude": "37.57062428153115"
+          }
+        },
+        "Aqi": {
+          "Value": 61.00712,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "1905 года улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "1905 года улица 1",
+          "Coordinates": {
+            "Latitude": "55.75764935",
+            "Longitude": "37.55800723181556"
+          }
+        },
+        "Aqi": {
+          "Value": 61.26712,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "1905 года улица 2",
+          "Coordinates": { "Latitude": "55.7548591", "Longitude": "37.5604535" }
+        },
+        "Aqi": {
+          "Value": 61.21362,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "1905 года улица 3",
+          "Coordinates": {
+            "Latitude": "55.75831635",
+            "Longitude": "37.55782876989959"
+          }
+        },
+        "Aqi": {
+          "Value": 61.24144,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "1905 года улица 4",
+          "Coordinates": {
+            "Latitude": "55.7652612",
+            "Longitude": "37.56154773919651"
+          }
+        },
+        "Aqi": {
+          "Value": 61.91458,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Баррикадная улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Баррикадная улица 1",
+          "Coordinates": { "Latitude": "55.7597342", "Longitude": "37.5837457" }
+        },
+        "Aqi": {
+          "Value": 61.23772,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Бережковская набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Бережковская набережная 1",
+          "Coordinates": { "Latitude": "55.7397067", "Longitude": "37.5642302" }
+        },
+        "Aqi": {
+          "Value": 79.92502,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Бережковская набережная 2",
+          "Coordinates": { "Latitude": "55.7355449", "Longitude": "37.5619465" }
+        },
+        "Aqi": {
+          "Value": 80.12464,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Бережковская набережная 3",
+          "Coordinates": { "Latitude": "55.7355449", "Longitude": "37.5619465" }
+        },
+        "Aqi": {
+          "Value": 79.8162,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Бережковская набережная 4",
+          "Coordinates": {
+            "Latitude": "55.740498849999994",
+            "Longitude": "37.56734355"
+          }
+        },
+        "Aqi": {
+          "Value": 79.36566,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Бережковская набережная 5",
+          "Coordinates": { "Latitude": "55.7355449", "Longitude": "37.5619465" }
+        },
+        "Aqi": {
+          "Value": 79.76258,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Варшавское шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 1",
+          "Coordinates": {
+            "Latitude": "55.412037100000006",
+            "Longitude": "37.4819165"
+          }
+        },
+        "Aqi": {
+          "Value": 42.95138,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 10",
+          "Coordinates": { "Latitude": "55.6975947", "Longitude": "37.6197197" }
+        },
+        "Aqi": {
+          "Value": 42.60074,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 11",
+          "Coordinates": {
+            "Latitude": "55.69999505",
+            "Longitude": "37.622260526734166"
+          }
+        },
+        "Aqi": {
+          "Value": 43.0488,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 12",
+          "Coordinates": {
+            "Latitude": "55.696755499999995",
+            "Longitude": "37.61897679426794"
+          }
+        },
+        "Aqi": {
+          "Value": 42.99786,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 13",
+          "Coordinates": {
+            "Latitude": "55.6992932",
+            "Longitude": "37.62116034660863"
+          }
+        },
+        "Aqi": {
+          "Value": 42.87158,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 14",
+          "Coordinates": {
+            "Latitude": "55.402063150000004",
+            "Longitude": "37.453658419979334"
+          }
+        },
+        "Aqi": {
+          "Value": 42.51068,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 15",
+          "Coordinates": {
+            "Latitude": "55.69760985",
+            "Longitude": "37.621334921282575"
+          }
+        },
+        "Aqi": {
+          "Value": 42.5322,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 16",
+          "Coordinates": {
+            "Latitude": "55.693139",
+            "Longitude": "37.62079058883648"
+          }
+        },
+        "Aqi": {
+          "Value": 42.73418,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 17",
+          "Coordinates": {
+            "Latitude": "55.6971599",
+            "Longitude": "37.62251087363511"
+          }
+        },
+        "Aqi": {
+          "Value": 43.23312,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 18",
+          "Coordinates": {
+            "Latitude": "55.401831099999995",
+            "Longitude": "37.45294675318302"
+          }
+        },
+        "Aqi": {
+          "Value": 43.56952,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 19",
+          "Coordinates": {
+            "Latitude": "55.6963959",
+            "Longitude": "37.6219193573596"
+          }
+        },
+        "Aqi": {
+          "Value": 42.43064,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 2",
+          "Coordinates": {
+            "Latitude": "55.7004965",
+            "Longitude": "37.61914548993408"
+          }
+        },
+        "Aqi": {
+          "Value": 43.45348,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 20",
+          "Coordinates": {
+            "Latitude": "55.40172545",
+            "Longitude": "37.452578700000004"
+          }
+        },
+        "Aqi": {
+          "Value": 42.87262,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 21",
+          "Coordinates": {
+            "Latitude": "55.695308749999995",
+            "Longitude": "37.622313665105054"
+          }
+        },
+        "Aqi": {
+          "Value": 42.89382,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 22",
+          "Coordinates": { "Latitude": "55.401617", "Longitude": "37.4522721" }
+        },
+        "Aqi": {
+          "Value": 42.90706,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 23",
+          "Coordinates": {
+            "Latitude": "55.69460625",
+            "Longitude": "37.622101739397806"
+          }
+        },
+        "Aqi": {
+          "Value": 42.93838,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 24",
+          "Coordinates": {
+            "Latitude": "55.40146235",
+            "Longitude": "37.451821849673216"
+          }
+        },
+        "Aqi": {
+          "Value": 43.13924,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 25",
+          "Coordinates": {
+            "Latitude": "55.3866489",
+            "Longitude": "37.416115399999995"
+          }
+        },
+        "Aqi": {
+          "Value": 43.15082,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 26",
+          "Coordinates": {
+            "Latitude": "55.68451075",
+            "Longitude": "37.62195414999999"
+          }
+        },
+        "Aqi": {
+          "Value": 43.0372,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 27",
+          "Coordinates": {
+            "Latitude": "55.6935469",
+            "Longitude": "37.62204979839056"
+          }
+        },
+        "Aqi": {
+          "Value": 43.09442,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 28",
+          "Coordinates": {
+            "Latitude": "55.68095545",
+            "Longitude": "37.620241075011904"
+          }
+        },
+        "Aqi": {
+          "Value": 43.28276,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 29",
+          "Coordinates": {
+            "Latitude": "55.6930739",
+            "Longitude": "37.622804014490654"
+          }
+        },
+        "Aqi": {
+          "Value": 42.94084,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 3",
+          "Coordinates": {
+            "Latitude": "55.702685",
+            "Longitude": "37.62276109568151"
+          }
+        },
+        "Aqi": {
+          "Value": 42.51602,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 4",
+          "Coordinates": {
+            "Latitude": "55.699793",
+            "Longitude": "37.61943569983339"
+          }
+        },
+        "Aqi": {
+          "Value": 42.85934,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 5",
+          "Coordinates": {
+            "Latitude": "55.70118825",
+            "Longitude": "37.622788669712094"
+          }
+        },
+        "Aqi": {
+          "Value": 42.68202,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 6",
+          "Coordinates": {
+            "Latitude": "55.699559050000005",
+            "Longitude": "37.6194905284611"
+          }
+        },
+        "Aqi": {
+          "Value": 43.4517,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 7",
+          "Coordinates": { "Latitude": "55.7008602", "Longitude": "37.6220467" }
+        },
+        "Aqi": {
+          "Value": 43.33888,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 8",
+          "Coordinates": {
+            "Latitude": "55.69922835",
+            "Longitude": "37.61913343444003"
+          }
+        },
+        "Aqi": {
+          "Value": 42.7574,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Варшавское шоссе 9",
+          "Coordinates": { "Latitude": "55.7004621", "Longitude": "37.6215437" }
+        },
+        "Aqi": {
+          "Value": 43.155,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Волгоградский проспект",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 1",
+          "Coordinates": { "Latitude": "55.7337857", "Longitude": "37.6700587" }
+        },
+        "Aqi": {
+          "Value": 43.19054,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 10",
+          "Coordinates": {
+            "Latitude": "55.730139",
+            "Longitude": "37.67329457446872"
+          }
+        },
+        "Aqi": {
+          "Value": 43.3223,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 11",
+          "Coordinates": {
+            "Latitude": "55.7303898",
+            "Longitude": "37.67527014104574"
+          }
+        },
+        "Aqi": {
+          "Value": 42.5466,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 12",
+          "Coordinates": {
+            "Latitude": "55.729773249999994",
+            "Longitude": "37.67399616170056"
+          }
+        },
+        "Aqi": {
+          "Value": 43.55424,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 13",
+          "Coordinates": {
+            "Latitude": "55.730044",
+            "Longitude": "37.676815779212724"
+          }
+        },
+        "Aqi": {
+          "Value": 42.3002,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 14",
+          "Coordinates": {
+            "Latitude": "55.72941525",
+            "Longitude": "37.67470168521516"
+          }
+        },
+        "Aqi": {
+          "Value": 43.45802,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 15",
+          "Coordinates": {
+            "Latitude": "55.72930015",
+            "Longitude": "37.67747342465499"
+          }
+        },
+        "Aqi": {
+          "Value": 42.63996,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 16",
+          "Coordinates": { "Latitude": "55.7288223", "Longitude": "37.6759239" }
+        },
+        "Aqi": {
+          "Value": 43.6602,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 17",
+          "Coordinates": { "Latitude": "55.728853", "Longitude": "37.6782191" }
+        },
+        "Aqi": {
+          "Value": 43.04586,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 18",
+          "Coordinates": {
+            "Latitude": "55.72852235",
+            "Longitude": "37.67647962979815"
+          }
+        },
+        "Aqi": {
+          "Value": 43.48204,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 19",
+          "Coordinates": {
+            "Latitude": "55.70655755",
+            "Longitude": "37.74983585"
+          }
+        },
+        "Aqi": {
+          "Value": 43.3717,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 2",
+          "Coordinates": { "Latitude": "55.731227", "Longitude": "37.6693585" }
+        },
+        "Aqi": {
+          "Value": 43.02038,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 20",
+          "Coordinates": {
+            "Latitude": "55.7281603",
+            "Longitude": "37.677164960559566"
+          }
+        },
+        "Aqi": {
+          "Value": 43.231,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 21",
+          "Coordinates": {
+            "Latitude": "55.7260376",
+            "Longitude": "37.68736705"
+          }
+        },
+        "Aqi": {
+          "Value": 42.9478,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 22",
+          "Coordinates": {
+            "Latitude": "55.727804",
+            "Longitude": "37.677899497500626"
+          }
+        },
+        "Aqi": {
+          "Value": 43.09664,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 23",
+          "Coordinates": { "Latitude": "55.7093675", "Longitude": "37.731305" }
+        },
+        "Aqi": {
+          "Value": 42.6362,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 3",
+          "Coordinates": {
+            "Latitude": "55.73232055",
+            "Longitude": "37.672214749999995"
+          }
+        },
+        "Aqi": {
+          "Value": 43.07292,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 4",
+          "Coordinates": {
+            "Latitude": "55.73077675",
+            "Longitude": "37.66999669528296"
+          }
+        },
+        "Aqi": {
+          "Value": 43.16566,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 5",
+          "Coordinates": {
+            "Latitude": "55.73197265",
+            "Longitude": "37.6728335"
+          }
+        },
+        "Aqi": {
+          "Value": 43.709198,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 6",
+          "Coordinates": {
+            "Latitude": "55.73067035",
+            "Longitude": "37.670884565193845"
+          }
+        },
+        "Aqi": {
+          "Value": 42.90836,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 7",
+          "Coordinates": {
+            "Latitude": "55.73150765",
+            "Longitude": "37.67401665733746"
+          }
+        },
+        "Aqi": {
+          "Value": 42.47894,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 8",
+          "Coordinates": {
+            "Latitude": "55.7305841",
+            "Longitude": "37.672460173540074"
+          }
+        },
+        "Aqi": {
+          "Value": 43.18078,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Волгоградский проспект 9",
+          "Coordinates": { "Latitude": "55.7307554", "Longitude": "37.6744771" }
+        },
+        "Aqi": {
+          "Value": 43.20412,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Воробьёвская набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Воробьёвская набережная 1",
+          "Coordinates": { "Latitude": "55.7131667", "Longitude": "37.5433746" }
+        },
+        "Aqi": {
+          "Value": 80.28254,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Воробьёвская набережная 2",
+          "Coordinates": { "Latitude": "55.7131667", "Longitude": "37.5433746" }
+        },
+        "Aqi": {
+          "Value": 79.53578,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Воробьёвская набережная 3",
+          "Coordinates": { "Latitude": "55.7131667", "Longitude": "37.5433746" }
+        },
+        "Aqi": {
+          "Value": 80.0711,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Воробьёвская набережная 4",
+          "Coordinates": { "Latitude": "55.7131667", "Longitude": "37.5433746" }
+        },
+        "Aqi": {
+          "Value": 79.85276,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Воробьёвская набережная 5",
+          "Coordinates": { "Latitude": "55.7131667", "Longitude": "37.5433746" }
+        },
+        "Aqi": {
+          "Value": 80.13736,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Воробьёвская набережная 6",
+          "Coordinates": { "Latitude": "55.7131667", "Longitude": "37.5433746" }
+        },
+        "Aqi": {
+          "Value": 80.06592,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Госпитальная набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Госпитальная набережная 1",
+          "Coordinates": { "Latitude": "55.7738702", "Longitude": "37.6978725" }
+        },
+        "Aqi": {
+          "Value": 61.28128,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Дмитровское шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 1",
+          "Coordinates": {
+            "Latitude": "56.725557800000004",
+            "Longitude": "37.13703031254019"
+          }
+        },
+        "Aqi": {
+          "Value": 43.61188,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 10",
+          "Coordinates": {
+            "Latitude": "56.7240566",
+            "Longitude": "37.13699455"
+          }
+        },
+        "Aqi": {
+          "Value": 43.18044,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 11",
+          "Coordinates": {
+            "Latitude": "55.816464350000004",
+            "Longitude": "37.574733121875006"
+          }
+        },
+        "Aqi": {
+          "Value": 43.00216,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 12",
+          "Coordinates": {
+            "Latitude": "56.2857857",
+            "Longitude": "37.491301690747235"
+          }
+        },
+        "Aqi": {
+          "Value": 43.28984,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 13",
+          "Coordinates": {
+            "Latitude": "55.81716315",
+            "Longitude": "37.572460440008356"
+          }
+        },
+        "Aqi": {
+          "Value": 43.29916,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 14",
+          "Coordinates": {
+            "Latitude": "55.825247450000006",
+            "Longitude": "37.57285217560143"
+          }
+        },
+        "Aqi": {
+          "Value": 42.92454,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 15",
+          "Coordinates": {
+            "Latitude": "55.8195633",
+            "Longitude": "37.572347334516124"
+          }
+        },
+        "Aqi": {
+          "Value": 42.78014,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 16",
+          "Coordinates": { "Latitude": "55.8265555", "Longitude": "37.5732115" }
+        },
+        "Aqi": {
+          "Value": 42.8649,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 17",
+          "Coordinates": { "Latitude": "55.8208943", "Longitude": "37.572972" }
+        },
+        "Aqi": {
+          "Value": 43.26614,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 18",
+          "Coordinates": { "Latitude": "56.127093", "Longitude": "37.51032465" }
+        },
+        "Aqi": {
+          "Value": 43.24954,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 19",
+          "Coordinates": {
+            "Latitude": "55.98978315",
+            "Longitude": "37.5308381"
+          }
+        },
+        "Aqi": {
+          "Value": 42.59886,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 2",
+          "Coordinates": {
+            "Latitude": "55.8093576",
+            "Longitude": "37.582099216757484"
+          }
+        },
+        "Aqi": {
+          "Value": 43.77064,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 20",
+          "Coordinates": { "Latitude": "55.9220099", "Longitude": "37.5449771" }
+        },
+        "Aqi": {
+          "Value": 42.30846,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 21",
+          "Coordinates": {
+            "Latitude": "55.8222504",
+            "Longitude": "37.571806026429456"
+          }
+        },
+        "Aqi": {
+          "Value": 43.1695,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 22",
+          "Coordinates": {
+            "Latitude": "56.126985149999996",
+            "Longitude": "37.50850154477616"
+          }
+        },
+        "Aqi": {
+          "Value": 43.27222,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 23",
+          "Coordinates": {
+            "Latitude": "56.417844849999994",
+            "Longitude": "37.468653200000006"
+          }
+        },
+        "Aqi": {
+          "Value": 42.55324,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 3",
+          "Coordinates": {
+            "Latitude": "56.4285345",
+            "Longitude": "37.465656551579464"
+          }
+        },
+        "Aqi": {
+          "Value": 43.44424,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 4",
+          "Coordinates": { "Latitude": "56.7282043", "Longitude": "37.1346727" }
+        },
+        "Aqi": {
+          "Value": 43.49978,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 5",
+          "Coordinates": { "Latitude": "55.9883241", "Longitude": "37.53019" }
+        },
+        "Aqi": {
+          "Value": 43.00292,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 6",
+          "Coordinates": {
+            "Latitude": "56.43177015",
+            "Longitude": "37.4663229"
+          }
+        },
+        "Aqi": {
+          "Value": 43.55716,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 7",
+          "Coordinates": {
+            "Latitude": "56.63261645",
+            "Longitude": "37.29392400716192"
+          }
+        },
+        "Aqi": {
+          "Value": 43.25776,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 8",
+          "Coordinates": {
+            "Latitude": "56.419708299999996",
+            "Longitude": "37.46692850000001"
+          }
+        },
+        "Aqi": {
+          "Value": 43.43436,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Дмитровское шоссе 9",
+          "Coordinates": {
+            "Latitude": "55.8151756",
+            "Longitude": "37.57565188741496"
+          }
+        },
+        "Aqi": {
+          "Value": 43.3248,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Звенигородское шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 1",
+          "Coordinates": { "Latitude": "55.7716773", "Longitude": "37.4972888" }
+        },
+        "Aqi": {
+          "Value": 43.3709,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 2",
+          "Coordinates": {
+            "Latitude": "55.764234349999995",
+            "Longitude": "37.559114677217295"
+          }
+        },
+        "Aqi": {
+          "Value": 43.0837,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 3",
+          "Coordinates": { "Latitude": "55.7716773", "Longitude": "37.4972888" }
+        },
+        "Aqi": {
+          "Value": 42.9963,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 4",
+          "Coordinates": { "Latitude": "55.7640491", "Longitude": "37.5576914" }
+        },
+        "Aqi": {
+          "Value": 43.40868,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 5",
+          "Coordinates": {
+            "Latitude": "55.763686250000006",
+            "Longitude": "37.55391020283535"
+          }
+        },
+        "Aqi": {
+          "Value": 43.0724,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 6",
+          "Coordinates": { "Latitude": "55.7716773", "Longitude": "37.4972888" }
+        },
+        "Aqi": {
+          "Value": 43.06746,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 7",
+          "Coordinates": {
+            "Latitude": "55.7639105",
+            "Longitude": "37.552774196140945"
+          }
+        },
+        "Aqi": {
+          "Value": 43.12844,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Звенигородское шоссе 8",
+          "Coordinates": { "Latitude": "55.7716773", "Longitude": "37.4972888" }
+        },
+        "Aqi": {
+          "Value": 43.67884,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Каширское шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 1",
+          "Coordinates": {
+            "Latitude": "55.453975099999994",
+            "Longitude": "37.7614538"
+          }
+        },
+        "Aqi": {
+          "Value": 30.85444,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 10",
+          "Coordinates": {
+            "Latitude": "55.36880805",
+            "Longitude": "37.79062520000001"
+          }
+        },
+        "Aqi": {
+          "Value": 30.80996,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 11",
+          "Coordinates": {
+            "Latitude": "55.368827800000005",
+            "Longitude": "37.79116945"
+          }
+        },
+        "Aqi": {
+          "Value": 30.86994,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 12",
+          "Coordinates": {
+            "Latitude": "55.66445495",
+            "Longitude": "37.62727479725792"
+          }
+        },
+        "Aqi": {
+          "Value": 30.7249,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 13",
+          "Coordinates": {
+            "Latitude": "55.446978599999994",
+            "Longitude": "37.76546077349982"
+          }
+        },
+        "Aqi": {
+          "Value": 30.55698,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 14",
+          "Coordinates": { "Latitude": "55.6646776", "Longitude": "37.6270492" }
+        },
+        "Aqi": {
+          "Value": 30.96962,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 15",
+          "Coordinates": {
+            "Latitude": "55.66616545",
+            "Longitude": "37.630554321479885"
+          }
+        },
+        "Aqi": {
+          "Value": 30.96794,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 16",
+          "Coordinates": {
+            "Latitude": "55.6618537",
+            "Longitude": "37.632205770754055"
+          }
+        },
+        "Aqi": {
+          "Value": 30.73024,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 17",
+          "Coordinates": {
+            "Latitude": "55.44407565",
+            "Longitude": "37.76688786508953"
+          }
+        },
+        "Aqi": {
+          "Value": 31.41202,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 18",
+          "Coordinates": {
+            "Latitude": "55.660315600000004",
+            "Longitude": "37.63380277403101"
+          }
+        },
+        "Aqi": {
+          "Value": 30.46226,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 19",
+          "Coordinates": {
+            "Latitude": "55.443951549999994",
+            "Longitude": "37.76624702653627"
+          }
+        },
+        "Aqi": {
+          "Value": 30.78126,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 2",
+          "Coordinates": {
+            "Latitude": "55.4633317",
+            "Longitude": "37.75324230239809"
+          }
+        },
+        "Aqi": {
+          "Value": 30.53948,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 20",
+          "Coordinates": {
+            "Latitude": "55.36750395",
+            "Longitude": "37.791088964417554"
+          }
+        },
+        "Aqi": {
+          "Value": 30.45642,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 21",
+          "Coordinates": {
+            "Latitude": "55.66276155",
+            "Longitude": "37.6352047432351"
+          }
+        },
+        "Aqi": {
+          "Value": 31.17464,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 22",
+          "Coordinates": {
+            "Latitude": "55.658899399999996",
+            "Longitude": "37.6362588"
+          }
+        },
+        "Aqi": {
+          "Value": 30.27902,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 23",
+          "Coordinates": {
+            "Latitude": "55.658735",
+            "Longitude": "37.64409600829186"
+          }
+        },
+        "Aqi": {
+          "Value": 31.15538,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 3",
+          "Coordinates": { "Latitude": "55.6728311", "Longitude": "37.6307497" }
+        },
+        "Aqi": {
+          "Value": 30.4948,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 4",
+          "Coordinates": {
+            "Latitude": "54.97437575",
+            "Longitude": "37.96389936090905"
+          }
+        },
+        "Aqi": {
+          "Value": 31.24662,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 5",
+          "Coordinates": {
+            "Latitude": "55.44908255",
+            "Longitude": "37.764343547358365"
+          }
+        },
+        "Aqi": {
+          "Value": 30.97434,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 6",
+          "Coordinates": {
+            "Latitude": "54.9745518",
+            "Longitude": "37.96344739999999"
+          }
+        },
+        "Aqi": {
+          "Value": 30.54716,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 7",
+          "Coordinates": {
+            "Latitude": "55.66950445",
+            "Longitude": "37.62890365471273"
+          }
+        },
+        "Aqi": {
+          "Value": 30.30528,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 8",
+          "Coordinates": {
+            "Latitude": "55.44858785",
+            "Longitude": "37.76303048228403"
+          }
+        },
+        "Aqi": {
+          "Value": 31.4879,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Каширское шоссе 9",
+          "Coordinates": {
+            "Latitude": "55.368754749999994",
+            "Longitude": "37.78997412098697"
+          }
+        },
+        "Aqi": {
+          "Value": 30.81212,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Кетчерская улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Кетчерская улица 1",
+          "Coordinates": { "Latitude": "55.7447775", "Longitude": "37.8253188" }
+        },
+        "Aqi": {
+          "Value": 31.0177,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кетчерская улица 2",
+          "Coordinates": {
+            "Latitude": "55.7404128",
+            "Longitude": "37.822365399999995"
+          }
+        },
+        "Aqi": {
+          "Value": 30.62594,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кетчерская улица 3",
+          "Coordinates": { "Latitude": "55.7443653", "Longitude": "37.8301912" }
+        },
+        "Aqi": {
+          "Value": 30.42054,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Королева улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Королева улица 1",
+          "Coordinates": {
+            "Latitude": "55.822990250000004",
+            "Longitude": "37.63183028582548"
+          }
+        },
+        "Aqi": {
+          "Value": 43.1143,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Королева улица 2",
+          "Coordinates": {
+            "Latitude": "55.930006950000006",
+            "Longitude": "37.814241917048946"
+          }
+        },
+        "Aqi": {
+          "Value": 43.11946,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Королева улица 3",
+          "Coordinates": {
+            "Latitude": "55.971041150000005",
+            "Longitude": "37.92275180643348"
+          }
+        },
+        "Aqi": {
+          "Value": 42.5154,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Королева улица 4",
+          "Coordinates": { "Latitude": "55.8837422", "Longitude": "37.6063001" }
+        },
+        "Aqi": {
+          "Value": 43.2052,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Космодамианская набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Космодамианская набережная 1",
+          "Coordinates": { "Latitude": "55.7329408", "Longitude": "37.6479711" }
+        },
+        "Aqi": {
+          "Value": 79.72408,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Космодамианская набережная 2",
+          "Coordinates": { "Latitude": "55.7329408", "Longitude": "37.6479711" }
+        },
+        "Aqi": {
+          "Value": 79.77884,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Космодамианская набережная 3",
+          "Coordinates": { "Latitude": "55.7329408", "Longitude": "37.6479711" }
+        },
+        "Aqi": {
+          "Value": 79.9451,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Космодамианская набережная 4",
+          "Coordinates": {
+            "Latitude": "55.743647300000006",
+            "Longitude": "37.6404725"
+          }
+        },
+        "Aqi": {
+          "Value": 79.92652,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Кремлевская набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Кремлевская набережная 1",
+          "Coordinates": { "Latitude": "55.7479003", "Longitude": "37.610262" }
+        },
+        "Aqi": {
+          "Value": 42.90458,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Крымская набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Крымская набережная 1",
+          "Coordinates": { "Latitude": "55.7333905", "Longitude": "37.6001302" }
+        },
+        "Aqi": {
+          "Value": 61.78916,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Крымская набережная 2",
+          "Coordinates": { "Latitude": "55.7333905", "Longitude": "37.6001302" }
+        },
+        "Aqi": {
+          "Value": 61.71574,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Кутузовский проспект",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 1",
+          "Coordinates": {
+            "Latitude": "55.7514562",
+            "Longitude": "37.5654893577766"
+          }
+        },
+        "Aqi": {
+          "Value": 43.189,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 10",
+          "Coordinates": {
+            "Latitude": "55.748675",
+            "Longitude": "37.55875351590745"
+          }
+        },
+        "Aqi": {
+          "Value": 43.7128,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 11",
+          "Coordinates": {
+            "Latitude": "55.747707500000004",
+            "Longitude": "37.56076376954792"
+          }
+        },
+        "Aqi": {
+          "Value": 42.896698,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 12",
+          "Coordinates": {
+            "Latitude": "55.7506811",
+            "Longitude": "37.55768235538568"
+          }
+        },
+        "Aqi": {
+          "Value": 43.49028,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 13",
+          "Coordinates": {
+            "Latitude": "55.747682749999996",
+            "Longitude": "37.55906664697028"
+          }
+        },
+        "Aqi": {
+          "Value": 42.8828,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 14",
+          "Coordinates": {
+            "Latitude": "55.747926050000004",
+            "Longitude": "37.555733078692676"
+          }
+        },
+        "Aqi": {
+          "Value": 42.75848,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 15",
+          "Coordinates": { "Latitude": "55.7474442", "Longitude": "37.5574288" }
+        },
+        "Aqi": {
+          "Value": 43.01792,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 16",
+          "Coordinates": {
+            "Latitude": "55.747309200000004",
+            "Longitude": "37.55352680938286"
+          }
+        },
+        "Aqi": {
+          "Value": 43.07766,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 2",
+          "Coordinates": {
+            "Latitude": "55.7514562",
+            "Longitude": "37.5654893577766"
+          }
+        },
+        "Aqi": {
+          "Value": 43.48494,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 3",
+          "Coordinates": {
+            "Latitude": "55.75039755",
+            "Longitude": "37.56980468160317"
+          }
+        },
+        "Aqi": {
+          "Value": 42.84592,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 4",
+          "Coordinates": { "Latitude": "55.7491208", "Longitude": "37.5632584" }
+        },
+        "Aqi": {
+          "Value": 42.90494,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 5",
+          "Coordinates": {
+            "Latitude": "55.74969935",
+            "Longitude": "37.56645808851634"
+          }
+        },
+        "Aqi": {
+          "Value": 42.4807,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 6",
+          "Coordinates": {
+            "Latitude": "55.75019265",
+            "Longitude": "37.56142757322823"
+          }
+        },
+        "Aqi": {
+          "Value": 43.0932,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 7",
+          "Coordinates": {
+            "Latitude": "55.75059215",
+            "Longitude": "37.57043348134887"
+          }
+        },
+        "Aqi": {
+          "Value": 42.71894,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 8",
+          "Coordinates": {
+            "Latitude": "55.749181199999995",
+            "Longitude": "37.56053099760956"
+          }
+        },
+        "Aqi": {
+          "Value": 43.16748,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Кутузовский проспект 9",
+          "Coordinates": {
+            "Latitude": "55.74847135",
+            "Longitude": "37.561184952906686"
+          }
+        },
+        "Aqi": {
+          "Value": 43.21126,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Ленинградское шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 1",
+          "Coordinates": {
+            "Latitude": "55.9521094",
+            "Longitude": "37.35318230545188"
+          }
+        },
+        "Aqi": {
+          "Value": 61.38316,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 10",
+          "Coordinates": {
+            "Latitude": "55.81963665",
+            "Longitude": "37.50091963923807"
+          }
+        },
+        "Aqi": {
+          "Value": 61.39276,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 11",
+          "Coordinates": {
+            "Latitude": "55.934643449999996",
+            "Longitude": "37.367351798603195"
+          }
+        },
+        "Aqi": {
+          "Value": 61.19042,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 12",
+          "Coordinates": { "Latitude": "55.8398776", "Longitude": "37.480815" }
+        },
+        "Aqi": {
+          "Value": 61.468,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 13",
+          "Coordinates": {
+            "Latitude": "55.818763700000005",
+            "Longitude": "37.49709264748083"
+          }
+        },
+        "Aqi": {
+          "Value": 61.99562,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 14",
+          "Coordinates": {
+            "Latitude": "55.97431645",
+            "Longitude": "37.31453152768643"
+          }
+        },
+        "Aqi": {
+          "Value": 61.8123,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 15",
+          "Coordinates": { "Latitude": "55.8204603", "Longitude": "37.495925" }
+        },
+        "Aqi": {
+          "Value": 61.66042,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 16",
+          "Coordinates": {
+            "Latitude": "55.8216592",
+            "Longitude": "37.49993017584773"
+          }
+        },
+        "Aqi": {
+          "Value": 61.6086,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 17",
+          "Coordinates": {
+            "Latitude": "55.821276999999995",
+            "Longitude": "37.495256116489045"
+          }
+        },
+        "Aqi": {
+          "Value": 61.58102,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 18",
+          "Coordinates": { "Latitude": "55.9241155", "Longitude": "37.3878914" }
+        },
+        "Aqi": {
+          "Value": 61.69822,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 2",
+          "Coordinates": {
+            "Latitude": "55.95615355",
+            "Longitude": "37.34039623951578"
+          }
+        },
+        "Aqi": {
+          "Value": 61.5126,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 3",
+          "Coordinates": {
+            "Latitude": "55.93384115",
+            "Longitude": "37.36830624443715"
+          }
+        },
+        "Aqi": {
+          "Value": 61.41672,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 4",
+          "Coordinates": {
+            "Latitude": "55.886278000000004",
+            "Longitude": "37.43691648806606"
+          }
+        },
+        "Aqi": {
+          "Value": 61.06522,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 5",
+          "Coordinates": {
+            "Latitude": "55.9340275",
+            "Longitude": "37.367917750000004"
+          }
+        },
+        "Aqi": {
+          "Value": 61.07062,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 6",
+          "Coordinates": { "Latitude": "55.814156", "Longitude": "37.5044528" }
+        },
+        "Aqi": {
+          "Value": 61.404022,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 7",
+          "Coordinates": {
+            "Latitude": "55.8156104",
+            "Longitude": "37.4990247351361"
+          }
+        },
+        "Aqi": {
+          "Value": 60.94306,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 8",
+          "Coordinates": {
+            "Latitude": "56.3442915",
+            "Longitude": "36.711592192653725"
+          }
+        },
+        "Aqi": {
+          "Value": 61.9982,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Ленинградское шоссе 9",
+          "Coordinates": {
+            "Latitude": "55.9345616",
+            "Longitude": "37.367436297435894"
+          }
+        },
+        "Aqi": {
+          "Value": 61.59524,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Лужнецкая набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Лужнецкая набережная 1",
+          "Coordinates": { "Latitude": "55.7272986", "Longitude": "37.5486355" }
+        },
+        "Aqi": {
+          "Value": 62.20122,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Лужнецкая набережная 2",
+          "Coordinates": { "Latitude": "55.7152789", "Longitude": "37.5741033" }
+        },
+        "Aqi": {
+          "Value": 61.91614,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Лужнецкая набережная 3",
+          "Coordinates": { "Latitude": "55.7272986", "Longitude": "37.5486355" }
+        },
+        "Aqi": {
+          "Value": 60.98572,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Лужнецкая набережная 4",
+          "Coordinates": { "Latitude": "55.7152789", "Longitude": "37.5741033" }
+        },
+        "Aqi": {
+          "Value": 61.31042,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Лужнецкая набережная 5",
+          "Coordinates": { "Latitude": "55.7272986", "Longitude": "37.5486355" }
+        },
+        "Aqi": {
+          "Value": 61.65494,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Лужнецкая набережная 6",
+          "Coordinates": {
+            "Latitude": "55.71348955",
+            "Longitude": "37.56864133728136"
+          }
+        },
+        "Aqi": {
+          "Value": 61.11752,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Лужнецкая набережная 7",
+          "Coordinates": { "Latitude": "55.7272986", "Longitude": "37.5486355" }
+        },
+        "Aqi": {
+          "Value": 61.78202,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Люблинская улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 1",
+          "Coordinates": {
+            "Latitude": "55.516393550000004",
+            "Longitude": "37.56729183043076"
+          }
+        },
+        "Aqi": {
+          "Value": 31.233,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 10",
+          "Coordinates": {
+            "Latitude": "55.70164605",
+            "Longitude": "37.7318173"
+          }
+        },
+        "Aqi": {
+          "Value": 30.8382,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 11",
+          "Coordinates": {
+            "Latitude": "55.71086965",
+            "Longitude": "37.73127576658732"
+          }
+        },
+        "Aqi": {
+          "Value": 31.25214,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 12",
+          "Coordinates": { "Latitude": "55.0169853", "Longitude": "38.0938375" }
+        },
+        "Aqi": {
+          "Value": 30.68232,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 13",
+          "Coordinates": {
+            "Latitude": "55.710327050000004",
+            "Longitude": "37.73122304907356"
+          }
+        },
+        "Aqi": {
+          "Value": 30.56448,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 14",
+          "Coordinates": {
+            "Latitude": "55.69928165",
+            "Longitude": "37.73227755"
+          }
+        },
+        "Aqi": {
+          "Value": 30.48842,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 15",
+          "Coordinates": {
+            "Latitude": "55.70681285",
+            "Longitude": "37.731721050000004"
+          }
+        },
+        "Aqi": {
+          "Value": 30.533659,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 16",
+          "Coordinates": {
+            "Latitude": "55.698603",
+            "Longitude": "37.73236305301948"
+          }
+        },
+        "Aqi": {
+          "Value": 30.54768,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 2",
+          "Coordinates": {
+            "Latitude": "55.51519145",
+            "Longitude": "37.56685082871576"
+          }
+        },
+        "Aqi": {
+          "Value": 30.45552,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 3",
+          "Coordinates": {
+            "Latitude": "55.516201249999995",
+            "Longitude": "37.56602435180308"
+          }
+        },
+        "Aqi": {
+          "Value": 30.6969,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 4",
+          "Coordinates": { "Latitude": "55.7088457", "Longitude": "37.7315088" }
+        },
+        "Aqi": {
+          "Value": 31.30386,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 5",
+          "Coordinates": {
+            "Latitude": "55.51503845",
+            "Longitude": "37.566070876489746"
+          }
+        },
+        "Aqi": {
+          "Value": 30.24784,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 6",
+          "Coordinates": {
+            "Latitude": "55.70360875",
+            "Longitude": "37.7312730408856"
+          }
+        },
+        "Aqi": {
+          "Value": 30.9898,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 7",
+          "Coordinates": {
+            "Latitude": "55.5137836",
+            "Longitude": "37.56531713054069"
+          }
+        },
+        "Aqi": {
+          "Value": 31.08888,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 8",
+          "Coordinates": {
+            "Latitude": "55.703031949999996",
+            "Longitude": "37.73109783494215"
+          }
+        },
+        "Aqi": {
+          "Value": 30.25174,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Люблинская улица 9",
+          "Coordinates": {
+            "Latitude": "55.5134452",
+            "Longitude": "37.564274499999996"
+          }
+        },
+        "Aqi": {
+          "Value": 30.9355,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Минское шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Минское шоссе 1",
+          "Coordinates": {
+            "Latitude": "55.4611339",
+            "Longitude": "36.03448959588208"
+          }
+        },
+        "Aqi": {
+          "Value": 79.73284,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Мосфильмовская улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Мосфильмовская улица 1",
+          "Coordinates": {
+            "Latitude": "55.723070750000005",
+            "Longitude": "37.53090826975781"
+          }
+        },
+        "Aqi": {
+          "Value": 79.82002,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Мосфильмовская улица 2",
+          "Coordinates": {
+            "Latitude": "55.70512155",
+            "Longitude": "37.4957730114493"
+          }
+        },
+        "Aqi": {
+          "Value": 80.26638,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Мосфильмовская улица 3",
+          "Coordinates": {
+            "Latitude": "55.7170149",
+            "Longitude": "37.51342336420254"
+          }
+        },
+        "Aqi": {
+          "Value": 79.8963,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Мосфильмовская улица 4",
+          "Coordinates": { "Latitude": "55.7252615", "Longitude": "37.531254" }
+        },
+        "Aqi": {
+          "Value": 79.20158,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Мосфильмовская улица 5",
+          "Coordinates": { "Latitude": "55.7265254", "Longitude": "37.5351379" }
+        },
+        "Aqi": {
+          "Value": 79.3652,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Мосфильмовская улица 6",
+          "Coordinates": {
+            "Latitude": "55.7246562",
+            "Longitude": "37.530492972336965"
+          }
+        },
+        "Aqi": {
+          "Value": 80.24204,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Мосфильмовская улица 7",
+          "Coordinates": {
+            "Latitude": "55.71731905",
+            "Longitude": "37.51412342023838"
+          }
+        },
+        "Aqi": {
+          "Value": 79.98336,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Моховая улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Моховая улица 1",
+          "Coordinates": {
+            "Latitude": "55.75679125",
+            "Longitude": "37.61373686497775"
+          }
+        },
+        "Aqi": {
+          "Value": 43.43232,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Моховая улица 2",
+          "Coordinates": {
+            "Latitude": "56.7468514",
+            "Longitude": "37.20214949901079"
+          }
+        },
+        "Aqi": {
+          "Value": 43.0176,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Нагатинская набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 1",
+          "Coordinates": { "Latitude": "55.6855292", "Longitude": "37.6736988" }
+        },
+        "Aqi": {
+          "Value": 61.30772,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 10",
+          "Coordinates": {
+            "Latitude": "55.682237",
+            "Longitude": "37.64081566372903"
+          }
+        },
+        "Aqi": {
+          "Value": 61.397602,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 2",
+          "Coordinates": {
+            "Latitude": "55.6873647",
+            "Longitude": "37.6793438121293"
+          }
+        },
+        "Aqi": {
+          "Value": 61.61264,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 3",
+          "Coordinates": { "Latitude": "55.68335", "Longitude": "37.6376046" }
+        },
+        "Aqi": {
+          "Value": 61.48886,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 4",
+          "Coordinates": {
+            "Latitude": "55.6874647",
+            "Longitude": "37.628064190531745"
+          }
+        },
+        "Aqi": {
+          "Value": 61.77546,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 5",
+          "Coordinates": { "Latitude": "55.68335", "Longitude": "37.6376046" }
+        },
+        "Aqi": {
+          "Value": 60.64006,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 6",
+          "Coordinates": {
+            "Latitude": "55.68261215",
+            "Longitude": "37.63590130092436"
+          }
+        },
+        "Aqi": {
+          "Value": 61.74454,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 7",
+          "Coordinates": { "Latitude": "55.6852625", "Longitude": "37.664304" }
+        },
+        "Aqi": {
+          "Value": 61.06236,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 8",
+          "Coordinates": { "Latitude": "55.6852265", "Longitude": "37.6637727" }
+        },
+        "Aqi": {
+          "Value": 61.48414,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Нагатинская набережная 9",
+          "Coordinates": { "Latitude": "55.6842494", "Longitude": "37.6329744" }
+        },
+        "Aqi": {
+          "Value": 61.37936,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Никитская Б. улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Никитская Б. улица 1",
+          "Coordinates": {
+            "Latitude": "55.75463205",
+            "Longitude": "37.6114395636581"
+          }
+        },
+        "Aqi": {
+          "Value": 61.54664,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Никитская Б. улица 2",
+          "Coordinates": {
+            "Latitude": "55.7581582",
+            "Longitude": "37.596348744994785"
+          }
+        },
+        "Aqi": {
+          "Value": 61.61816,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Никитская Б. улица 3",
+          "Coordinates": {
+            "Latitude": "55.75506635",
+            "Longitude": "37.60996746756312"
+          }
+        },
+        "Aqi": {
+          "Value": 61.31584,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Никитская Б. улица 4",
+          "Coordinates": {
+            "Latitude": "55.75529145",
+            "Longitude": "37.61059347532532"
+          }
+        },
+        "Aqi": {
+          "Value": 61.87572,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Новодевичья набережная",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Новодевичья набережная 1",
+          "Coordinates": { "Latitude": "55.7285013", "Longitude": "37.5530336" }
+        },
+        "Aqi": {
+          "Value": 79.60232,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Новый Арбат",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Новый Арбат 1",
+          "Coordinates": { "Latitude": "55.7523324", "Longitude": "37.5981331" }
+        },
+        "Aqi": {
+          "Value": 42.8273,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Новый Арбат 2",
+          "Coordinates": {
+            "Latitude": "55.753233449999996",
+            "Longitude": "37.599471593180496"
+          }
+        },
+        "Aqi": {
+          "Value": 43.45244,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Новый Арбат 3",
+          "Coordinates": { "Latitude": "55.752705", "Longitude": "37.5983009" }
+        },
+        "Aqi": {
+          "Value": 43.50378,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Петровский бульвар",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Петровский бульвар 1",
+          "Coordinates": {
+            "Latitude": "55.76850465",
+            "Longitude": "37.61677876363887"
+          }
+        },
+        "Aqi": {
+          "Value": 60.76254,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Проспект Вернадского",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 1",
+          "Coordinates": { "Latitude": "55.6759093", "Longitude": "37.5046892" }
+        },
+        "Aqi": {
+          "Value": 61.393482,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 10",
+          "Coordinates": { "Latitude": "55.6879378", "Longitude": "37.5238912" }
+        },
+        "Aqi": {
+          "Value": 61.64944,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 11",
+          "Coordinates": { "Latitude": "55.6892922", "Longitude": "37.5302124" }
+        },
+        "Aqi": {
+          "Value": 61.31916,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 12",
+          "Coordinates": {
+            "Latitude": "55.68420025",
+            "Longitude": "37.51237070020576"
+          }
+        },
+        "Aqi": {
+          "Value": 61.21382,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 13",
+          "Coordinates": {
+            "Latitude": "55.6873789",
+            "Longitude": "37.52725021324737"
+          }
+        },
+        "Aqi": {
+          "Value": 61.31626,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 14",
+          "Coordinates": {
+            "Latitude": "55.67692915",
+            "Longitude": "37.50484011797856"
+          }
+        },
+        "Aqi": {
+          "Value": 61.42718,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 15",
+          "Coordinates": { "Latitude": "55.6866255", "Longitude": "37.5250315" }
+        },
+        "Aqi": {
+          "Value": 61.6132,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 16",
+          "Coordinates": {
+            "Latitude": "55.676239100000004",
+            "Longitude": "37.503643828885714"
+          }
+        },
+        "Aqi": {
+          "Value": 61.47388,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 17",
+          "Coordinates": { "Latitude": "55.6759093", "Longitude": "37.5046892" }
+        },
+        "Aqi": {
+          "Value": 60.99284,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 2",
+          "Coordinates": { "Latitude": "55.6759093", "Longitude": "37.5046892" }
+        },
+        "Aqi": {
+          "Value": 61.49058,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 3",
+          "Coordinates": { "Latitude": "55.681174", "Longitude": "37.5144358" }
+        },
+        "Aqi": {
+          "Value": 61.68274,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 4",
+          "Coordinates": {
+            "Latitude": "55.7036101",
+            "Longitude": "37.546584412581936"
+          }
+        },
+        "Aqi": {
+          "Value": 61.09904,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 5",
+          "Coordinates": {
+            "Latitude": "55.696345550000004",
+            "Longitude": "37.544306465476986"
+          }
+        },
+        "Aqi": {
+          "Value": 61.19844,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 6",
+          "Coordinates": { "Latitude": "55.6924316", "Longitude": "37.5286267" }
+        },
+        "Aqi": {
+          "Value": 61.52314,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 7",
+          "Coordinates": {
+            "Latitude": "55.6944695",
+            "Longitude": "37.540177629127186"
+          }
+        },
+        "Aqi": {
+          "Value": 61.40516,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 8",
+          "Coordinates": {
+            "Latitude": "55.69053165",
+            "Longitude": "37.5234145386715"
+          }
+        },
+        "Aqi": {
+          "Value": 61.2797,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Проспект Вернадского 9",
+          "Coordinates": { "Latitude": "55.6910376", "Longitude": "37.5330788" }
+        },
+        "Aqi": {
+          "Value": 61.55108,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Профсоюзная улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 1",
+          "Coordinates": {
+            "Latitude": "55.3791791",
+            "Longitude": "36.734998399999995"
+          }
+        },
+        "Aqi": {
+          "Value": 42.9843,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 10",
+          "Coordinates": {
+            "Latitude": "55.37767725",
+            "Longitude": "36.73521305"
+          }
+        },
+        "Aqi": {
+          "Value": 43.15682,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 11",
+          "Coordinates": {
+            "Latitude": "55.376681399999995",
+            "Longitude": "36.733711676412554"
+          }
+        },
+        "Aqi": {
+          "Value": 43.33102,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 12",
+          "Coordinates": {
+            "Latitude": "55.6854553",
+            "Longitude": "37.57013015"
+          }
+        },
+        "Aqi": {
+          "Value": 42.818718,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 13",
+          "Coordinates": {
+            "Latitude": "55.5788371",
+            "Longitude": "38.213339749999996"
+          }
+        },
+        "Aqi": {
+          "Value": 43.25,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 14",
+          "Coordinates": {
+            "Latitude": "55.3764436",
+            "Longitude": "36.736772725991855"
+          }
+        },
+        "Aqi": {
+          "Value": 43.08196,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 15",
+          "Coordinates": { "Latitude": "55.6790069", "Longitude": "37.5651416" }
+        },
+        "Aqi": {
+          "Value": 43.16872,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 16",
+          "Coordinates": {
+            "Latitude": "56.3300026",
+            "Longitude": "38.150039888539624"
+          }
+        },
+        "Aqi": {
+          "Value": 43.03328,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 17",
+          "Coordinates": {
+            "Latitude": "56.33026915",
+            "Longitude": "38.14957022399194"
+          }
+        },
+        "Aqi": {
+          "Value": 43.00544,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 18",
+          "Coordinates": {
+            "Latitude": "56.330197850000005",
+            "Longitude": "38.15018630989789"
+          }
+        },
+        "Aqi": {
+          "Value": 42.57518,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 19",
+          "Coordinates": {
+            "Latitude": "55.6784643",
+            "Longitude": "37.564280222217285"
+          }
+        },
+        "Aqi": {
+          "Value": 42.9424,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 2",
+          "Coordinates": {
+            "Latitude": "55.37850365",
+            "Longitude": "36.73559255"
+          }
+        },
+        "Aqi": {
+          "Value": 43.45722,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 20",
+          "Coordinates": {
+            "Latitude": "56.3303849",
+            "Longitude": "38.150377648229146"
+          }
+        },
+        "Aqi": {
+          "Value": 42.556778,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 3",
+          "Coordinates": {
+            "Latitude": "55.6857177",
+            "Longitude": "37.572405791205355"
+          }
+        },
+        "Aqi": {
+          "Value": 42.74134,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 4",
+          "Coordinates": {
+            "Latitude": "55.687042149999996",
+            "Longitude": "37.571899699999996"
+          }
+        },
+        "Aqi": {
+          "Value": 42.85256,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 5",
+          "Coordinates": {
+            "Latitude": "55.3860998",
+            "Longitude": "39.02933105936516"
+          }
+        },
+        "Aqi": {
+          "Value": 43.35866,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 6",
+          "Coordinates": {
+            "Latitude": "55.37871905",
+            "Longitude": "36.73395777717465"
+          }
+        },
+        "Aqi": {
+          "Value": 42.68652,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 7",
+          "Coordinates": {
+            "Latitude": "55.385965799999994",
+            "Longitude": "39.029085093228176"
+          }
+        },
+        "Aqi": {
+          "Value": 42.82116,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 8",
+          "Coordinates": {
+            "Latitude": "55.37822275",
+            "Longitude": "36.733664700000006"
+          }
+        },
+        "Aqi": {
+          "Value": 43.00394,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Профсоюзная улица 9",
+          "Coordinates": {
+            "Latitude": "55.68254305",
+            "Longitude": "37.56903696172455"
+          }
+        },
+        "Aqi": {
+          "Value": 43.20738,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Пятницкая улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Пятницкая улица 1",
+          "Coordinates": {
+            "Latitude": "56.1847096",
+            "Longitude": "36.960645087602174"
+          }
+        },
+        "Aqi": {
+          "Value": 60.86148,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Пятницкая улица 2",
+          "Coordinates": {
+            "Latitude": "56.18506764999999",
+            "Longitude": "36.96084025577679"
+          }
+        },
+        "Aqi": {
+          "Value": 61.62812,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Пятницкая улица 3",
+          "Coordinates": {
+            "Latitude": "55.87692995",
+            "Longitude": "37.3139439"
+          }
+        },
+        "Aqi": {
+          "Value": 61.54526,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Пятницкая улица 4",
+          "Coordinates": {
+            "Latitude": "56.1853146",
+            "Longitude": "36.9603146185879"
+          }
+        },
+        "Aqi": {
+          "Value": 61.5792,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Рождественский бульвар",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Рождественский бульвар 1",
+          "Coordinates": { "Latitude": "55.7666912", "Longitude": "37.6242465" }
+        },
+        "Aqi": {
+          "Value": 61.52274,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Садовая-каретная улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Садовая-каретная улица 1",
+          "Coordinates": { "Latitude": "55.7732161", "Longitude": "37.6089518" }
+        },
+        "Aqi": {
+          "Value": 43.5036,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Садовая-самотёчная улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Садовая-самотёчная улица 1",
+          "Coordinates": {
+            "Latitude": "55.774211199999996",
+            "Longitude": "37.61291880944127"
+          }
+        },
+        "Aqi": {
+          "Value": 43.20964,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Солженицына улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Солженицына улица 1",
+          "Coordinates": { "Latitude": "55.7421157", "Longitude": "37.655284" }
+        },
+        "Aqi": {
+          "Value": 43.07084,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Солженицына улица 2",
+          "Coordinates": { "Latitude": "55.7428607", "Longitude": "37.6516599" }
+        },
+        "Aqi": {
+          "Value": 43.26024,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Сретенский бульвар",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Сретенский бульвар 1",
+          "Coordinates": {
+            "Latitude": "55.76556815",
+            "Longitude": "37.63509604933666"
+          }
+        },
+        "Aqi": {
+          "Value": 42.9862,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Страстной бульвар",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Страстной бульвар 1",
+          "Coordinates": {
+            "Latitude": "55.76669765",
+            "Longitude": "37.60697244502567"
+          }
+        },
+        "Aqi": {
+          "Value": 61.24184,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Таганская улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Таганская улица 1",
+          "Coordinates": { "Latitude": "55.7416447", "Longitude": "37.6560071" }
+        },
+        "Aqi": {
+          "Value": 42.67016,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Таганская улица 2",
+          "Coordinates": {
+            "Latitude": "55.740803850000006",
+            "Longitude": "37.657670673526056"
+          }
+        },
+        "Aqi": {
+          "Value": 43.31594,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Тверская улица",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Тверская улица 1",
+          "Coordinates": {
+            "Latitude": "55.75578165",
+            "Longitude": "37.61490396465909"
+          }
+        },
+        "Aqi": {
+          "Value": 42.95012,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Тверская улица 2",
+          "Coordinates": {
+            "Latitude": "55.75840725",
+            "Longitude": "37.61480812085625"
+          }
+        },
+        "Aqi": {
+          "Value": 43.1148,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Тверская улица 3",
+          "Coordinates": {
+            "Latitude": "55.7573218",
+            "Longitude": "37.61295165228725"
+          }
+        },
+        "Aqi": {
+          "Value": 42.95718,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Тверская улица 4",
+          "Coordinates": { "Latitude": "55.7588779", "Longitude": "37.6126975" }
+        },
+        "Aqi": {
+          "Value": 42.94628,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Цветной бульвар",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Цветной бульвар 1",
+          "Coordinates": { "Latitude": "55.7697192", "Longitude": "37.6226149" }
+        },
+        "Aqi": {
+          "Value": 61.32438,
+          "Level": { "Name": "Moderate", "MinValue": 51.0, "Color": "#f5f647" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Щёлковское шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 1",
+          "Coordinates": {
+            "Latitude": "55.92776845",
+            "Longitude": "38.14970655975944"
+          }
+        },
+        "Aqi": {
+          "Value": 30.618639,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 10",
+          "Coordinates": {
+            "Latitude": "55.804393149999996",
+            "Longitude": "37.762233023457014"
+          }
+        },
+        "Aqi": {
+          "Value": 30.8874,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 11",
+          "Coordinates": {
+            "Latitude": "55.80560235",
+            "Longitude": "37.76133510296894"
+          }
+        },
+        "Aqi": {
+          "Value": 30.32338,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 2",
+          "Coordinates": {
+            "Latitude": "55.8237323",
+            "Longitude": "37.88935892337287"
+          }
+        },
+        "Aqi": {
+          "Value": 31.0152,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 3",
+          "Coordinates": {
+            "Latitude": "55.803677949999994",
+            "Longitude": "37.75390165510335"
+          }
+        },
+        "Aqi": {
+          "Value": 30.8459,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 4",
+          "Coordinates": {
+            "Latitude": "55.803791000000004",
+            "Longitude": "37.759750457762635"
+          }
+        },
+        "Aqi": {
+          "Value": 30.52874,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 5",
+          "Coordinates": {
+            "Latitude": "55.82176225",
+            "Longitude": "37.89079177290055"
+          }
+        },
+        "Aqi": {
+          "Value": 30.65272,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 6",
+          "Coordinates": {
+            "Latitude": "55.80401175",
+            "Longitude": "37.76040434297491"
+          }
+        },
+        "Aqi": {
+          "Value": 30.90916,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 7",
+          "Coordinates": {
+            "Latitude": "55.8049769",
+            "Longitude": "37.75761225777056"
+          }
+        },
+        "Aqi": {
+          "Value": 30.81266,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 8",
+          "Coordinates": {
+            "Latitude": "55.80424325",
+            "Longitude": "37.76124525446758"
+          }
+        },
+        "Aqi": {
+          "Value": 30.36488,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Щёлковское шоссе 9",
+          "Coordinates": {
+            "Latitude": "55.805674350000004",
+            "Longitude": "37.75895529483428"
+          }
+        },
+        "Aqi": {
+          "Value": 30.9499,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  },
+  {
+    "Street": "Энтузиастов шоссе",
+    "GeoData": [
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 1",
+          "Coordinates": {
+            "Latitude": "55.794719900000004",
+            "Longitude": "37.92810895126537"
+          }
+        },
+        "Aqi": {
+          "Value": 30.33498,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 10",
+          "Coordinates": {
+            "Latitude": "55.7928208",
+            "Longitude": "37.91787385000001"
+          }
+        },
+        "Aqi": {
+          "Value": 30.66842,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 11",
+          "Coordinates": {
+            "Latitude": "55.7516141",
+            "Longitude": "37.71370298241454"
+          }
+        },
+        "Aqi": {
+          "Value": 30.74892,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 12",
+          "Coordinates": {
+            "Latitude": "55.748768",
+            "Longitude": "37.705630215160554"
+          }
+        },
+        "Aqi": {
+          "Value": 30.6668,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 13",
+          "Coordinates": {
+            "Latitude": "55.7515614",
+            "Longitude": "37.714916096703924"
+          }
+        },
+        "Aqi": {
+          "Value": 30.56614,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 14",
+          "Coordinates": {
+            "Latitude": "55.749503000000004",
+            "Longitude": "37.71096643744963"
+          }
+        },
+        "Aqi": {
+          "Value": 31.2375,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 15",
+          "Coordinates": {
+            "Latitude": "55.7954197",
+            "Longitude": "37.93998805"
+          }
+        },
+        "Aqi": {
+          "Value": 30.8348,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 16",
+          "Coordinates": {
+            "Latitude": "55.750173000000004",
+            "Longitude": "37.712822671549006"
+          }
+        },
+        "Aqi": {
+          "Value": 31.06242,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 17",
+          "Coordinates": {
+            "Latitude": "55.7533069",
+            "Longitude": "37.72359105151314"
+          }
+        },
+        "Aqi": {
+          "Value": 31.0984,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 18",
+          "Coordinates": {
+            "Latitude": "55.750038849999996",
+            "Longitude": "37.71414659561141"
+          }
+        },
+        "Aqi": {
+          "Value": 30.82184,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 2",
+          "Coordinates": { "Latitude": "55.7464187", "Longitude": "37.683244" }
+        },
+        "Aqi": {
+          "Value": 30.69766,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 3",
+          "Coordinates": {
+            "Latitude": "55.85732925",
+            "Longitude": "38.45764237644155"
+          }
+        },
+        "Aqi": {
+          "Value": 30.85016,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 4",
+          "Coordinates": {
+            "Latitude": "55.858237599999995",
+            "Longitude": "38.46326014747029"
+          }
+        },
+        "Aqi": {
+          "Value": 30.9989,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 5",
+          "Coordinates": {
+            "Latitude": "55.85696375",
+            "Longitude": "38.45859952249018"
+          }
+        },
+        "Aqi": {
+          "Value": 30.68102,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 6",
+          "Coordinates": { "Latitude": "55.7896048", "Longitude": "37.9124125" }
+        },
+        "Aqi": {
+          "Value": 30.44082,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 7",
+          "Coordinates": {
+            "Latitude": "55.74864465",
+            "Longitude": "37.700233449208575"
+          }
+        },
+        "Aqi": {
+          "Value": 30.83326,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 8",
+          "Coordinates": {
+            "Latitude": "55.8582534",
+            "Longitude": "38.4647721770649"
+          }
+        },
+        "Aqi": {
+          "Value": 30.73774,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      },
+      {
+        "Sensor": {
+          "Address": "Энтузиастов шоссе 9",
+          "Coordinates": {
+            "Latitude": "55.75110315",
+            "Longitude": "37.711816500307506"
+          }
+        },
+        "Aqi": {
+          "Value": 30.90308,
+          "Level": { "Name": "Good", "MinValue": 0.0, "Color": "#46e346" }
+        }
+      }
+    ]
+  }
+]

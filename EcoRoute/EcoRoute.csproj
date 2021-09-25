@@ -6,6 +6,8 @@
 
     <ItemGroup>
       <ProjectReference Include="..\EcoRoute.Common\EcoRoute.Common.csproj" />
+      <ProjectReference Include="..\EcoRoute.Data\EcoRoute.Data.csproj" />
+      <ProjectReference Include="..\EcoRoute.Infrastructure\EcoRoute.Infrastructure.csproj" />
       <ProjectReference Include="..\EcoRoute.MapBox.Interop\EcoRoute.MapBox.Interop.csproj" />
     </ItemGroup>
 
@@ -15,7 +17,8 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Services" />
+      <Content Remove="Data\analyzed_data.json" />
+      <None Include="Data\analyzed_data.json" />
     </ItemGroup>
 
 </Project>

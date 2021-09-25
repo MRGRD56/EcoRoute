@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using CsvHelper;
 using EcoRoute.Data.Mapping;
 using EcoRoute.Infrastructure.Models;
+using Newtonsoft.Json;
 using OfficeOpenXml;
 
 namespace EcoRoute.Data
@@ -46,12 +47,12 @@ namespace EcoRoute.Data
                     humidity: cells[row, 3].GetValue<float>(),
                     co2: cells[row, 4].GetValue<float>(),
                     los: cells[row, 5].GetValue<float>(),
-                    dustPm1: cells[row, 6].GetValue<float>(),
-                    dustPm25: cells[row, 7].GetValue<float>(),
-                    dustPm10: cells[row, 8].GetValue<float>(),
+                    dustPm1: cells[row, 6].GetValue<float?>(),
+                    dustPm25: cells[row, 7].GetValue<float?>(),
+                    dustPm10: cells[row, 8].GetValue<float?>(),
                     pressure: cells[row, 9].GetValue<float>(),
-                    aqi: cells[row, 9].GetValue<float>(),
-                    formaldehyde: cells[row, 10].GetValue<float>());
+                    aqi: cells[row, 10].GetValue<float>(),
+                    formaldehyde: cells[row, 11].GetValue<float>());
                 
                 sensorDataList.Add(sensorData);
             }
@@ -83,9 +84,13 @@ namespace EcoRoute.Data
             return ParseExcelPackage(excelPackage, path);
         }
 
-        public static List<SensorData> ParseExcelFilesFolder(string folderPath, Action<int, int> progressCallback = null)
+        public static List<SensorData> ParseExcelFilesFolder(string folderPath, int? filesLimit = null, Action<int, int> progressCallback = null)
         {
             var files = Directory.GetFiles(folderPath, "*.xlsx");
+            if (filesLimit != null)
+            {
+                files = files.Take(filesLimit.Value).ToArray();
+            }
             var filesCount = files.Length;
             var progress = 0;
 
@@ -118,6 +123,18 @@ namespace EcoRoute.Data
             using var csvReader = new CsvReader(streamReader, CultureInfo.InvariantCulture);
             csvReader.Context.RegisterClassMap<SensorDataMap>();
             return csvReader.GetRecords<SensorData>().ToList();
+        }
+
+        public static List<AnalyzedSensorsData> ParseAnalyzedJson(string filePath)
+        {
+            var json = File.ReadAllText(filePath);
+            return JsonConvert.DeserializeObject<List<AnalyzedSensorsData>>(json);
+        }
+        
+        public static async Task<List<AnalyzedSensorsData>> ParseAnalyzedJsonAsync(string filePath)
+        {
+            var json = await File.ReadAllTextAsync(filePath);
+            return JsonConvert.DeserializeObject<List<AnalyzedSensorsData>>(json);
         }
     }
 }

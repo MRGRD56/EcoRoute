@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentsConverter", "Docum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoRoute.MapBox.Models", "EcoRoute.MapBox.Models\EcoRoute.MapBox.Models.csproj", "{A0292533-8C20-4DDB-92CB-16DE4F72772C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenStreetMap.Interop", "OpenStreetMap.Interop\OpenStreetMap.Interop.csproj", "{105D0456-8137-42D9-BEFE-C4B09A588C7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,5 +66,9 @@ Global
 		{A0292533-8C20-4DDB-92CB-16DE4F72772C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0292533-8C20-4DDB-92CB-16DE4F72772C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0292533-8C20-4DDB-92CB-16DE4F72772C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{105D0456-8137-42D9-BEFE-C4B09A588C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105D0456-8137-42D9-BEFE-C4B09A588C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105D0456-8137-42D9-BEFE-C4B09A588C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105D0456-8137-42D9-BEFE-C4B09A588C7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
