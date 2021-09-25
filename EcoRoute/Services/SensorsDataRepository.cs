@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using EcoRoute.Data;
 using EcoRoute.Infrastructure.Models;
 
@@ -14,5 +15,20 @@ namespace EcoRoute.Services
         }
         
         public List<AnalyzedSensorsData> AnalyzedSensorsData => _analyzedSensorsData;
+
+        public AnalyzedSensorsData FindDataById(string id)
+        {
+            if (id == null)
+            {
+                return null;
+            }
+            
+            if (int.TryParse(id, out var numericId))
+            {
+                return AnalyzedSensorsData.ElementAtOrDefault(numericId);
+            }
+
+            return AnalyzedSensorsData.FirstOrDefault(d => d.Street.ToLower() == id.ToLower());
+        }
     }
 }
