@@ -42,7 +42,19 @@ namespace EcoRoute.Controllers
                 else
                 {
                     var fromPlace = await _openStreetMapClient.SearchFirst(query: from);
+
+                    if (fromPlace == null)
+                    {
+                        return BadRequest($"Место не найдено: {from}");
+                    }
+                    
                     var toPlace = await _openStreetMapClient.SearchFirst(query: to);
+                    
+                    if (toPlace == null)
+                    {
+                        return BadRequest($"Место не найдено: {to}");
+                    }
+                    
                     coordinates = string.Join(";",
                         new Coordinates(fromPlace.Latitude, fromPlace.Longitude),
                         new Coordinates(toPlace.Latitude, toPlace.Longitude));
