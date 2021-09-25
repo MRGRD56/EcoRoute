@@ -10,6 +10,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using OpenStreetMap.Interop;
 
 namespace EcoRoute
 {
@@ -30,6 +31,7 @@ namespace EcoRoute
             
             var mapBoxAccessToken = _configuration["MapBox:Token"];
             services.AddSingleton<IMapBoxClient>(new MapBoxClient(mapBoxAccessToken));
+            services.AddSingleton<OpenStreetMapClient>();
             services.AddSingleton<SensorsDataRepository>();
         }
 

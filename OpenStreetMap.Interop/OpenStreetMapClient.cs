@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
@@ -51,6 +52,18 @@ namespace OpenStreetMap.Interop
             var requestUri = new Uri("search?" + queryString, UriKind.Relative);
             var response = await HttpClient.GetAsync<List<Place>>(requestUri);
             return response;
+        }
+
+        public async Task<Place> SearchFirst(
+            string query = null,
+            string street = null,
+            string city = null,
+            string country = null,
+            string state = null,
+            string postalCode = null)
+        {
+            var places = await Search(query, street, city, country, state, postalCode);
+            return places.FirstOrDefault();
         }
     }
 }
