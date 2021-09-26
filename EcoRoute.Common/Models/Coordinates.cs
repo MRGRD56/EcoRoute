@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.Text.RegularExpressions;
 
 namespace EcoRoute.Common.Models
@@ -8,6 +9,11 @@ namespace EcoRoute.Common.Models
         string Longitude)
     {
         public string[] AsArray() => new[] { Latitude, Longitude };
+        public decimal[] AsNumbersArray() => new[] 
+        { 
+            decimal.Parse(Latitude, CultureInfo.InvariantCulture), 
+            decimal.Parse(Longitude, CultureInfo.InvariantCulture) 
+        };
 
         public static Coordinates Parse(string coordinatesString)
         {
@@ -42,7 +48,8 @@ namespace EcoRoute.Common.Models
                 return false;
             }
 
-            return decimal.TryParse(split[0], out _) && decimal.TryParse(split[1], out _);
+            return decimal.TryParse(split[0], NumberStyles.Any, CultureInfo.InvariantCulture, out _) && 
+                   decimal.TryParse(split[1], NumberStyles.Any, CultureInfo.InvariantCulture, out _);
         }
 
         public override string ToString() => $"{Latitude},{Longitude}";

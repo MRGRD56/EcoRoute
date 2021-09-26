@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Linq;
 using System.Threading.Tasks;
 using EcoRoute.Common.Models;
 using EcoRoute.MapBox.Interop;
@@ -27,17 +28,22 @@ namespace EcoRoute.Controllers
         public async Task<IActionResult> Get(
             [Required] string profile, 
             [Required] string from,
-            [Required] string to)
+            [Required] string to,
+            string detours)
         {
             try
             {
                 var isCoordinates = Coordinates.IsCoordinates(from) && 
                                     Coordinates.IsCoordinates(to);
                 
-                string coordinates;
+                Coordinates[] coordinates;
                 if (isCoordinates)
                 {
-                    coordinates = string.Join(";", from, to);
+                    coordinates = new[]
+                    {
+                        Coordinates.Parse(from), 
+                        Coordinates.Parse(to)
+                    };
                 }
                 else
                 {
@@ -55,16 +61,42 @@ namespace EcoRoute.Controllers
                         return BadRequest($"Место не найдено: {to}");
                     }
                     
-                    coordinates = string.Join(";",
+                    coordinates = new[] 
+                    {
                         new Coordinates(fromPlace.Latitude, fromPlace.Longitude),
-                        new Coordinates(toPlace.Latitude, toPlace.Longitude));
+                        new Coordinates(toPlace.Latitude, toPlace.Longitude)
+                    };
                 }
 
-                return Ok(await _mapBoxClient.GetDirectionsAsync("mapbox/" + profile, coordinates));
+                var coordinatesList = coordinates.Select(c => c.ToString()).ToList();
+                if (!string.IsNullOrWhiteSpace(detours))
+                {
+                    coordinatesList.Insert(1, detours);
+                }
+                var coordinatesString = string.Join(";", coordinatesList);
+
+                var directions = await _mapBoxClient.GetDirectionsAsync("mapbox/" + profile, coordinatesString);
+                var result = new
+                {
+                    From = coordinates[0].AsNumbersArray(),
+                    To = coordinates[1].AsNumbersArray(),
+                    Duration = directions["routes"]?[0]?.Value<double>("duration"),
+                    Distance = directions["routes"]?[0]?.Value<double>("distance"),
+                    Coordinates = directions["routes"]?[0]?["geometry"]?["coordinates"]
+                };
+                return Ok(result);
             }
-            catch (HttpException exception)
+            catch (Exception exception)
             {
-                return BadRequest(await exception.Response.Content.ReadAsStringAsync());
+                switch (exception)
+                {
+                    case HttpException httpException:
+                        return BadRequest(await httpException.Response.Content.ReadAsStringAsync());
+                    case FormatException:
+                        return BadRequest("Invalid coordinates");
+                    default:
+                        throw;
+                }
             }
         }
     }
